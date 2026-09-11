@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="와 싸다구의 오늘의 추천 상품 목록">
+  <title>와 싸다구 | 오늘의 추천템</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+      background: #f7f7f8;
+      color: #172033;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    .page { max-width: 620px; margin: 0 auto; padding: 32px 18px 48px; }
+    .brand { text-align: center; margin-bottom: 28px; }
+    .brand h1 { margin: 0; font-size: 26px; }
+    .brand p { margin: 9px 0 0; color: #687386; line-height: 1.5; }
+    .cards { display: grid; gap: 14px; }
+    .card {
+      display: flex;
+      gap: 14px;
+      align-items: center;
+      padding: 12px;
+      background: #fff;
+      border: 1px solid #e7e9ed;
+      border-radius: 18px;
+      box-shadow: 0 4px 14px #1720330d;
+      text-decoration: none;
+      color: inherit;
+    }
+    .card:hover { border-color: #ff6a3d; }
+    .card img, .card-image {
+      width: 88px;
+      height: 88px;
+      flex: 0 0 88px;
+      border-radius: 13px;
+      object-fit: cover;
+      background: #eef0f3;
+    }
+    .card h2 { font-size: 16px; line-height: 1.35; margin: 0 0 7px; }
+    .meta { font-size: 14px; font-weight: 700; }
+    .sub { margin-top: 5px; color: #687386; font-size: 12px; }
+    .empty { text-align: center; background: #fff; border-radius: 18px; padding: 34px 18px; color: #687386; }
+    .disclosure { margin: 28px 4px 0; color: #8a93a2; font-size: 11px; line-height: 1.5; text-align: center; }
+    .error { color: #a33a25; }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header class="brand">
+      <h1 id="title">와 싸다구 | 오늘의 추천템</h1>
+      <p id="description">가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.</p>
+    </header>
+    <section id="items" class="cards" aria-label="추천 상품"></section>
+    <p class="disclosure">이 페이지에는 제휴 링크가 포함될 수 있으며, 링크를 통해 구매하면 일정액의 수수료를 제공받을 수 있습니다.</p>
+  </main>
+  <script>
+    const itemsElement = document.getElementById('items');
+
+    function safeUrl(value) {
+      try {
+        const url = new URL(value);
+        return url.protocol === 'http:' || url.protocol === 'https:' ? url.href : '';
+      } catch (_) {
+        return '';
+      }
+    }
+
+    function renderItem(item) {
+      const link = safeUrl(item.sharelink_url || item.sharelinkUrl);
+      if (!link || !item.name) return null;
+
+      const card = document.createElement('a');
+      card.className = 'card';
+      card.href = link;
+      card.target = '_blank';
+      card.rel = 'nofollow sponsored noopener';
+
+      const image = safeUrl(item.image_url || item.imageUrl);
+      if (image) {
+        const element = document.createElement('img');
+        element.src = image;
+        element.alt = item.name;
+        element.loading = 'lazy';
+        card.appendChild(element);
+      } else {
+        const element = document.createElement('div');
+        element.className = 'card-image';
+        element.setAttribute('aria-hidden', 'true');
+        card.appendChild(element);
+      }
+
+      const content = document.createElement('div');
+      const name = document.createElement('h2');
+      name.textContent = item.name;
+      content.appendChild(name);
+
+      const meta = document.createElement('div');
+      meta.className = 'meta';
+      const facts = [item.price, item.discount].filter(Boolean);
+      meta.textContent = facts.join(' · ');
+      content.appendChild(meta);
+
+      if (item.review) {
+        const review = document.createElement('div');
+        review.className = 'sub';
+        review.textContent = item.review;
+        content.appendChild(review);
+      }
+      card.appendChild(content);
+      return card;
+    }
+
+    async function loadItems() {
+      try {
+        const response = await fetch('./index.json?ts=' + Date.now(), { cache: 'no-store' });
+        if (!response.ok) throw new Error('상품 목록을 불러오지 못했습니다.');
+        const data = await response.json();
+        if (data.title) document.getElementById('title').textContent = data.title;
+        if (data.description) document.getElementById('description').textContent = data.description;
+        const cards = (Array.isArray(data.items) ? data.items : [])
+          .map(renderItem)
+          .filter(Boolean);
+        if (cards.length === 0) {
+          const empty = document.createElement('div');
+          empty.className = 'empty';
+          empty.textContent = '새로운 추천템을 준비 중이에요.';
+          itemsElement.appendChild(empty);
+          return;
+        }
+        cards.forEach((card) => itemsElement.appendChild(card));
+      } catch (error) {
+        const message = document.createElement('div');
+        message.className = 'empty error';
+        message.textContent = '상품 목록을 잠시 불러오지 못했어요. 조금 뒤 다시 확인해주세요.';
+        itemsElement.appendChild(message);
+      }
+    }
+
+    loadItems();
+  </script>
+</body>
+</html>

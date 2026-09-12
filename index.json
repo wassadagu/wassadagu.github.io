@@ -3,6 +3,15 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18461361889143089",
+      "name": "파파네정육점 통삼겹살, 수육용, 1kg, 1개",
+      "price": "13095원",
+      "discount": "할인 38%",
+      "review": "리뷰 4.3 (214)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/ZmE1YzJk/R2xWWWJHVkNYWkZzZWRHdlpZMjVtVW5ZTUZqVW5NUERuU3dPakhMU25HTT0.png",
+      "sharelink_url": "https://toss.im/_m/PbXHDKad"
+    },
+    {
       "media_id": "18433734772183366",
       "name": "메이홉 바디트리머, MA-0400, 오로라 화이트, 1개",
       "price": "34800원",

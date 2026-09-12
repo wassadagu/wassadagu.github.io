@@ -20,6 +20,21 @@
     .brand-logo { width: 92px; height: 92px; display: block; margin: 0 auto 14px; border-radius: 50%; object-fit: contain; }
     .brand h1 { margin: 0; font-size: 26px; }
     .brand p { margin: 9px 0 0; color: #687386; line-height: 1.5; }
+    .search { display: block; margin: 0 0 10px; }
+    .search input {
+      width: 100%;
+      padding: 13px 16px;
+      border: 1px solid #dfe3e9;
+      border-radius: 14px;
+      background: #fff;
+      color: #172033;
+      font: inherit;
+      outline: none;
+      box-shadow: 0 4px 14px #1720330d;
+    }
+    .search input:focus { border-color: #ff6a3d; box-shadow: 0 0 0 3px #ff6a3d1f; }
+    .search input::placeholder { color: #9aa3b1; }
+    .result-count { margin: 0 4px 10px; color: #8a93a2; font-size: 12px; }
     .cards { display: grid; gap: 14px; }
     .card {
       display: flex;
@@ -68,6 +83,10 @@
       <h1 id="title">와 싸다구 | 오늘의 추천템</h1>
       <p id="description">가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.</p>
     </header>
+    <label class="search" for="item-search">
+      <input id="item-search" type="search" placeholder="상품명이나 브랜드명을 검색해보세요" autocomplete="off">
+    </label>
+    <p id="result-count" class="result-count" aria-live="polite"></p>
     <section id="items" class="cards" aria-label="추천 상품"></section>
     <section class="coupang-box" aria-label="쿠팡 상품 검색">
       <h2>쿠팡에서 상품 찾아보기</h2>
@@ -81,6 +100,9 @@
   </main>
   <script>
     const itemsElement = document.getElementById('items');
+    const searchElement = document.getElementById('item-search');
+    const resultCountElement = document.getElementById('result-count');
+    let allItems = [];
 
     function safeUrl(value) {
       try {
@@ -137,6 +159,38 @@
       return card;
     }
 
+    function renderItems(items) {
+      itemsElement.replaceChildren();
+      resultCountElement.textContent = `상품 ${items.length}개`;
+      const cards = items.map(renderItem).filter(Boolean);
+      if (cards.length === 0) {
+        const empty = document.createElement('div');
+        empty.className = 'empty';
+        empty.textContent = searchElement.value.trim()
+          ? '검색 결과가 없어요.'
+          : '새로운 추천템을 준비 중이에요.';
+        itemsElement.appendChild(empty);
+        return;
+      }
+      cards.forEach((card) => itemsElement.appendChild(card));
+    }
+
+    function filterItems() {
+      const query = searchElement.value.trim().toLocaleLowerCase();
+      if (!query) {
+        renderItems(allItems);
+        return;
+      }
+      const filtered = allItems.filter((item) =>
+        [item.name, item.price, item.discount, item.review, item.platform, item.keywords]
+          .filter(Boolean)
+          .join(' ')
+          .toLocaleLowerCase()
+          .includes(query)
+      );
+      renderItems(filtered);
+    }
+
     async function loadItems() {
       try {
         const response = await fetch('./index.json?ts=' + Date.now(), { cache: 'no-store' });
@@ -144,17 +198,8 @@
         const data = await response.json();
         if (data.title) document.getElementById('title').textContent = data.title;
         if (data.description) document.getElementById('description').textContent = data.description;
-        const cards = (Array.isArray(data.items) ? data.items : [])
-          .map(renderItem)
-          .filter(Boolean);
-        if (cards.length === 0) {
-          const empty = document.createElement('div');
-          empty.className = 'empty';
-          empty.textContent = '새로운 추천템을 준비 중이에요.';
-          itemsElement.appendChild(empty);
-          return;
-        }
-        cards.forEach((card) => itemsElement.appendChild(card));
+        allItems = Array.isArray(data.items) ? data.items : [];
+        renderItems(allItems);
       } catch (error) {
         const message = document.createElement('div');
         message.className = 'empty error';
@@ -163,6 +208,7 @@
       }
     }
 
+    searchElement.addEventListener('input', filterItems);
     loadItems();
   </script>
 </body>

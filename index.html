@@ -182,7 +182,7 @@
         return;
       }
       const filtered = allItems.filter((item) =>
-        [item.name, item.price, item.discount, item.review, item.platform, item.keywords]
+        [item.name, item.platform, item.keywords]
           .filter(Boolean)
           .join(' ')
           .toLocaleLowerCase()

@@ -3,6 +3,15 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18071948342539004",
+      "name": "에브리워터 무라벨, 2L, 24개",
+      "price": "11980원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.7 (2805)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/Y2M1OWIz/VnNiTVcrRnhjaGtmbW1IbWltM2N3L1hCTmpBUnVpTTdtbkg5aDF4SGlQND0.png",
+      "sharelink_url": "https://toss.im/_m/l1K7gdut"
+    },
+    {
       "media_id": "18123299314869624",
       "name": "반할만떡 당면만두, 420g, 4개",
       "price": "10900원",

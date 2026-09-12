@@ -3,6 +3,15 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17914239042261949",
+      "name": "리쥬베닐 파이토베리어 호호바 EGF 크림, 100g, 1개",
+      "price": "12900원",
+      "discount": "할인 74%",
+      "review": "리뷰 4.8 (234)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/N2YxZWI3/QUlReTNtdyt4MjErMHNlMG5Gc2hwSWxDUXB5R2Y4SEhyNk5jSGp0Tk91TFE.png",
+      "sharelink_url": "https://toss.im/_m/xziSXFry"
+    },
+    {
       "media_id": "18138732646613821",
       "name": "이모뜰 국내산 샤인머스캣, 4-6수 내외, 2kg, 1개",
       "price": "11900원",

@@ -182,11 +182,7 @@
         return;
       }
       const filtered = allItems.filter((item) =>
-        [item.name, item.platform, item.keywords]
-          .filter(Boolean)
-          .join(' ')
-          .toLocaleLowerCase()
-          .includes(query)
+        String(item.name || '').toLocaleLowerCase().includes(query)
       );
       renderItems(filtered);
     }

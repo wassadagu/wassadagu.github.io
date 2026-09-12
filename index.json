@@ -3,6 +3,15 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17969243316148922",
+      "name": "슈가로로 애사비 스파클링 플러스 자몽, 500ml, 24개",
+      "price": "12900원",
+      "discount": "할인 82%",
+      "review": "리뷰 4.7 (127)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-04-10/e91e2fd2-0e1a-49c1-a6ef-854be1b7d1ba.jpeg",
+      "sharelink_url": "https://toss.im/_m/FbzidQVg"
+    },
+    {
       "media_id": "18127493617802072",
       "name": "고무장갑, 대(L), 5개",
       "price": "7899원",

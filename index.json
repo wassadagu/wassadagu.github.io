@@ -3,6 +3,15 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18127493617802072",
+      "name": "고무장갑, 대(L), 5개",
+      "price": "7899원",
+      "discount": "할인 60%",
+      "review": "리뷰 0.0 (0)",
+      "image_url": "https://shopping.toss.im/live/temp/2025-08-14/e435fef2-ec05-4edd-b352-bfc928f94ddb.jpeg",
+      "sharelink_url": "https://toss.im/_m/LdRYelUz"
+    },
+    {
       "media_id": "18461361889143089",
       "name": "파파네정육점 통삼겹살, 수육용, 1kg, 1개",
       "price": "13095원",

@@ -1,5 +1,15 @@
 {
   "title": "와 싸다구 | 오늘의 추천템",
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
-  "items": []
+  "items": [
+    {
+      "media_id": "18101020325366349",
+      "name": "국내산 햇 황금배 실속형, 중소과, 4kg, 1박스",
+      "price": "8900원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.4 (84)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-08-26/d88f847b-409b-4ed3-ae00-6da7744b796a.jpeg",
+      "sharelink_url": "https://toss.im/_m/hEnxcNDd"
+    }
+  ]
 }

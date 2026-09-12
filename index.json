@@ -3,6 +3,15 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18028879253850258",
+      "name": "수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",
+      "price": "2490원",
+      "discount": "할인 93%",
+      "review": "리뷰 4.8 (280)",
+      "image_url": "https://shopping.toss.im/live/temp/2025-07-23/d282d6f9-2583-4c2a-84c2-6927db02a36a.jpeg",
+      "sharelink_url": "https://toss.im/_m/1AAJnPar"
+    },
+    {
       "media_id": "17969243316148922",
       "name": "슈가로로 애사비 스파클링 플러스 자몽, 500ml, 24개",
       "price": "12900원",

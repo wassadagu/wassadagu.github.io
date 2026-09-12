@@ -42,7 +42,8 @@
       object-fit: cover;
       background: #eef0f3;
     }
-    .card h2 { font-size: 16px; line-height: 1.35; margin: 0 0 7px; }
+    .card-content { min-width: 0; flex: 1; }
+    .card h2 { min-height: 43px; font-size: 16px; line-height: 1.35; margin: 0 0 7px; }
     .meta { font-size: 14px; font-weight: 700; }
     .sub { margin-top: 5px; color: #687386; font-size: 12px; }
     .empty { text-align: center; background: #fff; border-radius: 18px; padding: 34px 18px; color: #687386; }
@@ -115,6 +116,7 @@
       }
 
       const content = document.createElement('div');
+      content.className = 'card-content';
       const name = document.createElement('h2');
       name.textContent = item.name;
       content.appendChild(name);

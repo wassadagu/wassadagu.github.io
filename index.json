@@ -3,6 +3,15 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18098535266638569",
+      "name": "시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",
+      "price": "5000원",
+      "discount": "할인 68%",
+      "review": "리뷰 4.7 (24665)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-04-24/c7c3c65f-9b78-4306-87fa-7efa41be18db.jpeg",
+      "sharelink_url": "https://toss.im/_m/HOgFdpDi"
+    },
+    {
       "media_id": "18028879253850258",
       "name": "수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",
       "price": "2490원",

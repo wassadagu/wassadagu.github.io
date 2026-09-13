@@ -10,7 +10,8 @@
       "sharelink_url": "https://link.coupang.com/a/gYVWewTZfg",
       "published_at": "2026-09-13T07:00:13Z",
       "product_number": 3,
-      "item_id": "manual-68747470733a2f2f6c696e6b2e636f7570616e672e636f6d2f612f675956576577545a6667"
+      "item_id": "manual-68747470733a2f2f6c696e6b2e636f7570616e672e636f6d2f612f675956576577545a6667",
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18338317228255236",
@@ -22,7 +23,8 @@
       "sharelink_url": "https://toss.im/_m/ZJwZrN0w",
       "published_at": "2026-09-13T07:00:12Z",
       "product_number": 15,
-      "item_id": "417658091"
+      "item_id": "417658091",
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "17957355729239751",
@@ -34,7 +36,8 @@
       "sharelink_url": "https://toss.im/_m/b20NqtB8",
       "published_at": "2026-09-13T07:00:10Z",
       "product_number": 16,
-      "item_id": "101754311"
+      "item_id": "101754311",
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18184012534416806",
@@ -46,7 +49,8 @@
       "sharelink_url": "https://toss.im/_m/PQalmhJ5",
       "published_at": "2026-09-13T07:00:09Z",
       "product_number": 17,
-      "item_id": "2183622489"
+      "item_id": "2183622489",
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18034875158651080",
@@ -58,7 +62,8 @@
       "sharelink_url": "https://toss.im/_m/Tldviif8",
       "published_at": "2026-09-13T07:00:07Z",
       "product_number": 18,
-      "item_id": "2281418341"
+      "item_id": "2281418341",
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "17911059543545076",
@@ -70,7 +75,8 @@
       "sharelink_url": "https://toss.im/_m/BmiEaimC",
       "published_at": "2026-09-13T07:00:06Z",
       "product_number": 19,
-      "item_id": "2579196295"
+      "item_id": "2579196295",
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "17986831074103036",
@@ -82,7 +88,8 @@
       "sharelink_url": "https://toss.im/_m/zs0cF42b",
       "published_at": "2026-09-13T07:00:05Z",
       "product_number": 20,
-      "item_id": "171154381"
+      "item_id": "171154381",
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "17898878814386510",
@@ -94,7 +101,8 @@
       "sharelink_url": "https://toss.im/_m/bmTWSB8A",
       "published_at": "2026-09-13T07:00:04Z",
       "product_number": 21,
-      "item_id": "446375191"
+      "item_id": "446375191",
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "17860934220694000",
@@ -106,7 +114,8 @@
       "sharelink_url": "https://toss.im/_m/ZUHbY0zi",
       "published_at": "2026-09-13T07:00:02Z",
       "product_number": 22,
-      "item_id": "148065759"
+      "item_id": "148065759",
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18024086036883096",
@@ -118,7 +127,8 @@
       "review": "리뷰 4.6 (772)",
       "image_url": "https://shopping.toss.im/live/taca/ai/MTllZDNm/QTR6RmhFcGNPQW1hRkUzbk5sUGJpQ1NhMzIydHROall4V0dDSndWTHIvND0.png",
       "sharelink_url": "https://toss.im/_m/DzHVPk9A",
-      "product_number": 26
+      "product_number": 26,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18127427785749669",
@@ -130,7 +140,8 @@
       "review": "리뷰 4.6 (2920)",
       "image_url": "https://shopping.toss.im/live/taca/ai/ZDJkNTQz/WHIrYmkydUdhOFRjaEc0bGRBTm9FdExleGhkZFB4eG9OZGprMkdocVp6VT0.png",
       "sharelink_url": "https://toss.im/_m/lSDsW3Hy",
-      "product_number": 25
+      "product_number": 25,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18087989291434580",
@@ -141,7 +152,8 @@
       "image_url": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
       "sharelink_url": "https://toss.im/_m/tRpMWrj2",
       "published_at": "2026-09-12T19:46:53Z",
-      "product_number": 14
+      "product_number": 14,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "17914239042261949",
@@ -152,7 +164,8 @@
       "image_url": "https://shopping.toss.im/live/taca/ai/N2YxZWI3/QUlReTNtdyt4MjErMHNlMG5Gc2hwSWxDUXB5R2Y4SEhyNk5jSGp0Tk91TFE.png",
       "sharelink_url": "https://toss.im/_m/xziSXFry",
       "published_at": "2026-09-12T19:32:23Z",
-      "product_number": 13
+      "product_number": 13,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18138732646613821",
@@ -163,7 +176,8 @@
       "image_url": "https://shopping.toss.im/live/taca/ai/v2/NTJjYzUy/QU52SkgyT2xhWFdwY2VOclFVd244eVY1MGxTYXFkWHRuQWlHZ0NhV0ZodmE.png",
       "sharelink_url": "https://toss.im/_m/fuduDD61",
       "published_at": "2026-09-12T19:17:07Z",
-      "product_number": 12
+      "product_number": 12,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18098535266638569",
@@ -174,7 +188,8 @@
       "image_url": "https://shopping.toss.im/live/temp/2026-04-24/c7c3c65f-9b78-4306-87fa-7efa41be18db.jpeg",
       "sharelink_url": "https://toss.im/_m/HOgFdpDi",
       "published_at": "2026-09-12T19:02:19Z",
-      "product_number": 11
+      "product_number": 11,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18028879253850258",
@@ -185,7 +200,8 @@
       "image_url": "https://shopping.toss.im/live/temp/2025-07-23/d282d6f9-2583-4c2a-84c2-6927db02a36a.jpeg",
       "sharelink_url": "https://toss.im/_m/1AAJnPar",
       "published_at": "2026-09-12T18:47:03Z",
-      "product_number": 10
+      "product_number": 10,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "17969243316148922",
@@ -196,7 +212,8 @@
       "image_url": "https://shopping.toss.im/live/temp/2026-04-10/e91e2fd2-0e1a-49c1-a6ef-854be1b7d1ba.jpeg",
       "sharelink_url": "https://toss.im/_m/FbzidQVg",
       "published_at": "2026-09-12T18:32:03Z",
-      "product_number": 9
+      "product_number": 9,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18127493617802072",
@@ -207,7 +224,8 @@
       "image_url": "https://shopping.toss.im/live/temp/2025-08-14/e435fef2-ec05-4edd-b352-bfc928f94ddb.jpeg",
       "sharelink_url": "https://toss.im/_m/LdRYelUz",
       "published_at": "2026-09-12T18:17:59Z",
-      "product_number": 8
+      "product_number": 8,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18461361889143089",
@@ -218,7 +236,8 @@
       "image_url": "https://shopping.toss.im/live/taca/ai/ZmE1YzJk/R2xWWWJHVkNYWkZzZWRHdlpZMjVtVW5ZTUZqVW5NUERuU3dPakhMU25HTT0.png",
       "sharelink_url": "https://toss.im/_m/PbXHDKad",
       "published_at": "2026-09-12T18:02:19Z",
-      "product_number": 7
+      "product_number": 7,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18433734772183366",
@@ -229,7 +248,8 @@
       "image_url": "https://shopping.toss.im/live/temp/2026-08-24/eb34e696-dad0-4ba7-af96-0fc35170de17.png",
       "sharelink_url": "https://toss.im/_m/zTsQDhId",
       "published_at": "2026-09-12T17:47:46Z",
-      "product_number": 6
+      "product_number": 6,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18071948342539004",
@@ -240,7 +260,8 @@
       "image_url": "https://shopping.toss.im/live/taca/ai/Y2M1OWIz/VnNiTVcrRnhjaGtmbW1IbWltM2N3L1hCTmpBUnVpTTdtbkg5aDF4SGlQND0.png",
       "sharelink_url": "https://toss.im/_m/l1K7gdut",
       "published_at": "2026-09-12T15:03:47Z",
-      "product_number": 5
+      "product_number": 5,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18123299314869624",
@@ -251,7 +272,8 @@
       "image_url": "https://shopping.toss.im/live/taca/ai/MzI1Yjk1/SjVxekV1RVNOell5Wk1XNjVadVhFOVNTVmxwelp0SENSS2xqcERnN2Z4Yz0.png",
       "sharelink_url": "https://toss.im/_m/7anvD0ze",
       "published_at": "2026-09-12T08:49:16Z",
-      "product_number": 4
+      "product_number": 4,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18001429026003074",
@@ -262,7 +284,8 @@
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/805923681_18110264902947256_4526867314771250795_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8jPYTozgP9gQ7kNvwEkPZmC&_nc_oc=Adp4Cch39igSAog8y32A5voCNCxHyi_no3v3Lr76l6M5QEqt4l1pA2vk-rIDkBfuvJQ&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=F5D2c7a6vNh9AfpV6BmiGA&_nc_tpa=Q5bMBQINP835H9UISLDU4pKM2KNu__O8JkULwpdhpjvtOFwskQuWhJOXky1T9VmeI-qpdPUIRmQ3FeXglA&oh=00_AQJi5XgLSNW1-EOCvQeeUro06mAA7pDNNWJgMhWtNimLuQ&oe=6AABF976",
       "sharelink_url": "https://link.coupang.com/a/gYSXBNzx2i",
       "published_at": "2026-09-12T07:56:27Z",
-      "product_number": 2
+      "product_number": 2,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18101020325366349",
@@ -272,19 +295,22 @@
       "image_url": "https://shopping.toss.im/live/temp/2026-08-26/d88f847b-409b-4ed3-ae00-6da7744b796a.jpeg",
       "sharelink_url": "https://toss.im/_m/hEnxcNDd",
       "published_at": "2026-09-12T04:03:20Z",
-      "product_number": 1
+      "product_number": 1,
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18024849863857269",
       "sharelink_url": "https://toss.im/_m/xziSXFry",
       "product_number": 23,
-      "name": "23. "
+      "name": "23. ",
+      "mapping_status": "MAPPED"
     },
     {
       "media_id": "18461711017186321",
       "sharelink_url": "https://toss.im/_m/PQalmhJ5",
       "product_number": 24,
-      "name": "24. "
+      "name": "24. ",
+      "mapping_status": "MAPPED"
     }
   ]
 }

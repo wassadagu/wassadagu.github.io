@@ -10,7 +10,7 @@ try:
     document = json.loads(index_path.read_text(encoding="utf-8"))
 except (FileNotFoundError, json.JSONDecodeError):
     document = {"title": "와 싸다구 | 오늘의 추천템", "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.", "items": []}
-legacy = [item for item in document.get("items", []) if item.get("sharelink_url")]
+legacy = [item for item in document.get("items", []) if item.get("sharelink_url") and item.get("name")]
 legacy_by_media = {item.get("media_id"): item for item in legacy if item.get("media_id")}
 legacy_by_item = {item.get("item_id"): item for item in legacy if item.get("item_id")}
 items = {}
@@ -27,6 +27,8 @@ for path in sorted((root / "links").glob("*.json")):
     base = legacy_by_media.get(media_id) or legacy_by_item.get(item.get("item_id"), {})
     merged = dict(base)
     merged.update({key: value for key, value in item.items() if value not in (None, "")})
+    if not merged.get("name"):
+        continue
     merged["media_id"] = media_id
     merged["mapping_status"] = "MAPPED"
     items[("media", media_id)] = merged
@@ -46,6 +48,8 @@ for path in sorted((root / "pending").glob("*.json")):
     merged = dict(base)
     merged.update({key: value for key, value in item.items() if value not in (None, "")})
     merged.pop("media_id", None)
+    if not merged.get("name"):
+        continue
     merged["mapping_status"] = "PENDING"
     items[("pending", item["publication_key"])] = merged
 

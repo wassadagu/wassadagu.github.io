@@ -3,84 +3,14 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
-      "media_id": "17860934220694000",
-      "name": "22. 고기중독 양념 LA갈비, 1kg, 1팩",
-      "price": "12900원",
-      "discount": "할인 74%",
-      "review": "리뷰 4.5 (3560)",
-      "image_url": "https://shopping.toss.im/ml-vision/smart-crop/ec1e71c7-89c7-4990-8220-cf78e7c8d5f2.jpg",
-      "sharelink_url": "https://toss.im/_m/ZUHbY0zi",
-      "published_at": "2026-09-13T05:46:52+0000",
-      "product_number": 22,
-      "item_id": "148065759"
-    },
-    {
-      "media_id": "17898878814386510",
-      "name": "21. 맛꾼 구운란, 대란, 30구, 1개",
-      "price": "7400원",
-      "discount": "할인 62%",
-      "review": "리뷰 4.6 (5448)",
-      "image_url": "https://shopping.toss.im/live/temp/2026-01-27/1bf55bed-c772-4d55-9035-2a657f24e3b3.jpeg",
-      "sharelink_url": "https://toss.im/_m/bmTWSB8A",
-      "published_at": "2026-09-13T05:30:19+0000",
-      "product_number": 21,
-      "item_id": "446375191"
-    },
-    {
-      "media_id": "17986831074103036",
-      "name": "20. 순수식품 10억보장 19종 생유산균 프로바이오틱스, 셀레늄, 아연, 30포, 1박스",
-      "price": "1990원",
-      "discount": "할인 84%",
-      "review": "리뷰 4.7 (607)",
-      "image_url": "https://shopping.toss.im/live/temp/2026-02-27/d03cee67-d00b-4d3c-bced-300f26af14e8.jpeg",
-      "sharelink_url": "https://toss.im/_m/zs0cF42b",
-      "published_at": "2026-09-13T05:00:08+0000",
-      "product_number": 20,
-      "item_id": "171154381"
-    },
-    {
-      "media_id": "17911059543545076",
-      "name": "19. 리스앤리드 비건 PDRN 엑소좀 세럼, 30ml, 1개",
-      "price": "6900원",
-      "discount": "할인 83%",
-      "review": "리뷰 4.6 (225)",
-      "image_url": "https://shopping.toss.im/live/temp/2026-08-04/6010e66e-eb67-40b4-ab83-beda6a45a762.jpeg",
-      "sharelink_url": "https://toss.im/_m/BmiEaimC",
-      "published_at": "2026-09-13T04:30:18Z",
-      "product_number": 19
-    },
-    {
-      "media_id": "18034875158651080",
-      "name": "18. 국내산 햇 고바멸치, 1.5kg, 1개",
-      "price": "12890원",
-      "discount": "할인 53%",
-      "review": "리뷰 4.5 (820)",
-      "image_url": "https://shopping.toss.im/live/taca/ai/NDFmZTA3/QXNzMTRxcm43Wm5FTm1BeXZVVkNqNU9Rd213cGU1OTNrTzh3TDIrVWpIND0.png",
-      "sharelink_url": "https://toss.im/_m/Tldviif8",
-      "published_at": "2026-09-13T04:06:15Z",
-      "product_number": 18
-    },
-    {
-      "media_id": "18184012534416806",
-      "name": "17. 김삼두장인 두부야채어묵바, 150g, 5봉",
-      "price": "9900원",
-      "discount": "할인 41%",
-      "review": "리뷰 4.4 (1462)",
-      "image_url": "https://shopping.toss.im/live/temp/2026-06-05/04ca20ba-b4fb-4b0a-b6bb-1306650cd638.jpeg",
-      "sharelink_url": "https://toss.im/_m/PQalmhJ5",
-      "published_at": "2026-09-13T03:00:28Z",
-      "product_number": 17
-    },
-    {
-      "media_id": "17957355729239751",
-      "name": "16. 구첩반찬 무말랭이무침, 1kg, 1개",
-      "price": "4990원",
-      "discount": "할인 43%",
-      "review": "리뷰 4.5 (271)",
-      "image_url": "https://shopping.toss.im/live/taca/ai/ZGIyYWI3/Y2RPWnhzODJ6WmptWVptYnlzbVpNMHpTZVpMNTRqTSt3Y0phT1IrT01yVT0.png",
-      "sharelink_url": "https://toss.im/_m/b20NqtB8",
-      "published_at": "2026-09-12T20:46:58Z",
-      "product_number": 16
+      "media_id": "17945703828067315",
+      "name": "3. 스케쳐스 남성용 디럭스 워커 운동화 3.0 SL0MPCGY3012",
+      "price": "84900원",
+      "image_url": "https://wassadagu.github.io/images/skechers-deluxe-walker-sl0mpcgy3012.jpg",
+      "sharelink_url": "https://link.coupang.com/a/gYVWewTZfg",
+      "published_at": "2026-09-13T07:00:13Z",
+      "product_number": 3,
+      "item_id": "manual-68747470733a2f2f6c696e6b2e636f7570616e672e636f6d2f612f675956576577545a6667"
     },
     {
       "media_id": "18338317228255236",
@@ -90,8 +20,117 @@
       "review": "리뷰 4.5 (5276)",
       "image_url": "https://shopping.toss.im/live/taca/ai/YWMwZmJl/QUxBUkROK0llSnZKKytlbG9RZ0VVSklSWjFIWkZhTytHa1MrdXIwdG1tUjY.png",
       "sharelink_url": "https://toss.im/_m/ZJwZrN0w",
-      "published_at": "2026-09-12T20:02:47Z",
-      "product_number": 15
+      "published_at": "2026-09-13T07:00:12Z",
+      "product_number": 15,
+      "item_id": "417658091"
+    },
+    {
+      "media_id": "17957355729239751",
+      "name": "16. 구첩반찬 무말랭이무침, 1kg, 1개",
+      "price": "4990원",
+      "discount": "할인 43%",
+      "review": "리뷰 4.5 (271)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/ZGIyYWI3/Y2RPWnhzODJ6WmptWVptYnlzbVpNMHpTZVpMNTRqTSt3Y0phT1IrT01yVT0.png",
+      "sharelink_url": "https://toss.im/_m/b20NqtB8",
+      "published_at": "2026-09-13T07:00:10Z",
+      "product_number": 16,
+      "item_id": "101754311"
+    },
+    {
+      "media_id": "18184012534416806",
+      "name": "17. 김삼두장인 두부야채어묵바, 150g, 5봉",
+      "price": "9900원",
+      "discount": "할인 41%",
+      "review": "리뷰 4.4 (1462)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-06-05/04ca20ba-b4fb-4b0a-b6bb-1306650cd638.jpeg",
+      "sharelink_url": "https://toss.im/_m/PQalmhJ5",
+      "published_at": "2026-09-13T07:00:09Z",
+      "product_number": 17,
+      "item_id": "2183622489"
+    },
+    {
+      "media_id": "18034875158651080",
+      "name": "18. 국내산 햇 고바멸치, 1.5kg, 1개",
+      "price": "12890원",
+      "discount": "할인 53%",
+      "review": "리뷰 4.5 (820)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/NDFmZTA3/QXNzMTRxcm43Wm5FTm1BeXZVVkNqNU9Rd213cGU1OTNrTzh3TDIrVWpIND0.png",
+      "sharelink_url": "https://toss.im/_m/Tldviif8",
+      "published_at": "2026-09-13T07:00:07Z",
+      "product_number": 18,
+      "item_id": "2281418341"
+    },
+    {
+      "media_id": "17911059543545076",
+      "name": "19. 리스앤리드 비건 PDRN 엑소좀 세럼, 30ml, 1개",
+      "price": "6900원",
+      "discount": "할인 83%",
+      "review": "리뷰 4.6 (225)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-08-04/6010e66e-eb67-40b4-ab83-beda6a45a762.jpeg",
+      "sharelink_url": "https://toss.im/_m/BmiEaimC",
+      "published_at": "2026-09-13T07:00:06Z",
+      "product_number": 19,
+      "item_id": "2579196295"
+    },
+    {
+      "media_id": "17986831074103036",
+      "name": "20. 순수식품 10억보장 19종 생유산균 프로바이오틱스, 셀레늄, 아연, 30포, 1박스",
+      "price": "1990원",
+      "discount": "할인 84%",
+      "review": "리뷰 4.7 (607)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-02-27/d03cee67-d00b-4d3c-bced-300f26af14e8.jpeg",
+      "sharelink_url": "https://toss.im/_m/zs0cF42b",
+      "published_at": "2026-09-13T07:00:05Z",
+      "product_number": 20,
+      "item_id": "171154381"
+    },
+    {
+      "media_id": "17898878814386510",
+      "name": "21. 맛꾼 구운란, 대란, 30구, 1개",
+      "price": "7400원",
+      "discount": "할인 62%",
+      "review": "리뷰 4.6 (5448)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-01-27/1bf55bed-c772-4d55-9035-2a657f24e3b3.jpeg",
+      "sharelink_url": "https://toss.im/_m/bmTWSB8A",
+      "published_at": "2026-09-13T07:00:04Z",
+      "product_number": 21,
+      "item_id": "446375191"
+    },
+    {
+      "media_id": "17860934220694000",
+      "name": "22. 고기중독 양념 LA갈비, 1kg, 1팩",
+      "price": "12900원",
+      "discount": "할인 74%",
+      "review": "리뷰 4.5 (3560)",
+      "image_url": "https://shopping.toss.im/ml-vision/smart-crop/ec1e71c7-89c7-4990-8220-cf78e7c8d5f2.jpg",
+      "sharelink_url": "https://toss.im/_m/ZUHbY0zi",
+      "published_at": "2026-09-13T07:00:02Z",
+      "product_number": 22,
+      "item_id": "148065759"
+    },
+    {
+      "media_id": "18024086036883096",
+      "item_id": "8115841",
+      "name": "26. 냉동 흰다리새우살, 특대, 200g, 3개",
+      "published_at": "2026-09-13T07:00:01Z",
+      "price": "12800원",
+      "discount": "할인 34%",
+      "review": "리뷰 4.6 (772)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/MTllZDNm/QTR6RmhFcGNPQW1hRkUzbk5sUGJpQ1NhMzIydHROall4V0dDSndWTHIvND0.png",
+      "sharelink_url": "https://toss.im/_m/DzHVPk9A",
+      "product_number": 26
+    },
+    {
+      "media_id": "18127427785749669",
+      "item_id": "314897969",
+      "name": "25. 마포나루터 돼지목살왕구이, 500g, 3팩",
+      "published_at": "2026-09-13T07:00:00Z",
+      "price": "13900원",
+      "discount": "할인 36%",
+      "review": "리뷰 4.6 (2920)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/ZDJkNTQz/WHIrYmkydUdhOFRjaEc0bGRBTm9FdExleGhkZFB4eG9OZGprMkdocVp6VT0.png",
+      "sharelink_url": "https://toss.im/_m/lSDsW3Hy",
+      "product_number": 25
     },
     {
       "media_id": "18087989291434580",
@@ -213,15 +252,6 @@
       "sharelink_url": "https://toss.im/_m/7anvD0ze",
       "published_at": "2026-09-12T08:49:16Z",
       "product_number": 4
-    },
-    {
-      "media_id": "17945703828067315",
-      "name": "3. 스케쳐스 남성용 디럭스 워커 운동화 3.0 SL0MPCGY3012",
-      "price": "84900원",
-      "image_url": "https://wassadagu.github.io/images/skechers-deluxe-walker-sl0mpcgy3012.jpg",
-      "sharelink_url": "https://link.coupang.com/a/gYVWewTZfg",
-      "published_at": "2026-09-12T08:48:22Z",
-      "product_number": 3
     },
     {
       "media_id": "18001429026003074",

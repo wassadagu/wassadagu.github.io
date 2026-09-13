@@ -12,7 +12,9 @@ except (FileNotFoundError, json.JSONDecodeError):
     document = {"title": "와 싸다구 | 오늘의 추천템", "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.", "items": []}
 
 def clean_name(value):
-    value = re.sub(r"^\d+\.\s*", "", str(value or ""))
+    value = str(value or "").strip()
+    while re.match(r"^\d+\.\s*", value):
+        value = re.sub(r"^\d+\.\s*", "", value, count=1)
     value = re.sub(r"^\[\d+\]\s*", "", value)
     return value.strip()
 

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-069cbfd10cf75f6739caa5b4da115a6e:3:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "item_id": "1266772507",
+      "name": "39. 연세우유 멸균우유, 저지방, 190ml, 48개",
+      "published_at": "2026-09-15T16:30:10Z",
+      "price": "24900원",
+      "discount": "할인 43%",
+      "review": "리뷰 4.8 (3249)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-03-26/8553408c-608d-4a27-a221-1878b4e0614a.jpeg",
+      "sharelink_url": "https://toss.im/_m/nlqkWo5B",
+      "product_number": 39
+    },
+    {
       "publication_key": "draft-d34a59f87477d64b69872b953885196a:3:INSTAGRAM",
       "mapping_status": "PENDING",
       "item_id": "226369503",

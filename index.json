@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-d34a59f87477d64b69872b953885196a:3:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "item_id": "226369503",
+      "name": "38. 아욱 다슬기 해장국, 500g, 5팩",
+      "published_at": "2026-09-15T15:30:17Z",
+      "price": "24400원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.4 (2002)",
+      "image_url": "https://shopping.toss.im/live/temp/2025-10-02/6c4f2f71-f345-40ac-bc9a-65fe40601adb.jpeg",
+      "sharelink_url": "https://toss.im/_m/vPGaozav",
+      "product_number": 38
+    },
+    {
       "media_id": "18139594915612537",
       "item_id": "2311809677",
       "name": "37. 초고농축 피죤 체리블라썸 섬유유연제, 1.3L, 4개",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-3e728155c86fee4ad3dcb42a71d07396:2:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "item_id": "123758699",
+      "name": "34. 심플 화이트 보관함, 20개",
+      "published_at": "2026-09-15T00:15:37Z",
+      "price": "9900원",
+      "discount": "할인 57%",
+      "review": "리뷰 4.2 (974)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/ODYzMzc3/WTlaQTlZT2ZORnRZYS9QaXNFRHgzY0tOQXdsbmNqd2tIV1hBbWcyV0t6MD0.png",
+      "sharelink_url": "https://toss.im/_m/nV2r4jo9",
+      "product_number": 34
+    },
+    {
       "publication_key": "draft-aedcb2fc97d59fa9a0eaf2bf93b2ffe5:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "item_id": "160417831",

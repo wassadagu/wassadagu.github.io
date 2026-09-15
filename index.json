@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17866142328660525",
+      "item_id": "184113235",
+      "name": "40. 애슐리 볶음밥, 갈릭스테이크 230g 2봉 + 케이준 230g 2봉 + 통새우 230g 2봉, 6봉",
+      "published_at": "2026-09-15T20:15:50Z",
+      "price": "10990원",
+      "discount": "할인 47%",
+      "review": "리뷰 4.7 (9173)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/v2/MmFhYzdh/QUkvUWJsYTRxY3NXNU56dDRhZ3Q1UjVHTm5xRzJoZGwvSnBvOE1QZnZ4dG8.png",
+      "sharelink_url": "https://toss.im/_m/raSQEdQo",
+      "mapping_status": "MAPPED",
+      "product_number": 40
+    },
+    {
       "publication_key": "draft-069cbfd10cf75f6739caa5b4da115a6e:3:INSTAGRAM",
       "mapping_status": "PENDING",
       "item_id": "1266772507",

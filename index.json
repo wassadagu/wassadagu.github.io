@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18114077072082323",
+      "item_id": "2297868205",
+      "name": "56. 씨없는 포도 샤인머스켓, 랜덤과, 2kg, 1개",
+      "published_at": "2026-09-16T16:00:47Z",
+      "price": "9700원",
+      "discount": "할인 72%",
+      "review": "리뷰 4.4 (377)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-06-19/ea2da199-b525-4e6e-8276-095c402b067e.png",
+      "sharelink_url": "https://toss.im/_m/X5yJKVyt",
+      "mapping_status": "MAPPED",
+      "product_number": 56
+    },
+    {
       "media_id": "18121018705927756",
       "item_id": "2164156071",
       "name": "55. 메르헨트 퍼퓸 대용량 바디워시, 피치블라썸, 1L, 2개",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17877566208553189",
+      "item_id": "2232190033",
+      "name": "57. 허블리 세상편한 캐릭터 파자마바지, 동물원 1개 + 체크그린 1개, 2개",
+      "published_at": "2026-09-16T16:30:34Z",
+      "price": "10573원",
+      "discount": "할인 57%",
+      "review": "리뷰 0.0 (0)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-06-11/a23388e7-08be-454b-b319-6476b17f5ac3.jpeg",
+      "sharelink_url": "https://toss.im/_m/7M5pCp62",
+      "mapping_status": "MAPPED",
+      "product_number": 57
+    },
+    {
       "media_id": "18114077072082323",
       "item_id": "2297868205",
       "name": "56. 씨없는 포도 샤인머스켓, 랜덤과, 2kg, 1개",

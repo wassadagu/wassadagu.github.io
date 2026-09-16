@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18121018705927756",
+      "item_id": "2164156071",
+      "name": "55. 메르헨트 퍼퓸 대용량 바디워시, 피치블라썸, 1L, 2개",
+      "published_at": "2026-09-16T15:30:42Z",
+      "price": "9500원",
+      "discount": "할인 68%",
+      "review": "리뷰 4.6 (2306)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-06-17/917781d0-9f69-4ac5-9a43-e79b0ec65aa3.jpeg",
+      "sharelink_url": "https://toss.im/_m/dOvi6Cid",
+      "mapping_status": "MAPPED",
+      "product_number": 55
+    },
+    {
       "media_id": "18135250681655650",
       "item_id": "1730265187",
       "name": "54. 푸드앳홈 냉동 블루베리 실속형, 1kg, 2팩",

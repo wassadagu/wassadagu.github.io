@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18135250681655650",
+      "item_id": "1730265187",
+      "name": "54. 푸드앳홈 냉동 블루베리 실속형, 1kg, 2팩",
+      "published_at": "2026-09-16T15:00:46Z",
+      "price": "15990원",
+      "discount": "할인 40%",
+      "review": "리뷰 4.2 (2817)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/OTQxMjAw/QUl3eXhyVDM5TXhNZ3c0L2JuU3dvRzIxdUZ1Z2Fjd2w5eENvS1NDbjRkN2I.png",
+      "sharelink_url": "https://toss.im/_m/FvmANGRf",
+      "mapping_status": "MAPPED",
+      "product_number": 54
+    },
+    {
       "publication_key": "draft-aedcb2fc97d59fa9a0eaf2bf93b2ffe5:2:INSTAGRAM",
       "mapping_status": "MAPPED",
       "item_id": "160417831",

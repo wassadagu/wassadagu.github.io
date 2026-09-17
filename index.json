@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18121398760850070",
+      "item_id": "2400686671",
+      "name": "61. 도톰 쿠션양말, 중목, 블랙 5개 + 화이트 5개, 10개",
+      "published_at": "2026-09-17T14:15:42Z",
+      "price": "8900원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.4 (256)",
+      "image_url": "https://shopping.toss.im/live/temp/2025-04-17/4b6fbabc-b3b2-4839-94b7-3cd70d356edc.jpeg",
+      "sharelink_url": "https://toss.im/_m/biYDmcd2",
+      "mapping_status": "MAPPED",
+      "product_number": 61
+    },
+    {
       "media_id": "18027689618689122",
       "item_id": "1254407973",
       "name": "60. 아임닭 맛있는 닭가슴살 볶음밥, 5종, 200g, 20개",

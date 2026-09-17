@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17998278575813115",
+      "item_id": "2653028679",
+      "name": "62. 곰표 부침가루 2kg 1개 + 튀김가루 2kg 1개 + 밀가루 1kg 2개, 1세트",
+      "published_at": "2026-09-17T14:45:40Z",
+      "price": "8900원",
+      "discount": "할인 51%",
+      "review": "리뷰 5.0 (2)",
+      "image_url": "https://shopping.toss.im/78d/live/product/847006037/78ddf60b-dbcc-41ad-adb8-7dde883c487b.png",
+      "sharelink_url": "https://toss.im/_m/dk7ssg76",
+      "mapping_status": "MAPPED",
+      "product_number": 62
+    },
+    {
       "media_id": "18121398760850070",
       "item_id": "2400686671",
       "name": "61. 도톰 쿠션양말, 중목, 블랙 5개 + 화이트 5개, 10개",

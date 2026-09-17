@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18098117852061498",
+      "item_id": "2558924181",
+      "name": "76. 아워홈 뉴골든 치킨가라아게 1kg + 고추 바삭 치킨가라아게 1kg, 1세트",
+      "published_at": "2026-09-17T21:00:48Z",
+      "price": "16900원",
+      "discount": "할인 41%",
+      "review": "리뷰 4.7 (55)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/v2/Y2I0NzQ0/ZHFROHBwc2s0OFBHNUhrZWR2U09Ibk8wbnpuUzVCNGV6cHpuNGNhVXVaRT0.png",
+      "sharelink_url": "https://toss.im/_m/v3CUL7mD",
+      "mapping_status": "MAPPED",
+      "product_number": 76
+    },
+    {
       "media_id": "17944897392335864",
       "item_id": "143159197",
       "name": "75. 코리아푸드 백옥콘 강냉이, 1.4kg, 1개",

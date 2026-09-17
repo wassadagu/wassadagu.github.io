@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18111698689887497",
+      "item_id": "119672207",
+      "name": "73. 더건강플러스 엑스트라버진 올리브오일, 1L, 1개",
+      "published_at": "2026-09-17T19:45:53Z",
+      "price": "8900원",
+      "discount": "할인 77%",
+      "review": "리뷰 4.6 (2051)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-06-05/28f63f1a-246e-4e36-82ad-12f0fbb50755.jpeg",
+      "sharelink_url": "https://toss.im/_m/fS0Wl9S1",
+      "mapping_status": "MAPPED",
+      "product_number": 73
+    },
+    {
       "media_id": "18010935383761437",
       "item_id": "2644713705",
       "name": "72. 광천김 곱창김 캔김 선물세트, 30g, 4개입, 1세트",

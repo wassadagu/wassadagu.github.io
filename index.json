@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18124857349830670",
+      "item_id": "87666281",
+      "name": "66. 언뮤트 하이드로 카밍 스플래쉬 크림, 50ml, 2개",
+      "published_at": "2026-09-17T16:30:47Z",
+      "price": "18800원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.5 (31)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/NTNjOWRi/VXRuMldLZGJtdE9kbTR3YldOTVIwNzFqV3hwTGFuQ3BLcHVYSTlSMHVWbz0.png",
+      "sharelink_url": "https://toss.im/_m/Ta9xZe8r",
+      "mapping_status": "MAPPED",
+      "product_number": 66
+    },
+    {
       "media_id": "18099018254179084",
       "item_id": "469820311",
       "name": "65. 순삭 떡볶이, 보통맛, 200g, 5팩",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17944897392335864",
+      "item_id": "143159197",
+      "name": "75. 코리아푸드 백옥콘 강냉이, 1.4kg, 1개",
+      "published_at": "2026-09-17T20:30:35Z",
+      "price": "8900원",
+      "discount": "할인 35%",
+      "review": "리뷰 4.6 (3582)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/YTAxMDhk/QUoyRVBNVWFwMHFqd3FMUm1OV2N3SzJDTElNdGswTWt4MVJpNC8valBYSU4.png",
+      "sharelink_url": "https://toss.im/_m/Pdl0xIAi",
+      "mapping_status": "MAPPED",
+      "product_number": 75
+    },
+    {
       "publication_key": "draft-86b0bee2b2914706681c2fa4e1d90dbd:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "item_id": "2450913223",

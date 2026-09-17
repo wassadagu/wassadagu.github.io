@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18443840092130156",
+      "item_id": "150587421",
+      "name": "79. 자연품애 사과, 주스용, 랜덤과, 10kg, 1박스",
+      "published_at": "2026-09-17T22:30:45Z",
+      "price": "13900원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.2 (585)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/YzJiYmY2/QStGYVNvQ1NvOG81empEME5KWEtUWnQ5OXZubmFXcytZN1NYaXlVTE1IST0.png",
+      "sharelink_url": "https://toss.im/_m/557J72Ft",
+      "mapping_status": "MAPPED",
+      "product_number": 79
+    },
+    {
+      "media_id": "17945620296334865",
+      "item_id": "2650897313",
+      "name": "78. 수뜰리에 쉰내제거 딥클린 세탁세제, 코튼캔디, 2.5L, 4개",
+      "published_at": "2026-09-17T22:00:58Z",
+      "price": "4620원",
+      "discount": "할인 88%",
+      "review": "리뷰 4.7 (1309)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-09-09/fa233394-2b3e-411b-950f-ee1236fecce2.png",
+      "sharelink_url": "https://toss.im/_m/JvmhAHg3",
+      "mapping_status": "MAPPED",
+      "product_number": 78
+    },
+    {
       "media_id": "18130710274678712",
       "item_id": "2420856387",
       "name": "77. 붕이네 국내산 머스크 멜론 특품, 특대과, 2수, 4kg, 1박스",

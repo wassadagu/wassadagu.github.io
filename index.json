@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18635265079033724",
+      "item_id": "469898369",
+      "name": "64. 이든농수산 자숙 연지홍게, 8kg, 1박스",
+      "published_at": "2026-09-17T15:30:47Z",
+      "price": "21900원",
+      "discount": "할인 51%",
+      "review": "리뷰 3.9 (338)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/ZjRhYzhi/VmhaK0dzSjI1RFcwNVE2ZVEwTUpkWFV2N0xqQ1V5WDVCVzk2cHVnYjlZbz0.png",
+      "sharelink_url": "https://toss.im/_m/d0Ip9Dxo",
+      "mapping_status": "MAPPED",
+      "product_number": 64
+    },
+    {
       "media_id": "17957972709240702",
       "item_id": "2559049861",
       "name": "63. 수뜰리에 소프트 섬유유연제 비누향, 2.5L, 4개",

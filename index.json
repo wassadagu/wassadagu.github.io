@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-21d453ad562f995a086e67a242d3cc7a:2:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "item_id": "2559205617",
+      "name": "70. 친정댁 매콤삼겹살, 1kg, 1개",
+      "published_at": "2026-09-17T18:30:44Z",
+      "price": "13900원",
+      "discount": "할인 26%",
+      "review": "리뷰 5.0 (3)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-07-31/e4c70dbc-c6ac-4f5a-97fe-ebf23d091726.jpeg",
+      "sharelink_url": "https://toss.im/_m/NdkyQ9Wo",
+      "product_number": 70
+    },
+    {
       "media_id": "18117689845766870",
       "item_id": "10143179",
       "name": "69. 스파클 생수, 무라벨, 500ml, 80개",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18027689618689122",
+      "item_id": "1254407973",
+      "name": "60. 아임닭 맛있는 닭가슴살 볶음밥, 5종, 200g, 20개",
+      "published_at": "2026-09-17T13:31:14Z",
+      "price": "24800원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.8 (161)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/MjE4ZDQ0/QVBJeDJQTmh5b1ROZ3pGTTQvYkFGdFJQSVhHRG14bllERGlINjRpWStoMDE.png",
+      "sharelink_url": "https://toss.im/_m/NIVFFDvt",
+      "mapping_status": "MAPPED",
+      "product_number": 60
+    },
+    {
       "media_id": "18020695187712590",
       "item_id": "2635608599",
       "name": "59. 연세두유 뼈를 생각한 고칼슘 두유 칼마디, 190ml, 검은콩 24개 + 호두아몬드 24개, 1세트",

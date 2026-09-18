@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17866418058658233",
+      "item_id": "1078924497",
+      "name": "102. 터치 프리미엄 워싱소다, 5kg, 1팩",
+      "published_at": "2026-09-18T22:00:55Z",
+      "price": "6900원",
+      "discount": "할인 56%",
+      "review": "리뷰 4.7 (906)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/v2/MzRjNTkx/Y3R6cEdIWllteVdOc283RGplSTg2WFBqOEwzakM4MldpRTNRWHRCMUQ2RT0.png",
+      "sharelink_url": "https://toss.im/_m/t24axCTa",
+      "mapping_status": "MAPPED",
+      "product_number": 102
+    },
+    {
       "media_id": "17918290968442270",
       "item_id": "1734968249",
       "name": "101. 썬키스트 코코피치, 300ml, 20개",

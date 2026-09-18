@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17902087686664727",
+      "item_id": "2655609915",
+      "name": "92. 간편하게 데워 먹는 수제전, 동태전 200g + 동그랑땡 200g, 1세트",
+      "published_at": "2026-09-18T17:30:42Z",
+      "price": "10900원",
+      "discount": "할인 54%",
+      "review": "리뷰 5.0 (6)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-09-14/7e6b5bb4-32f1-4168-be10-81a5dcd8df1b.jpeg",
+      "sharelink_url": "https://toss.im/_m/BS0UgBYp",
+      "mapping_status": "MAPPED",
+      "product_number": 92
+    },
+    {
       "media_id": "17883467853506163",
       "item_id": "37386355",
       "name": "91. 유한메디카 징코 플러스엔탑 혈행 기억력 케어, 60정, 2개",

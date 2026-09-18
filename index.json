@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17901684432584237",
+      "item_id": "1413933185",
+      "name": "96. 푸르밀 플레인 요거트, 2kg, 1개",
+      "published_at": "2026-09-18T19:15:40Z",
+      "price": "8900원",
+      "discount": "할인 44%",
+      "review": "리뷰 4.6 (591)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/MDkxNTg5/QUtWRFdjOVpqN013ampHc1RtdFlXaDZjNW9XeGN6bDdUNHpIcERTblVFdnI.png",
+      "sharelink_url": "https://toss.im/_m/F77jUG12",
+      "mapping_status": "MAPPED",
+      "product_number": 96
+    },
+    {
       "media_id": "18079318328361753",
       "item_id": "146304027",
       "name": "95. 수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",

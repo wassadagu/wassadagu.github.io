@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18109264489885917",
+      "item_id": "85002255",
+      "name": "85. 바스 차량용 탈취제 컴팩트, 코튼향, 140g, 1개",
+      "published_at": "2026-09-18T07:45:41Z",
+      "price": "7900원",
+      "discount": "할인 73%",
+      "review": "리뷰 4.3 (389)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/YWU0Mjkx/U3M2MlBUOCtUL1NGa2JQVFV1RnRibWxldExHMUc3UFIwYTlOTGtyQXR0RT0.png",
+      "sharelink_url": "https://toss.im/_m/hEiSy7UD",
+      "mapping_status": "MAPPED",
+      "product_number": 85
+    },
+    {
       "media_id": "18485336851111549",
       "item_id": "109834949",
       "name": "84. 오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",

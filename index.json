@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-f545d11b6f73cd62ba50b0bc53e0708b:2:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "item_id": "172413425",
+      "name": "98. 이롬 황성주 과채습관, 퍼플, 140ml, 24개",
+      "published_at": "2026-09-18T20:15:39Z",
+      "price": "9900원",
+      "discount": "할인 38%",
+      "review": "리뷰 4.6 (55)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/YWZiNTQy/Wm12Tm0yY2JsbWJOazNac3l4NHhqRHBrYTJPVExNdHpsS3dNT1hCeDhNdz0.png",
+      "sharelink_url": "https://toss.im/_m/vOHMJY8C",
+      "product_number": 98
+    },
+    {
+      "media_id": "17946098433296077",
+      "item_id": "2653075507",
+      "name": "97. 수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
+      "published_at": "2026-09-18T19:45:29Z",
+      "price": "5950원",
+      "discount": "할인 84%",
+      "review": "리뷰 5.0 (1)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-09-13/c5515028-dee6-4397-98ee-41240dbd3a83.png",
+      "sharelink_url": "https://toss.im/_m/bhBcc7lC",
+      "mapping_status": "MAPPED",
+      "product_number": 97
+    },
+    {
       "media_id": "17901684432584237",
       "item_id": "1413933185",
       "name": "96. 푸르밀 플레인 요거트, 2kg, 1개",

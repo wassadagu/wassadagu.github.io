@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18160913971494644",
+      "item_id": "1046007247",
+      "name": "86. 한우 사골 도가니탕, 500g, 5팩",
+      "published_at": "2026-09-18T14:45:53Z",
+      "price": "8990원",
+      "discount": "할인 52%",
+      "review": "리뷰 4.8 (77)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/Mzk0NDM5/YjREN3FJTVc0VFdTRnFVemU4N1dZdWNNV3YwZU5BUHRhTk5yZ0FWS0lRND0.png",
+      "sharelink_url": "https://toss.im/_m/pYyfsah7",
+      "mapping_status": "MAPPED",
+      "product_number": 86
+    },
+    {
       "media_id": "18109264489885917",
       "item_id": "85002255",
       "name": "85. 바스 차량용 탈취제 컴팩트, 코튼향, 140g, 1개",

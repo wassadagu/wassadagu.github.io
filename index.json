@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17948973861324681",
+      "item_id": "1034341033",
+      "name": "104. 샘트리 맛 병아리콩 오리지널, 400g, 1개",
+      "published_at": "2026-09-18T23:15:40Z",
+      "price": "9900원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.8 (377)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/NDA2NzJj/UG5sbE5jK3JXTWM2c1MxNTVLMHpiTk0yMmJNTlZKL2tSVmEzN05WaWFCcz0.png",
+      "sharelink_url": "https://toss.im/_m/x92sb2td",
+      "mapping_status": "MAPPED",
+      "product_number": 104
+    },
+    {
       "media_id": "18384266509227658",
       "item_id": "1536550523",
       "name": "103. 시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18116701621985987",
+      "item_id": "1980085867",
+      "name": "99. 리벤스 스테인레스 식기건조대, 3단, 1개",
+      "published_at": "2026-09-18T20:30:40Z",
+      "price": "10900원",
+      "discount": "할인 81%",
+      "review": "리뷰 4.5 (76)",
+      "image_url": "https://shopping.toss.im/live/temp/2025-05-12/ed6d982c-8ccc-4de1-b563-607ae60ce19e.jpeg",
+      "sharelink_url": "https://toss.im/_m/HzNztTEi",
+      "mapping_status": "MAPPED",
+      "product_number": 99
+    },
+    {
       "publication_key": "draft-f545d11b6f73cd62ba50b0bc53e0708b:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "item_id": "172413425",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17982234174120108",
+      "item_id": "14343217",
+      "name": "90. 618 히알루론산 앰플 토너, 200ml, 2개",
+      "published_at": "2026-09-18T17:00:43Z",
+      "price": "17005원",
+      "discount": "할인 57%",
+      "review": "리뷰 4.6 (72)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/MTAzOWU2/RS9zOE1lM1U1NDdqZE1QT0hDczhNV04yUERIRGpNUE9QSEU1QzV4UXZIRT0.png",
+      "sharelink_url": "https://toss.im/_m/bYifU9Tg",
+      "mapping_status": "MAPPED",
+      "product_number": 90
+    },
+    {
       "media_id": "17956879449219199",
       "item_id": "2087752419",
       "name": "89. 국내산 미니밤호박 보우짱, 2-6수 내외, 1kg, 1박스",

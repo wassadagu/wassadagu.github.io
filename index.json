@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17956879449219199",
+      "item_id": "2087752419",
+      "name": "89. 국내산 미니밤호박 보우짱, 2-6수 내외, 1kg, 1박스",
+      "published_at": "2026-09-18T16:30:45Z",
+      "price": "5900원",
+      "discount": "할인 70%",
+      "review": "리뷰 4.2 (248)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/ZTI2MGI3/Wnhzend5eGF5ekdKbWU5eWc1NFlvK3c1QWt5MjlzVXZ6Y3FpMlFrMFd3QT0.png",
+      "sharelink_url": "https://toss.im/_m/zg56zcod",
+      "mapping_status": "MAPPED",
+      "product_number": 89
+    },
+    {
       "media_id": "18065932988782542",
       "item_id": "35885",
       "name": "88. 신세계푸드 냉동 크로와상 생지, 2.25kg, 1개",

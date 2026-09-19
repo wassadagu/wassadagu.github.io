@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18144087772499934",
+      "item_id": "2626071701",
+      "name": "118. 할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
+      "published_at": "2026-09-19T17:16:10Z",
+      "price": "22900원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.7 (251)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-08-21/b5d63ff1-7a55-4d3a-98b9-237a959d53b6.jpeg",
+      "sharelink_url": "https://toss.im/_m/1n883Y8d",
+      "mapping_status": "MAPPED",
+      "product_number": 118
+    },
+    {
       "media_id": "18095794112294921",
       "item_id": "2650893065",
       "name": "117. 홍삼성찬 홍삼꿀약과 선물세트 손잡이, 40g, 24개입, 1개",

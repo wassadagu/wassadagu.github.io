@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18122241385927771",
+      "product_number": 119,
+      "item_id": "581190989",
+      "name": "119. 헬로바이오 비타민C 3000 레드라벨, 3g, 90포, 2박스",
+      "published_at": "2026-09-19T17:30:49Z",
+      "price": "14900원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.6 (199)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-23519e24312097d3eedf831863c70444/card.jpg",
+      "sharelink_url": "https://toss.im/_m/XvjtGUkn",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18144087772499934",
       "item_id": "2626071701",
       "name": "118. 할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",

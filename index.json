@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17952103167039121",
+      "item_id": "99224717",
+      "name": "115. 호정가 뉴트리션 하루영양바, 25g, 20개입, 1박스",
+      "published_at": "2026-09-19T16:01:08Z",
+      "price": "10900원",
+      "discount": "할인 45%",
+      "review": "리뷰 4.7 (8450)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/ODBhZDg5/QU12MVVNWThKaWw1OUluZXRxOWFkbzdML3FTeGR0WlpacnNoS2wxRXdldFM.png",
+      "sharelink_url": "https://toss.im/_m/7tHiLi3l",
+      "mapping_status": "MAPPED",
+      "product_number": 115
+    },
+    {
       "media_id": "18130694056659465",
       "item_id": "91564441",
       "name": "114. 비로르 304 스텐 주방 가위, 팬더, 20.5cm, 2개",

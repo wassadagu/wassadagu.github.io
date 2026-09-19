@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18440071573131901",
+      "item_id": "2133762237",
+      "name": "109. HBAF 하루견과 베리믹스, 20g, 50개입, 1개",
+      "published_at": "2026-09-19T04:00:42Z",
+      "price": "14900원",
+      "discount": "할인 42%",
+      "review": "리뷰 4.5 (4)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/MjljZGQy/ZENlUEsvdCsyU2ZCZWQrR0hLZHlIZzcwb21TdXdZS2NQTWNkZk9KUWZLTT0.png",
+      "sharelink_url": "https://toss.im/_m/F3TYmMgs",
+      "mapping_status": "MAPPED",
+      "product_number": 109
+    },
+    {
       "media_id": "18391101859201101",
       "item_id": "2556085375",
       "name": "108. 샐리의법칙 순면이좋은날 생리대, 중형, 12매, 7팩",

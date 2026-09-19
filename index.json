@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18006140891783172",
+      "product_number": 130,
+      "item_id": "2642852797",
+      "name": "130. EMS 스마트 발 마사지기, 리모컨 포함, 블랙, 1개",
+      "published_at": "2026-09-19T23:30:45Z",
+      "price": "11074원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.4 (1611)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-550ea2f002d87e1e52f51320abbb925b/card.jpg",
+      "sharelink_url": "https://toss.im/_m/rcdLpno2",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17926622217414751",
       "item_id": "1536550523",
       "name": "129. 시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",

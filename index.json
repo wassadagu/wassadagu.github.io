@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18128643670751322",
+      "item_id": "135287707",
+      "name": "106. 비비고 왕교자, 1.05kg, 3개",
+      "published_at": "2026-09-19T01:15:55Z",
+      "price": "25555원",
+      "discount": "할인 43%",
+      "review": "리뷰 4.9 (435)",
+      "image_url": "https://shopping.toss.im/live/taca/ai/YTIwNTAw/QUpETGFieVdlbnA4UE02aHNzOW9ucGw1RWVRTFV6Tmt3L09GL2lNOGVSSDg.png",
+      "sharelink_url": "https://toss.im/_m/bJ5pFo0A",
+      "mapping_status": "MAPPED",
+      "product_number": 106
+    },
+    {
       "media_id": "17884955283685475",
       "item_id": "100607505",
       "name": "105. 취영루 바삭바삭 매콤한 맛있는 한끼 메밀전병, 1kg, 1개",

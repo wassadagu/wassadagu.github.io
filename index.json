@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18002502521793527",
+      "product_number": 123,
+      "item_id": "2139655317",
+      "name": "123. 페스츄리 바비큐 오징어, 200g, 2개",
+      "published_at": "2026-09-19T19:15:53Z",
+      "price": "12900원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.6 (719)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5aa0b54ced367bfa97b3888b725428d6/card.jpg",
+      "sharelink_url": "https://toss.im/_m/feza7kze",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18090296465670995",
       "product_number": 122,
       "item_id": "2642216213",

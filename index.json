@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18134127649726872",
+      "item_id": "271983315",
+      "name": "124. 산과들에 원데이 발란스 그린라벨, 20g, 30봉",
+      "published_at": "2026-09-19T19:46:06Z",
+      "price": "7630원",
+      "discount": "할인 52%",
+      "review": "리뷰 4.7 (4884)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e77d5c20d5ad298827a4f6eb621b8354/card.jpg",
+      "sharelink_url": "https://toss.im/_m/9TRJ0CDp",
+      "mapping_status": "MAPPED",
+      "product_number": 124
+    },
+    {
       "media_id": "18002502521793527",
       "product_number": 123,
       "item_id": "2139655317",

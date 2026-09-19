@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18126009697832438",
+      "item_id": "2640950463",
+      "name": "116. 아토몽드 더마크림, 200g, 3개",
+      "published_at": "2026-09-19T16:30:51Z",
+      "price": "29400원",
+      "discount": "할인 70%",
+      "review": "리뷰 0.0 (0)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-08-31/92f38834-c960-4dd3-abcf-b5e59b7f8620.png",
+      "sharelink_url": "https://toss.im/_m/L0VQ5Dys",
+      "mapping_status": "MAPPED",
+      "product_number": 116
+    },
+    {
       "media_id": "17952103167039121",
       "item_id": "99224717",
       "name": "115. 호정가 뉴트리션 하루영양바, 25g, 20개입, 1박스",

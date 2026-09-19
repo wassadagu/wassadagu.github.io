@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18391101859201101",
+      "item_id": "2556085375",
+      "name": "108. 샐리의법칙 순면이좋은날 생리대, 중형, 12매, 7팩",
+      "published_at": "2026-09-19T02:45:55Z",
+      "price": "6000원",
+      "discount": "할인 69%",
+      "review": "리뷰 5.0 (1)",
+      "image_url": "https://shopping.toss.im/live/temp/2026-09-14/1b502e03-b8d6-4570-9b21-30e645cdb06b.png",
+      "sharelink_url": "https://toss.im/_m/VgUdjUMp",
+      "mapping_status": "MAPPED",
+      "product_number": 108
+    },
+    {
       "media_id": "18149995900535270",
       "item_id": "135260245",
       "name": "107. 롯데칠성음료 펩시 제로슈거 라임, 업소용, 245ml, 30개",

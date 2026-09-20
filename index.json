@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18159242017451163",
+      "product_number": 153,
+      "item_id": "2653667163",
+      "name": "153. 계약재배된 제주직송 제주 노지감귤, 가정용, 2kg, 1박스",
+      "published_at": "2026-09-20T21:45:59Z",
+      "price": "7900원",
+      "discount": "할인 55%",
+      "review": "리뷰 0.0 (0)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d8bb29a6551c5d9871cca1dca4f38dba/card.jpg",
+      "sharelink_url": "https://toss.im/_m/BIqq0V36",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18115644136769985",
       "product_number": 152,
       "item_id": "2558980107",

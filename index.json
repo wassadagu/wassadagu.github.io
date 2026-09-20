@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18043299710829895",
+      "product_number": 140,
+      "item_id": "2599649545",
+      "name": "140. 에이징그라운드 듀록 흑돼지 쫀삼겹, 500g, 2개",
+      "published_at": "2026-09-20T15:30:49Z",
+      "price": "12900원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.5 (656)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-7215765846b1ab4046e22e93822cfb58/card.jpg",
+      "sharelink_url": "https://toss.im/_m/JBeGvpi7",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18203277319372968",
       "product_number": 139,
       "item_id": "2278471827",

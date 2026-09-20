@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18029872532889271",
+      "product_number": 145,
+      "item_id": "119339587",
+      "name": "145. 풍년보감 고려홍삼정 투데이굿타임, 15g, 100포 + 쇼핑백, 1개, 1세트",
+      "published_at": "2026-09-20T18:00:52Z",
+      "price": "16900원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.7 (1673)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-11053a794106942958448f7c2e79ae81/card.jpg",
+      "sharelink_url": "https://toss.im/_m/NGP4iFQe",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17946977994301417",
       "product_number": 144,
       "item_id": "106775531",

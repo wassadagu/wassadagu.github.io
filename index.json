@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18368273065213205",
+      "product_number": 135,
+      "item_id": "2636206873",
+      "name": "135. 비바더마 미백 탄력 주름개선 수분케어 데일리 진정 마스크팩 혼합 5종, 50매, 1세트",
+      "published_at": "2026-09-20T03:16:08Z",
+      "price": "5500원",
+      "discount": "할인 84%",
+      "review": "리뷰 5.0 (6)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-37936f7831398fa181e0bdb5af2acb99/card.jpg",
+      "sharelink_url": "https://toss.im/_m/b4DMeUv8",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18068686382583304",
       "item_id": "90382271",
       "name": "134. 스파클 생수, 무라벨, 2L, 24개",

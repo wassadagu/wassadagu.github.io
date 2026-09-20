@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-021206e68fa5e28cadb8590c4670be1e:2:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "item_id": "11504821",
+      "name": "137. 참쥐포, 16x12cm, 500g, 23장 내외, 1개",
+      "published_at": "2026-09-20T08:00:52Z",
+      "price": "10900원",
+      "discount": "할인 42%",
+      "review": "리뷰 4.4 (195)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-021206e68fa5e28cadb8590c4670be1e/card.jpg",
+      "sharelink_url": "https://toss.im/_m/jdziLevi",
+      "product_number": 137
+    },
+    {
+      "media_id": "18247665760315443",
+      "item_id": "109834949",
+      "name": "136. 오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+      "published_at": "2026-09-20T05:15:59Z",
+      "price": "5990원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.8 (1753)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-f786dc53878e934a79b03a0afd14b80b/card.jpg",
+      "sharelink_url": "https://toss.im/_m/3steY3qD",
+      "mapping_status": "MAPPED",
+      "product_number": 136
+    },
+    {
       "media_id": "18368273065213205",
       "product_number": 135,
       "item_id": "2636206873",

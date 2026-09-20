@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18203277319372968",
+      "product_number": 139,
+      "item_id": "2278471827",
+      "name": "139. 팬택 파스텔 초고속 45W C to C 케이블 세트, 3개입, 색상 랜덤, 2m, 1개",
+      "published_at": "2026-09-20T15:01:27Z",
+      "price": "9900원",
+      "discount": "할인 41%",
+      "review": "리뷰 4.7 (407)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-c4e04eaa11f8c203f802748253fa72aa/card.jpg",
+      "sharelink_url": "https://toss.im/_m/vYeixdKk",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "18133628098632013",
+      "product_number": 138,
+      "item_id": "1377734929",
+      "name": "138. 농심 안성탕면, 125g, 20개",
+      "published_at": "2026-09-20T10:15:52Z",
+      "price": "12177원",
+      "discount": "할인 19%",
+      "review": "리뷰 4.8 (2719)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-cd19b7761d917a7269f81c2fb05ee40b/card.jpg",
+      "sharelink_url": "https://toss.im/_m/Lpoa7fDC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-021206e68fa5e28cadb8590c4670be1e:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "item_id": "11504821",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17910927657531302",
+      "product_number": 133,
+      "item_id": "10222469",
+      "name": "133. 다듬피 홍합, 국내산, 통영, 5kg, 1봉",
+      "published_at": "2026-09-20T01:16:01Z",
+      "price": "9900원",
+      "discount": "할인 56%",
+      "review": "리뷰 4.5 (432)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e173ff1df9677d4b9562c3c0e9bbf29b/card.jpg",
+      "sharelink_url": "https://toss.im/_m/D5j88bcB",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17949421446053856",
       "product_number": 132,
       "item_id": "89704671",

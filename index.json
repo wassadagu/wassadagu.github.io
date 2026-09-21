@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18142680151583188",
+      "product_number": 86,
+      "item_id": "78459905",
+      "name": "86. 쥬르본 종합 모나카, 550g, 1박스",
+      "published_at": "2026-09-21T16:30:50Z",
+      "price": "9800원",
+      "discount": "할인 45%",
+      "review": "리뷰 4.5 (775)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d9f3f07f8b19e94e728e929ae1ea2e4c/card.jpg",
+      "sharelink_url": "https://toss.im/_m/H1yvcwmr",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17994516585014439",
       "product_number": 84,
       "item_id": "2636618375",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17992567467017492",
+      "product_number": 164,
+      "item_id": "127588345",
+      "name": "164. 국내산 횟감 활 흰다리새우, 1kg, 1팩",
+      "published_at": "2026-09-21T06:16:05Z",
+      "price": "23000원",
+      "discount": "할인 52%",
+      "review": "리뷰 4.5 (774)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-876046925022720ede280ce9df36f744/card.jpg",
+      "sharelink_url": "https://toss.im/_m/P2uhLXeh",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18092229383644348",
       "item_id": "109834949",
       "name": "163. 오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",

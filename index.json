@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17969378139175204",
+      "product_number": 167,
+      "item_id": "1322590729",
+      "name": "167. 닥터오레고닌 오리밤 멀티스틱, 10g, 3개",
+      "published_at": "2026-09-21T15:01:42Z",
+      "price": "12900원",
+      "discount": "할인 71%",
+      "review": "리뷰 4.5 (213)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-1f52e22b42ebde787ce0ee7340741074/card.jpg",
+      "sharelink_url": "https://toss.im/_m/H09eYVpx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18106721089944530",
       "product_number": 166,
       "item_id": "80332723",

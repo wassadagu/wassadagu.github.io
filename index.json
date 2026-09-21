@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17907184908550831",
+      "product_number": 88,
+      "item_id": "99187955",
+      "name": "88. 바르미 국내산 열무김치, 2kg, 1개",
+      "published_at": "2026-09-21T17:01:01Z",
+      "price": "9900원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.5 (262)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-23b25ccc4aa190322a13643bda2a84ae/card.jpg",
+      "sharelink_url": "https://toss.im/_m/ZtcJi21l",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18142680151583188",
       "product_number": 86,
       "item_id": "78459905",

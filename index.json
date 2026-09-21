@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18112242517858369",
+      "product_number": 98,
+      "item_id": "2225625455",
+      "name": "98. 케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 3개",
+      "published_at": "2026-09-21T21:00:55Z",
+      "price": "12255원",
+      "discount": "할인 77%",
+      "review": "리뷰 4.7 (943)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-fa39be6807529ad95c88a7d263c613d5/card.jpg",
+      "sharelink_url": "https://toss.im/_m/DzwKR1Iz",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18128662003691897",
       "product_number": 96,
       "item_id": "2578145771",

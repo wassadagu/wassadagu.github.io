@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18113106233038299",
+      "product_number": 94,
+      "item_id": "343509451",
+      "name": "94. 던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
+      "published_at": "2026-09-21T20:01:02Z",
+      "price": "11500원",
+      "discount": "할인 76%",
+      "review": "리뷰 4.8 (239)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0380318e67017db68ac9fa130163d4c8/card.jpg",
+      "sharelink_url": "https://toss.im/_m/hvqRg5y3",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18074150762742013",
       "item_id": "146304027",
       "name": "7. 수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",

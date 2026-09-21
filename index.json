@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18115239515050897",
+      "product_number": 102,
+      "item_id": "86942843",
+      "name": "102. 배스킨라빈스 메롱 멜론 우유 190ml, 24개",
+      "published_at": "2026-09-21T22:00:56Z",
+      "price": "12900원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.6 (235)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-7c82910f072b3acfb537d27bf384cd3f/card.jpg",
+      "sharelink_url": "https://toss.im/_m/PFVkS5k3",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18184662382416666",
       "product_number": 100,
       "item_id": "2601750975",

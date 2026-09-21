@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18128662003691897",
+      "product_number": 96,
+      "item_id": "2578145771",
+      "name": "96. 실리콘 빗자루 스퀴지 물기제거, 2개",
+      "published_at": "2026-09-21T20:30:47Z",
+      "price": "4900원",
+      "discount": "할인 62%",
+      "review": "리뷰 4.4 (347)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3126407d6fa1d93275ab36ea14d97d7a/card.jpg",
+      "sharelink_url": "https://toss.im/_m/BC08jJ4w",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18113106233038299",
       "product_number": 94,
       "item_id": "343509451",

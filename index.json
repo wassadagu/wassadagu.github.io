@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18106721089944530",
+      "product_number": 166,
+      "item_id": "80332723",
+      "name": "166. 서울약사신협 프로바이오틱스 생유산균 골드, 2.5g, 120포, 2개",
+      "published_at": "2026-09-21T10:16:01Z",
+      "price": "20900원",
+      "discount": "할인 54%",
+      "review": "리뷰 4.7 (2511)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-32d2689a148193ce044f359b637376de/card.jpg",
+      "sharelink_url": "https://toss.im/_m/trqU70Ip",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17921342991439221",
       "product_number": 165,
       "item_id": "2653158953",

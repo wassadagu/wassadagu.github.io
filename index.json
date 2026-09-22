@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18066290924769289",
+      "product_number": 20,
+      "item_id": "2640981637",
+      "name": "20. 한예지 클린터치 위생백, 중형, 25x35cm, 100매, 3개",
+      "published_at": "2026-09-22T23:45:52Z",
+      "price": "3990원",
+      "discount": "할인 83%",
+      "review": "리뷰 4.7 (1589)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-78307fcb2e5738ba3cc4d031072aac6a/card.jpg",
+      "sharelink_url": "https://toss.im/_m/NBy6N4T",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18088944740232677",
       "product_number": 142,
       "item_id": "2336103053",

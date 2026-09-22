@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17995243734001704",
+      "product_number": 126,
+      "item_id": "12632865",
+      "name": "126. 오프라이스 한촌 사골 양지고기 설렁탕, 500g, 5개",
+      "published_at": "2026-09-22T17:30:59Z",
+      "price": "14900원",
+      "discount": "할인 40%",
+      "review": "리뷰 4.6 (5463)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-7c59b5abc3323661dd616316dc724827/card.jpg",
+      "sharelink_url": "https://toss.im/_m/tfyTwXy9",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "17891181732612950",
+      "product_number": 124,
+      "item_id": "1002036529",
+      "name": "124. 클리어 팝업 뽑아쓰는 미용티슈, 2겹, 250매, 6팩",
+      "published_at": "2026-09-22T17:00:54Z",
+      "price": "6950원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.4 (72)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e83fd6e0b6de5f0195b7b13380172ee6/card.jpg",
+      "sharelink_url": "https://toss.im/_m/DEV38juj",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18368498599244223",
       "product_number": 122,
       "item_id": "2657287265",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18131463493683500",
+      "product_number": 140,
+      "item_id": "2657805159",
+      "name": "140. 바이빠세 하이드레이팅 립밤, 무향, 4.8g, 2개입, 2팩",
+      "published_at": "2026-09-22T22:01:01Z",
+      "price": "7500원",
+      "discount": "할인 45%",
+      "review": "리뷰 4.5 (15)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-376d39d6197796063ba084c8f0da19ad/card.jpg",
+      "sharelink_url": "https://toss.im/_m/xkLXqKVe",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18106328057251390",
       "product_number": 23,
       "item_id": "2278446229",

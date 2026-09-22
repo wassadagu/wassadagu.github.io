@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18108670475174042",
+      "product_number": 112,
+      "item_id": "10758575",
+      "name": "112. 14K 골드필드 핀 고래 꼬리 원터치 링 귀걸이, JT217, 1개",
+      "published_at": "2026-09-22T05:31:25Z",
+      "price": "13965원",
+      "discount": "할인 74%",
+      "review": "리뷰 4.7 (77)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b018dc57ae4915ff7965a431a90b6246/card.jpg",
+      "sharelink_url": "https://toss.im/_m/lTH22BL5",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17994727311010944",
       "item_id": "90382271",
       "name": "27. 스파클 생수, 무라벨, 2L, 24개",

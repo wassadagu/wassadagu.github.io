@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17994727311010944",
+      "item_id": "90382271",
+      "name": "27. 스파클 생수, 무라벨, 2L, 24개",
+      "published_at": "2026-09-22T03:01:33Z",
+      "price": "7400원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.8 (63520)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-7fbc49296d63fe7f9fd198bf4c635412/card.jpg",
+      "sharelink_url": "https://toss.im/_m/PwK2fYpt",
+      "mapping_status": "MAPPED",
+      "product_number": 27
+    },
+    {
       "media_id": "17966467020191174",
       "product_number": 69,
       "item_id": "278980557",

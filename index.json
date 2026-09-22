@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17907123621485494",
+      "product_number": 134,
+      "item_id": "1054244129",
+      "name": "134. 당연구소 귀리뻥, 40g, 10봉",
+      "published_at": "2026-09-22T20:15:52Z",
+      "price": "8900원",
+      "discount": "할인 77%",
+      "review": "리뷰 4.5 (869)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-c1016d9eddd483c5c67af4cb7f367fbc/card.jpg",
+      "sharelink_url": "https://toss.im/_m/9SQ3DLLa",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17883188064689201",
       "item_id": "146304027",
       "name": "7. 수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",

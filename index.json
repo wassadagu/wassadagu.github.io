@@ -3,6 +3,17 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17952204180255614",
+      "product_number": 115,
+      "item_id": "manual-68747470733a2f2f6c696e6b2e636f7570616e672e636f6d2f612f68664e544b616e4c6f57",
+      "name": "115. 지리산한봉 벌집꿀 선물세트, 1.5kg, 1개",
+      "published_at": "2026-09-22T12:23:32Z",
+      "price": "49900원",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/quick-draft-ea5be254bef5de82ee189d3b2fd61263/card.jpg",
+      "sharelink_url": "https://link.coupang.com/a/hfNTKanLoW",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17903268588585947",
       "product_number": 114,
       "item_id": "manual-68747470733a2f2f6c696e6b2e636f7570616e672e636f6d2f612f68664e624a7046794565",

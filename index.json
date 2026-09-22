@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18140109304609283",
+      "product_number": 141,
+      "item_id": "1109054481",
+      "name": "141. 쉬젤 아티 내열유리 혼합 10종 세트, 320ml 3개 + 400ml 3개 + 520ml 2개 + 640ml 2개, 1세트",
+      "published_at": "2026-09-22T22:31:03Z",
+      "price": "19700원",
+      "discount": "할인 76%",
+      "review": "리뷰 4.6 (2769)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-fdc16fc86685e5b1c4a1e647865aea60/card.jpg",
+      "sharelink_url": "https://toss.im/_m/zvbDCXpx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18131463493683500",
       "product_number": 140,
       "item_id": "2657805159",

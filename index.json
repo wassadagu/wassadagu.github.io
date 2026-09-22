@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18088501727292556",
+      "product_number": 120,
+      "item_id": "9230967",
+      "name": "120. 유비푸드 돼지 부속 모둠 삶은 내장, 2.5kg, 1개",
+      "published_at": "2026-09-22T16:00:54Z",
+      "price": "8700원",
+      "discount": "할인 32%",
+      "review": "리뷰 4.3 (2462)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a407f77bf1744e5bbebf6d47fbcdcc02/card.jpg",
+      "sharelink_url": "https://toss.im/_m/FmnMqums",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18622707526030771",
       "product_number": 118,
       "item_id": "80508789",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18085230581293784",
+      "product_number": 109,
+      "item_id": "74601",
+      "name": "109. 나누담 물받이 밀폐용기, 3000ml, 2개",
+      "published_at": "2026-09-22T00:01:04Z",
+      "price": "5950원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.6 (1048)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9c87e5e9e7b550c8d384ff01291cc0fc/card.jpg",
+      "sharelink_url": "https://toss.im/_m/FsFfxWMj",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18447376405131670",
       "item_id": "1536550523",
       "name": "19. 시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",

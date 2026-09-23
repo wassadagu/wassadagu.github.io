@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18378708643239391",
+      "product_number": 156,
+      "item_id": "2508239119",
+      "name": "156. 복음자리 생강레몬차, 500g, 3개",
+      "published_at": "2026-09-23T21:30:57Z",
+      "price": "11900원",
+      "discount": "할인 49%",
+      "review": "리뷰 4.6 (163)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-f2e39d63efd3b27732244e08adf9e36d/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/RqDtPeJ5",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-340738f40c154b730b8103cd4e44ab5b:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "product_number": 155,

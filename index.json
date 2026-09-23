@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-340738f40c154b730b8103cd4e44ab5b:2:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "product_number": 155,
+      "item_id": "2658469877",
+      "name": "155. 성분에디터 그린토마토 NMN 포어 리프팅 앰플 더블+빗거울 기획세트, 40ml, 2개",
+      "published_at": "2026-09-23T21:15:55Z",
+      "price": "16900원",
+      "discount": "할인 77%",
+      "review": "리뷰 5.0 (4)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-340738f40c154b730b8103cd4e44ab5b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/XxoRxmTk"
+    },
+    {
       "media_id": "17873711535582756",
       "product_number": 153,
       "item_id": "2653684059",

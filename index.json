@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18088354418215172",
+      "product_number": 67,
+      "item_id": "87464653",
+      "name": "67. 광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
+      "published_at": "2026-09-23T02:01:03Z",
+      "price": "5990원",
+      "discount": "할인 65%",
+      "review": "리뷰 4.7 (2818)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b6379fe1e023dca2d826332f94cd7b07/card.jpg",
+      "sharelink_url": "https://toss.im/_m/nguESti2",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17974062797935967",
       "product_number": 65,
       "item_id": "81251291",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18124665877875894",
+      "product_number": 144,
+      "item_id": "2106882245",
+      "name": "144. 마당두 당면만두, 300g, 1개 + 광진 쌀떡볶이, 200g, 1개 + 떡볶이 소스, 70g, 1개, 2세트",
+      "published_at": "2026-09-23T08:01:14Z",
+      "price": "7600원",
+      "discount": "할인 53%",
+      "review": "리뷰 0.0 (0)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-86422fc4d7bf73738e30454204f68202/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/fEQlWlU1",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18129548575750135",
       "item_id": "90382271",
       "name": "27. 스파클 생수, 무라벨, 2L, 24개",

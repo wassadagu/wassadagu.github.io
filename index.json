@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17947108563305925",
+      "product_number": 146,
+      "item_id": "168056701",
+      "name": "146. 르까프 후드 방풍 자켓, 남성, 블랙, 100",
+      "published_at": "2026-09-23T15:02:05Z",
+      "price": "17900원",
+      "discount": "할인 69%",
+      "review": "리뷰 4.6 (118)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-6c8c9c9d2be4c2c93cb02c70ebaef150/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/j9LSh2kB",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18104576441214461",
       "product_number": 145,
       "item_id": "12833135",

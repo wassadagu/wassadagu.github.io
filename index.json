@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18049070318812005",
+      "product_number": 52,
+      "item_id": "366071583",
+      "name": "52. 맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1L 1개 + 올리브그린 1L 1개 + 뚜껑, 2개",
+      "published_at": "2026-09-24T21:46:09Z",
+      "price": "3990원",
+      "discount": "할인 78%",
+      "review": "리뷰 4.5 (6407)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4d88f941fee3e723c2a2c0a4906e8e09/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/pjMokdHD",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18110007362145620",
       "product_number": 190,
       "item_id": "794488291",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18120343190473880",
+      "product_number": 186,
+      "item_id": "194042979",
+      "name": "186. 해남 호풍미 호박고구마, 대, 5kg, 1박스",
+      "published_at": "2026-09-24T20:15:54Z",
+      "price": "10900원",
+      "discount": "할인 65%",
+      "review": "리뷰 4.4 (84)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-8102a012c5ef730b4996b236096da2c8/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/fVKqSdqo",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18083276675320161",
       "product_number": 185,
       "item_id": "2295930345",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18112164554167497",
+      "product_number": 173,
+      "item_id": "2226153335",
+      "name": "173. 홍로 세척사과, 16-25과 내외, 3kg, 1박스",
+      "published_at": "2026-09-24T16:00:51Z",
+      "price": "11800원",
+      "discount": "할인 73%",
+      "review": "리뷰 4.3 (5080)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-645af0c7c82bd681df41bd8fa6218a9a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/do19kKDx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18336772852256290",
       "product_number": 171,
       "item_id": "2287417559",

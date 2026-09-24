@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17985235947028024",
+      "product_number": 161,
+      "item_id": "1189931433",
+      "name": "161. 유러피안샐러드, 1kg, 1박스",
+      "published_at": "2026-09-24T00:01:24Z",
+      "price": "10900원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.5 (335)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-dba0e5f5c8d8fd34551b4e3507ea3492/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/tZkrUpgs",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18215672971344446",
       "item_id": "1046007247",
       "name": "5. 한우 사골 도가니탕, 500g, 5팩",

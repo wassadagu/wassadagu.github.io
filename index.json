@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17900304264369618",
+      "product_number": 165,
+      "item_id": "2642058561",
+      "name": "165. 랑카스 하이올레익 땅콩버터 100%, 스무스, 500g, 2개",
+      "published_at": "2026-09-24T01:46:13Z",
+      "price": "9500원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.6 (170)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a502471a1a2789ed0358f05aabeaea25/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/LLJ7ERVg",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17898773244603745",
       "product_number": 164,
       "item_id": "78459743",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17911524861530802",
+      "product_number": 195,
+      "item_id": "2637398985",
+      "name": "195. 허니맘 24종 무첨가 주방세제, 4L, 2개",
+      "published_at": "2026-09-24T23:46:13Z",
+      "price": "7900원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.6 (192)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5700769e2196a09b78aef2db88a72183/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/b45SSlhw",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18349484872271125",
       "product_number": 194,
       "item_id": "84326493",

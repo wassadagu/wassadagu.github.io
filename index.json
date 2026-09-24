@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18128737153705469",
+      "item_id": "146304027",
+      "name": "7. 수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",
+      "published_at": "2026-09-24T22:46:03Z",
+      "price": "2490원",
+      "discount": "할인 93%",
+      "review": "리뷰 4.7 (10670)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-978fd5e06796e27ebc0ecb56b8bec61c/card.jpg",
+      "sharelink_url": "https://toss.im/_m/zPHNur02",
+      "mapping_status": "MAPPED",
+      "product_number": 7
+    },
+    {
       "media_id": "17918366145240121",
       "product_number": 192,
       "item_id": "7748563",

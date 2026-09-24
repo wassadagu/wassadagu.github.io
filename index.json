@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18487647568106270",
+      "product_number": 177,
+      "item_id": "2652730739",
+      "name": "177. 동원 보성녹차, 350ml, 24개",
+      "published_at": "2026-09-24T17:00:51Z",
+      "price": "11790원",
+      "discount": "할인 54%",
+      "review": "리뷰 4.8 (506)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5a5d83dfa891e4399677d50e5f4acd50/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/PG7OUJ2m",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18115858354999825",
       "product_number": 175,
       "item_id": "156576509",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18083276675320161",
+      "product_number": 185,
+      "item_id": "2295930345",
+      "name": "185. 육중대 듀록 흑돼지 삼겹살, 500g, 4개",
+      "published_at": "2026-09-24T19:01:04Z",
+      "price": "22900원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.4 (843)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-54f8e3ebf3a53ea0cbceea81aa92b9be/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/BVEUCTqh",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17889452955453789",
       "product_number": 183,
       "item_id": "966073717",

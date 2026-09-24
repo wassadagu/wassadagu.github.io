@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18349484872271125",
+      "product_number": 194,
+      "item_id": "84326493",
+      "name": "194. 더 빅토리아, 플레인, 500ml, 20개",
+      "published_at": "2026-09-24T23:15:58Z",
+      "price": "8900원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.8 (4246)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5569c9f603a4bdfd3d544a27bf89cb1a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/HPZHPcDa",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18128737153705469",
       "item_id": "146304027",
       "name": "7. 수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",

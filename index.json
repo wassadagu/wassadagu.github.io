@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18102898981999277",
+      "product_number": 197,
+      "item_id": "1319576795",
+      "name": "197. 럽센트 스크럽 워시 플라워마켓, 화이트 튤립향, 500ml, 2개",
+      "published_at": "2026-09-25T00:15:54Z",
+      "price": "14900원",
+      "discount": "할인 72%",
+      "review": "리뷰 4.7 (567)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ea2d9459c2f0afa034c3120e62f8adf1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/xhQWSKbv",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17911524861530802",
       "product_number": 195,
       "item_id": "2637398985",

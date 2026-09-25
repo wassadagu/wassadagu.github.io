@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18628039528022293",
+      "product_number": 200,
+      "item_id": "166431743",
+      "name": "200. 익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
+      "published_at": "2026-09-25T15:01:54Z",
+      "price": "11900원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.9 (922)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-43def6c70da6f0ade63ea1fb9d4d187a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/LEGvLcY5",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18098684624383824",
       "product_number": 199,
       "item_id": "2653131787",

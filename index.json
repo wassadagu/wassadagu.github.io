@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18086508278686196",
+      "product_number": 224,
+      "item_id": "141267985",
+      "name": "224. 40000KM 블로어 행거, 블랙, 원사이즈",
+      "published_at": "2026-09-25T23:02:46Z",
+      "price": "12900원",
+      "discount": "할인 45%",
+      "review": "리뷰 4.4 (180)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-47842710eea3e5d8fa630cb046d48ddd/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/3WK6GVvd",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18125523154843097",
       "product_number": 223,
       "item_id": "2636765689",

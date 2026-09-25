@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18339935419287286",
+      "product_number": 219,
+      "item_id": "2651609355",
+      "name": "219. 메리플라워 여성 중목 양말 5종, FREE, 10켤레",
+      "published_at": "2026-09-25T21:31:01Z",
+      "price": "8900원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.8 (5)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-1749eecd6896258d74be4f8a8987b63a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/1SNQzMIk",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "17949326298310289",
+      "product_number": 217,
+      "item_id": "1964260313",
+      "name": "217. 샤오커오라 비타민C 종합사탕, 100g, 5개",
+      "published_at": "2026-09-25T21:00:59Z",
+      "price": "12900원",
+      "discount": "할인 37%",
+      "review": "리뷰 4.8 (667)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4c61b493a3a5cf6b55ab871ea337ddb9/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/TxCVuTun",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18068258699599133",
       "product_number": 215,
       "item_id": "432494761",

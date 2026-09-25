@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17992970276994947",
+      "product_number": 105,
+      "item_id": "2625255849",
+      "name": "105. 일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+      "published_at": "2026-09-25T18:31:05Z",
+      "price": "4990원",
+      "discount": "할인 83%",
+      "review": "리뷰 4.7 (945)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-c916fb1fa5036ea5c4f2e2ec0483ce86/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/NtOa85Dp",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18130994017706781",
       "item_id": "119672207",
       "name": "24. 더건강플러스 엑스트라버진 올리브오일, 1L, 1개",

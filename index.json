@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17903543976574226",
+      "product_number": 222,
+      "item_id": "193293929",
+      "name": "222. 자동차 하이브리드 와이퍼, 650mm + 450mm, 1세트",
+      "published_at": "2026-09-25T22:31:00Z",
+      "price": "5900원",
+      "discount": "할인 70%",
+      "review": "리뷰 4.5 (207)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-efe1be07247775b59c9c60e7f4e63aff/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5r1unENf",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "17911862382530355",
+      "product_number": 221,
+      "item_id": "224101179",
+      "name": "221. 어가찬 지리멸치 볶음용, 1.5kg, 1박스",
+      "published_at": "2026-09-25T22:01:02Z",
+      "price": "13900원",
+      "discount": "할인 58%",
+      "review": "리뷰 4.4 (1602)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0058a70eb05810ff8ff589e13945e44e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vaoEF2i3",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18339935419287286",
       "product_number": 219,
       "item_id": "2651609355",

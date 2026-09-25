@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17929251801161708",
+      "product_number": 163,
+      "item_id": "1981583165",
+      "name": "163. 에센스웨어 PD PPS GaN C타입 25W 초고속 충전기 C to C 60W 1M 케이블 세트, 화이트, 1세트",
+      "published_at": "2026-09-25T01:01:07Z",
+      "price": "3430원",
+      "discount": "할인 68%",
+      "review": "리뷰 4.7 (181)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-bb14028399c7eed4ef7d9b905cdd01d7/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/pSLwqulx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18102898981999277",
       "product_number": 197,
       "item_id": "1319576795",

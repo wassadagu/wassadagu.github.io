@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18123866389898607",
+      "product_number": 210,
+      "item_id": "2548576371",
+      "name": "210. MTC 바이오 히알루론산 세럼, 100ml, 1개",
+      "published_at": "2026-09-25T17:30:55Z",
+      "price": "9900원",
+      "discount": "할인 83%",
+      "review": "리뷰 3.5 (2)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ba5eef7b530f48f36e3ff680756806d1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/3WokyvS5",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18092644181169354",
       "product_number": 208,
       "item_id": "450709217",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18114183686321194",
+      "product_number": 202,
+      "item_id": "686726575",
+      "name": "202. 에이트루 오리진 카밍 순 앰플, 50ml, 1개",
+      "published_at": "2026-09-25T15:30:42Z",
+      "price": "8900원",
+      "discount": "할인 74%",
+      "review": "리뷰 5.0 (1)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a619a5f2a1dbf647483fccf415187230/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/3E9yHkH3",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18628039528022293",
       "product_number": 200,
       "item_id": "166431743",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18092619548163907",
+      "product_number": 110,
+      "item_id": "1184228677",
+      "name": "110. 노르디쿡 IH 무쇠팬 28cm, 1개 + 뒤집개, 1개, 1세트",
+      "published_at": "2026-09-26T02:16:15Z",
+      "price": "8330원",
+      "discount": "할인 91%",
+      "review": "리뷰 4.5 (2672)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a6e433c6c44ee55fe5148c5297ea0e4f/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vMDn5jZz",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17911965435284699",
       "product_number": 228,
       "item_id": "104470241",

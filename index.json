@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17887859988468376",
+      "product_number": 240,
+      "item_id": "2661734941",
+      "name": "240. 더빠삭 오리지널 순살치킨 대용량, 1kg, 1개",
+      "published_at": "2026-09-26T16:30:47Z",
+      "price": "13600원",
+      "discount": "할인 50%",
+      "review": "리뷰 0.0 (0)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-1c129d32d6d50a941c167f7c9c932fcb/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jbdDtkSy",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18089695808461799",
       "product_number": 238,
       "item_id": "2658216117",

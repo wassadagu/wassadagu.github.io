@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18114104495040485",
+      "product_number": 244,
+      "item_id": "1001446989",
+      "name": "244. 만토바 블랙 발사믹 글레이즈, 250ml, 2개",
+      "published_at": "2026-09-26T17:31:08Z",
+      "price": "12900원",
+      "discount": "할인 48%",
+      "review": "리뷰 4.7 (97)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-027b6a5bd4bbf4516073764db64b71ad/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jRp2LyC9",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18630028750054693",
       "product_number": 242,
       "item_id": "183993533",

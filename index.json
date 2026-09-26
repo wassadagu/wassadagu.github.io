@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18119988142977483",
+      "product_number": 226,
+      "item_id": "2645602591",
+      "name": "226. 다용도 반투명 정리함, 20입, 반투명, 1세트",
+      "published_at": "2026-09-26T00:01:01Z",
+      "price": "7899원",
+      "discount": "할인 80%",
+      "review": "리뷰 4.2 (280)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-39cd4bf119be7e8a8fa314ce0733baa5/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/TCGiST1m",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17939838117358294",
       "product_number": 225,
       "item_id": "2644506203",

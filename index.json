@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18114371783593945",
+      "product_number": 231,
+      "item_id": "2652913851",
+      "name": "231. Nucle 팅글탱글 PD 20W 고속 충전기 + 60W C to C 초고속 케이블, 오렌지, 1m, 1세트",
+      "published_at": "2026-09-26T08:00:56Z",
+      "price": "6900원",
+      "discount": "할인 76%",
+      "review": "리뷰 4.7 (816)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-74d51657eb623e27452e9ea91121bbc1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/TRMhhVvd",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18097145144386749",
       "item_id": "90382271",
       "name": "27. 스파클 생수, 무라벨, 2L, 24개",

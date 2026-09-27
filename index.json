@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18176448673443983",
+      "product_number": 264,
+      "item_id": "2655707409",
+      "name": "264. 일양약품 눈건강 루테인 골드, 30캡슐, 6개",
+      "published_at": "2026-09-27T15:31:02Z",
+      "price": "17800원",
+      "discount": "할인 94%",
+      "review": "리뷰 4.7 (171)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a38a63d5a632ee6c638ae9ec6e88e8f6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/nBgJKxZb",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17904731667588575",
       "product_number": 262,
       "item_id": "2460475873",

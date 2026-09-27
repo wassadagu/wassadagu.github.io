@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17950203048267231",
+      "product_number": 276,
+      "item_id": "480370229",
+      "name": "276. 주리에떼 프레리 금 목걸이, 14K, 옐로우, 1개",
+      "published_at": "2026-09-27T18:31:05Z",
+      "price": "159800원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.7 (107)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d94ab7699ab465c9786eba0a27b90f41/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/ZPysuezj",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18127403891491623",
       "product_number": 274,
       "item_id": "2221296103",

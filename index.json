@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17942858043086066",
+      "product_number": 272,
+      "item_id": "2661266661",
+      "name": "272. 해남 노란속살 비세척 호박고구마, 특상, 5kg, 1박스",
+      "published_at": "2026-09-27T17:30:59Z",
+      "price": "14600원",
+      "discount": "할인 36%",
+      "review": "리뷰 5.0 (3)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-233452b249194a581ea9e9fe827838e9/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/nZm15pZ",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18127084303844412",
       "product_number": 270,
       "item_id": "2636115179",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17947732230314431",
+      "product_number": 281,
+      "item_id": "559210893",
+      "name": "281. 쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
+      "published_at": "2026-09-27T20:30:53Z",
+      "price": "8200원",
+      "discount": "할인 67%",
+      "review": "리뷰 4.5 (5882)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a40451e3a583fcb8e89ed8e1230afce4/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/pI5QLChh",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17981778854898279",
       "product_number": 279,
       "item_id": "267817977",

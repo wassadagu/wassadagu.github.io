@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17985757796880906",
+      "product_number": 283,
+      "item_id": "2640730265",
+      "name": "283. 썬키스트 오렌지 소다, 190ml, 30개",
+      "published_at": "2026-09-27T21:00:51Z",
+      "price": "8900원",
+      "discount": "할인 47%",
+      "review": "리뷰 0.0 (0)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-66d65e2a4db69aa9b93f22c98a6773a1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/bET84P41",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17947732230314431",
       "product_number": 281,
       "item_id": "559210893",

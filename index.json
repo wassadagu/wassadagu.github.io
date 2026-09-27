@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18128190934795610",
+      "product_number": 266,
+      "item_id": "10143353",
+      "name": "266. 스파클 생수, 무라벨, 500ml, 60병",
+      "published_at": "2026-09-27T16:00:58Z",
+      "price": "9990원",
+      "discount": "할인 44%",
+      "review": "리뷰 4.9 (28493)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e39ac0d10dcc3510319c894d3860cc73/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/T7LJ7Ep7",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18176448673443983",
       "product_number": 264,
       "item_id": "2655707409",

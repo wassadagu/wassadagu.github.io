@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18117962048283404",
+      "product_number": 298,
+      "item_id": "1513747303",
+      "name": "298. 알제이 스틸 스키니 마스카라, 블랙, 2개",
+      "published_at": "2026-09-28T15:02:01Z",
+      "price": "10900원",
+      "discount": "할인 39%",
+      "review": "리뷰 4.1 (3166)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-fb3b1188c1d7238b527f30697ee6e4bd/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/1x1yAvHj",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "18104566237973468",
+      "product_number": 296,
+      "item_id": "2183395703",
+      "name": "296. 리피트인 딥퍼퓸 모이스처 프로틴 샴푸, 오드플로럴향, 1L, 2개",
+      "published_at": "2026-09-28T08:01:30Z",
+      "price": "8800원",
+      "discount": "할인 56%",
+      "review": "리뷰 4.7 (69)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-550c3d1bbf617df405fb0e8405f13463/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/lMbOrcL5",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18627032362045290",
       "product_number": 295,
       "item_id": "172216357",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18381531160236970",
+      "product_number": 290,
+      "item_id": "773619049",
+      "name": "290. 한돈 1+등급 뒷고기, 요리용, 500g, 2팩",
+      "published_at": "2026-09-28T00:16:12Z",
+      "price": "10900원",
+      "discount": "할인 58%",
+      "review": "리뷰 4.4 (2140)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4f2e6fe62984ac0d870f53f3adb32675/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/tuQmxfoc",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18089612834450144",
       "product_number": 289,
       "item_id": "2653093475",

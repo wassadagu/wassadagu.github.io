@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18627032362045290",
+      "product_number": 295,
+      "item_id": "172216357",
+      "name": "295. 포켓몬스터 모션감지 센서등 무드등, 메타몽",
+      "published_at": "2026-09-28T07:16:14Z",
+      "price": "14800원",
+      "discount": "할인 40%",
+      "review": "리뷰 5.0 (3)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-f464b913d91747bead66fd9ca1f363b4/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/ZK0P3NMp",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18113391941043734",
       "item_id": "90382271",
       "name": "27. 스파클 생수, 무라벨, 2L, 24개",

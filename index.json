@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18487789015108586",
+      "product_number": 301,
+      "item_id": "2641870739",
+      "name": "301. 과일꾼 제주 극조생 감귤, 로얄과, 5kg, 1박스",
+      "published_at": "2026-09-28T23:31:31Z",
+      "price": "11900원",
+      "discount": "할인 77%",
+      "review": "리뷰 4.3 (389)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-36cdbe0f945cee222ac604977ebc95fe/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/LykXiSNu",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-992821dc342905f6a413646ccaadf58d:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "product_number": 300,

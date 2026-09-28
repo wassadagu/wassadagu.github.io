@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17969424558175220",
+      "product_number": 291,
+      "item_id": "2338930751",
+      "name": "291. 촉촉한 한입 밀크카스테라 우유케이크 대용량 개별포장, 1kg, 28개, 1팩",
+      "published_at": "2026-09-28T00:46:05Z",
+      "price": "6900원",
+      "discount": "할인 78%",
+      "review": "리뷰 4.5 (796)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-fa906053b4fd588521ff9d274655289a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/nyDGPqDx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18381531160236970",
       "product_number": 290,
       "item_id": "773619049",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18097092500452892",
+      "product_number": 65,
+      "item_id": "81251291",
+      "name": "65. 호정가 우리쌀약과, 1kg, 1세트",
+      "published_at": "2026-09-28T02:01:06Z",
+      "price": "4990원",
+      "discount": "할인 68%",
+      "review": "리뷰 4.8 (1220)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3ca061e0deceb9fbb45dad85b14a6e80/card.jpg",
+      "sharelink_url": "https://toss.im/_m/dMtAa14v",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18178011091437825",
       "product_number": 292,
       "item_id": "2656413749",

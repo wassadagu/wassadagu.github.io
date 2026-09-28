@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18113391941043734",
+      "item_id": "90382271",
+      "name": "27. 스파클 생수, 무라벨, 2L, 24개",
+      "published_at": "2026-09-28T04:30:58Z",
+      "price": "7400원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.8 (70131)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2bc69a2cd63fe490ae2392e324a2f8b1/card.jpg",
+      "sharelink_url": "https://toss.im/_m/5cOxw7f7",
+      "mapping_status": "MAPPED",
+      "product_number": 27
+    },
+    {
+      "media_id": "18189999385404460",
+      "product_number": 294,
+      "item_id": "2621363823",
+      "name": "294. 맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "published_at": "2026-09-28T02:47:48Z",
+      "price": "4990원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.3 (3)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ea2f856685821ee076b96e8626d823a3/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vMONQmJa",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18097092500452892",
       "product_number": 65,
       "item_id": "81251291",

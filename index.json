@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18178011091437825",
+      "product_number": 292,
+      "item_id": "2656413749",
+      "name": "292. 국내산 햇 신고 배, 가정용, 대과, 4kg, 10-16과, 1박스",
+      "published_at": "2026-09-28T01:16:14Z",
+      "price": "10900원",
+      "discount": "할인 57%",
+      "review": "리뷰 0.0 (0)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0d11e18d339d5c41a256d1232f1f441c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5YfMV8qm",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17969424558175220",
       "product_number": 291,
       "item_id": "2338930751",

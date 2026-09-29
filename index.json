@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18167189494475748",
+      "product_number": 319,
+      "item_id": "200602521",
+      "name": "319. 파이토메이드 고칼슘&비타민D 두유 검은콩, 190ml, 24개",
+      "published_at": "2026-09-29T15:31:37Z",
+      "price": "8600원",
+      "discount": "할인 45%",
+      "review": "리뷰 4.7 (2748)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-376311e8528b0eb714e2bda3d65a023a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/bviIv1W6",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18239092984317233",
       "product_number": 317,
       "item_id": "2643465475",

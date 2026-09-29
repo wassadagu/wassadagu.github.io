@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18464930455184837",
+      "product_number": 331,
+      "item_id": "390831281",
+      "name": "331. 수블랑 래피드 프레쉬 샴푸, 300ml, 2개",
+      "published_at": "2026-09-29T18:46:05Z",
+      "price": "11000원",
+      "discount": "할인 87%",
+      "review": "리뷰 4.7 (158)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0bc070459e724a309fd55a80d28836ac/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/TQGWHRqe",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18011858636763687",
       "product_number": 329,
       "item_id": "2184701663",

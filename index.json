@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18070813931726794",
+      "product_number": 327,
+      "item_id": "2636259589",
+      "name": "327. 잠스트 무릎보호대 JK-Band, 블랙, S, 2개입",
+      "published_at": "2026-09-29T17:46:38Z",
+      "price": "30680원",
+      "discount": "할인 30%",
+      "review": "리뷰 0.0 (0)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4199439fd3807e8a37e760e93b8a43b5/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/HBUKzNHC",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "18130980562739943",
+      "product_number": 278,
+      "item_id": "379824037",
+      "name": "278. 한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
+      "published_at": "2026-09-29T17:30:47Z",
+      "price": "12800원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.7 (22891)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ea8ef2abda0a67ae1131e5bc536a7832/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/fgeRm2gC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18072075293733802",
       "product_number": 325,
       "item_id": "446735657",

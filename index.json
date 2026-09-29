@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17962068042239062",
+      "product_number": 312,
+      "item_id": "140116969",
+      "name": "312. 익스트림 듀얼 아르기닌 플러스, 120정, 1개",
+      "published_at": "2026-09-29T08:01:00Z",
+      "price": "9900원",
+      "discount": "할인 67%",
+      "review": "리뷰 4.8 (1615)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-214b63475d41a769ca187b7ff289f40a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/x1oyK1zD",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18626706157058803",
       "product_number": 294,
       "item_id": "2621363823",

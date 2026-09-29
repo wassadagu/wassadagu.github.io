@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18021804659718753",
+      "product_number": 323,
+      "item_id": "2625185613",
+      "name": "323. 한촌설렁탕 국물 6종 세트, 500g, 6개, 1세트",
+      "published_at": "2026-09-29T16:30:46Z",
+      "price": "19900원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.7 (115)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-344a53e7dc89a92c7ab429fdb0295270/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/z5MQzBux",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18102981179274097",
       "product_number": 321,
       "item_id": "2605816491",

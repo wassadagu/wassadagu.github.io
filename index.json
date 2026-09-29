@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18032558804907160",
+      "product_number": 338,
+      "item_id": "87829161",
+      "name": "338. 리벤스 잘 닦이는 살균 행주 티슈, 60매, 10팩",
+      "published_at": "2026-09-29T21:15:59Z",
+      "price": "9800원",
+      "discount": "할인 62%",
+      "review": "리뷰 4.6 (222)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-6c892e69675feeea53ad5125b1ca25d0/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/1VQ95iSa",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18132718291675029",
       "product_number": 336,
       "item_id": "773646201",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18072075293733802",
+      "product_number": 325,
+      "item_id": "446735657",
+      "name": "325. 맛꾼 뼈없는 한돈 양념갈비, 300g, 5팩",
+      "published_at": "2026-09-29T17:00:56Z",
+      "price": "20900원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.3 (4176)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9057803d4d3f3dae7ac44d0d22d6a85a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/HbdMPMHx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18021804659718753",
       "product_number": 323,
       "item_id": "2625185613",

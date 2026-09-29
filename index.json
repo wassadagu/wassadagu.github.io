@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17989727550107634",
+      "product_number": 284,
+      "item_id": "125015071",
+      "name": "284. 호정가 군고구마도나스, 960g, 16개입, 1개",
+      "published_at": "2026-09-29T01:45:56Z",
+      "price": "4990원",
+      "discount": "할인 68%",
+      "review": "리뷰 4.6 (316)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-80109b8101df82b52fd53b35c3b8030b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/doXa1Xcm",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-712d6cf2d1a3aa3769ba23a0f42bfba2:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "product_number": 307,

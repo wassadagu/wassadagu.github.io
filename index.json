@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18102981179274097",
+      "product_number": 321,
+      "item_id": "2605816491",
+      "name": "321. 하남댁 전통 참기름, 350ml, 2병",
+      "published_at": "2026-09-29T16:00:47Z",
+      "price": "10900원",
+      "discount": "할인 45%",
+      "review": "리뷰 4.5 (477)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-f7fd317d491e890f6251adb71b705fcb/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/RXuPw8c3",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18167189494475748",
       "product_number": 319,
       "item_id": "200602521",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18176947555448012",
+      "product_number": 360,
+      "item_id": "38872393",
+      "name": "360. 아토몽드 씨위드 키즈샴푸, 1000ml, 1개",
+      "published_at": "2026-09-30T18:16:04Z",
+      "price": "12400원",
+      "discount": "할인 69%",
+      "review": "리뷰 4.8 (106)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-1aab33c86d08c86f39671e07e2e43780/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/J1mNowMz",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18049479257606122",
       "product_number": 359,
       "item_id": "2653726875",

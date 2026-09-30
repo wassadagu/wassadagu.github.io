@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18072040079572926",
+      "product_number": 361,
+      "item_id": "2662678907",
+      "name": "361. 후디스 소화편한 우유 바나나, 190ml, 24개",
+      "published_at": "2026-09-30T18:46:05Z",
+      "price": "11900원",
+      "discount": "할인 64%",
+      "review": "리뷰 5.0 (1)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-958546e578c9a8fa357d967f49f8f0b7/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/psPjsQ5B",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17912567304532580",
       "product_number": 329,
       "item_id": "2184701663",

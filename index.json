@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17968517898170908",
+      "product_number": 367,
+      "item_id": "2480890741",
+      "name": "367. 동원 덴마크 인포켓치즈 오리지널, 20g, 30개",
+      "published_at": "2026-09-30T21:16:01Z",
+      "price": "17900원",
+      "discount": "할인 40%",
+      "review": "리뷰 4.8 (1416)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a02d4a167ac09e24caf1bbde3272bf84/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Pceptf5v",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18142960525584669",
       "product_number": 366,
       "item_id": "2652400849",

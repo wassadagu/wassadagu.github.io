@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17938325343382137",
+      "product_number": 346,
+      "item_id": "2651298391",
+      "name": "346. 제주 서귀포 감귤, 특품, 로얄과, 5kg, 1박스",
+      "published_at": "2026-09-30T08:00:57Z",
+      "price": "13500원",
+      "discount": "할인 76%",
+      "review": "리뷰 4.4 (130)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-799f557dc0f667cccd1d59a504bf54ce/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/XaK4JbGy",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17929986711165910",
       "product_number": 344,
       "item_id": "2372706977",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-2469e3de84de1b7911595c7fcbe87993:2:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "product_number": 362,
+      "item_id": "514352731",
+      "name": "362. 가쯔 오래쓰는 자동 변기세정제, 260g, 2개",
+      "published_at": "2026-09-30T19:01:00Z",
+      "price": "4800원",
+      "discount": "할인 77%",
+      "review": "리뷰 4.5 (329)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2469e3de84de1b7911595c7fcbe87993/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/rYvOtoP"
+    },
+    {
       "media_id": "18072040079572926",
       "product_number": 361,
       "item_id": "2662678907",

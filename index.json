@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-0d1524844dca5bd775bfc8b444e86a61:2:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "product_number": 365,
+      "item_id": "109851891",
+      "name": "365. 로메인 청상추, 1kg, 1박스",
+      "published_at": "2026-09-30T20:45:56Z",
+      "price": "7900원",
+      "discount": "할인 69%",
+      "review": "리뷰 4.5 (3897)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0d1524844dca5bd775bfc8b444e86a61/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jV8J0ncv"
+    },
+    {
       "publication_key": "draft-ca2d85155337270007118bffd42f4fd3:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "product_number": 364,

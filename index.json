@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18127625236837017",
+      "product_number": 357,
+      "item_id": "2589981913",
+      "name": "357. 산과들에 윤서의달밤, 30g, 20봉",
+      "published_at": "2026-09-30T17:16:12Z",
+      "price": "11900원",
+      "discount": "할인 54%",
+      "review": "리뷰 4.7 (164)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5d9afbf062e7f8b91ebec56169a6ebc1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/lfNH5Tns",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18128963998796551",
       "product_number": 356,
       "item_id": "8137313",

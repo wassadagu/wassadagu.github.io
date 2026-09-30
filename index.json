@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17977516158068236",
+      "product_number": 354,
+      "item_id": "153854117",
+      "name": "354. 힐시드 진생 리커버리 아이크림, 30ml, 2개",
+      "published_at": "2026-09-30T16:15:45Z",
+      "price": "10800원",
+      "discount": "할인 80%",
+      "review": "리뷰 4.5 (114)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-12b350ce126ab13d5c6468cb6a7b4694/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/d7NFjSC4",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18100435184054449",
       "product_number": 353,
       "item_id": "2155181513",

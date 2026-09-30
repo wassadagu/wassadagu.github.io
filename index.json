@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18170358592417112",
+      "product_number": 289,
+      "item_id": "2653093475",
+      "name": "289. 수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+      "published_at": "2026-09-30T00:45:51Z",
+      "price": "6930원",
+      "discount": "할인 88%",
+      "review": "리뷰 4.7 (488)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0ec0bee8d5f32f589d538ce323b13339/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/lODxNIIz",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18350019319284746",
       "product_number": 340,
       "item_id": "1635986563",

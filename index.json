@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18114641065910232",
+      "product_number": 278,
+      "item_id": "379824037",
+      "name": "278. 한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
+      "published_at": "2026-09-30T17:45:47Z",
+      "price": "12800원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.7 (23463)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-80ce3ffee210f6426ffa45497cc46ac7/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/fgeRm2gC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17925701250425253",
       "product_number": 358,
       "item_id": "2662701673",

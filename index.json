@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18464252407141146",
+      "product_number": 192,
+      "item_id": "7748563",
+      "name": "192. 룩픽스 립타투, 레드, 3ml, 1개",
+      "published_at": "2026-09-30T16:30:53Z",
+      "price": "9800원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.2 (709)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-1b9e37e7622740a77706913355b74313/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/fHZyO6E9",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17977516158068236",
       "product_number": 354,
       "item_id": "153854117",

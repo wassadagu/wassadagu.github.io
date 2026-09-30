@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18142960525584669",
+      "product_number": 366,
+      "item_id": "2652400849",
+      "name": "366. 득근파티 스팀 통 닭가슴살, 6종 혼합, 100g, 30팩",
+      "published_at": "2026-09-30T21:00:52Z",
+      "price": "35900원",
+      "discount": "할인 32%",
+      "review": "리뷰 4.8 (751)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-bbe338a30b8e1c6f4ad87066792fed2a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/7Dx0tkpo",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-0d1524844dca5bd775bfc8b444e86a61:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "product_number": 365,

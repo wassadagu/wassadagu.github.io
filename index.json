@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18641594782004358",
+      "name": "380. 김삼두장인 두부야채어묵바, 150g, 5봉",
+      "price": "9900원",
+      "discount": "할인 41%",
+      "review": "리뷰 4.4 (1871)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b6ba619d8c25b80f0d8860f7ce127ef1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/p1cyzAqi",
+      "published_at": "2026-10-01T15:46:16Z",
+      "item_id": "2183622489",
+      "mapping_status": "MAPPED",
+      "product_number": 380
+    },
+    {
       "media_id": "18071836919753026",
       "item_id": "184113235",
       "name": "379. 애슐리 볶음밥, 갈릭스테이크 230g 2봉 + 케이준 230g 2봉 + 통새우 230g 2봉, 6봉",

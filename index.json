@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17950196916314119",
+      "product_number": 390,
+      "item_id": "128559899",
+      "name": "390. 피죤 퓨어 뽀드득 주방세제, 레몬향, 3L, 2개",
+      "published_at": "2026-10-01T18:31:32Z",
+      "price": "9900원",
+      "discount": "할인 61%",
+      "review": "리뷰 4.7 (1888)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0252b85be76fb9d9e91ae500dda7bd1e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/POYqLPBi",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17987543040099024",
       "item_id": "2653028679",
       "name": "389. 곰표 부침가루 2kg 1개 + 튀김가루 2kg 1개 + 밀가루 1kg 2개, 1세트",

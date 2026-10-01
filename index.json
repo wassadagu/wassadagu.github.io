@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18135097342640240",
+      "product_number": 387,
+      "item_id": "2459908895",
+      "name": "387. 고기중독 닭다리 북채, 1kg, 2팩",
+      "published_at": "2026-10-01T17:31:19Z",
+      "price": "15480원",
+      "discount": "할인 61%",
+      "review": "리뷰 4.2 (3831)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-31ff17287771b8819f682e0d3360cf93/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/n1OPmKbl",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17943285792086792",
       "product_number": 386,
       "item_id": "2295980627",

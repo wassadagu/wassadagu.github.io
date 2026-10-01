@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18019216757736556",
+      "product_number": 342,
+      "item_id": "807365761",
+      "name": "342. 팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
+      "published_at": "2026-10-01T07:31:15Z",
+      "price": "4830원",
+      "discount": "할인 83%",
+      "review": "리뷰 4.7 (4324)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2d4598a739ae651d2fd95b5fb6328714/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5eX64IGD",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "18118764613743760",
+      "product_number": 374,
+      "item_id": "2658087741",
+      "name": "374. 란센 초음파 렌즈세척기, BPL-04, 화이트, 1개",
+      "published_at": "2026-10-01T07:16:09Z",
+      "price": "9900원",
+      "discount": "할인 83%",
+      "review": "리뷰 0.0 (0)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4999f9c4d544f1742d8f1009fcf21fe7/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/huZQwMdw",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17901630783367155",
       "item_id": "90382271",
       "name": "27. 스파클 생수, 무라벨, 2L, 24개",

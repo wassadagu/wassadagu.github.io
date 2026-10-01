@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18156356314512648",
+      "product_number": 398,
+      "item_id": "9133579",
+      "name": "398. 장충동 쫄깃한 편육, 150g, 5개",
+      "published_at": "2026-10-01T22:01:03Z",
+      "price": "13200원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.6 (496)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-619dfa5dd3a1b95e9d6d512d9dc777b6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/BCRyKsA3",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-3e728155c86fee4ad3dcb42a71d07396:2:INSTAGRAM",
       "mapping_status": "MAPPED",
       "item_id": "123758699",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17959663239211773",
+      "product_number": 383,
+      "item_id": "2280888689",
+      "name": "383. 국대 프리미엄 어묵탕, 230g, 5팩",
+      "published_at": "2026-10-01T16:31:03Z",
+      "price": "12500원",
+      "discount": "할인 58%",
+      "review": "리뷰 4.5 (128)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-602995f96e32472eace3ea0f2c576a29/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/xAg7UBye",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18112282847030696",
       "product_number": 382,
       "item_id": "2645619421",

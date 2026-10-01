@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17988972846060490",
+      "product_number": 376,
+      "item_id": "2583406029",
+      "name": "376. 미트프로젝트 더블 시즈닝 BBQ 폭립, 500g, 2개",
+      "published_at": "2026-10-01T08:16:17Z",
+      "price": "14900원",
+      "discount": "할인 48%",
+      "review": "리뷰 4.3 (177)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4b5264e146e4c2f848bb228ae2b12702/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jfYNEsL",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17949896505053897",
       "product_number": 375,
       "item_id": "2602285881",

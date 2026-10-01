@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17943285792086792",
+      "product_number": 386,
+      "item_id": "2295980627",
+      "name": "386. 더블 토닝 화이트 글루타치온 콜라겐 스틱, 청사과맛, 14포, 2박스",
+      "published_at": "2026-10-01T17:16:03Z",
+      "price": "14900원",
+      "discount": "할인 73%",
+      "review": "리뷰 0.0 (0)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-c6722042fe07f9104d92a8aba40fde88/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/FJKtB9Pf",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18117306520958397",
       "product_number": 385,
       "item_id": "2666234053",

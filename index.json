@@ -3,6 +3,20 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-86b0bee2b2914706681c2fa4e1d90dbd:2:INSTAGRAM",
+      "mapping_status": "MAPPED",
+      "item_id": "2450913223",
+      "name": "399. 하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
+      "published_at": "2026-10-01T22:16:14Z",
+      "price": "8900원",
+      "discount": "할인 44%",
+      "review": "리뷰 4.6 (6818)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-331161013969091ae5f1eb62f960e714/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Ny6hUxc2",
+      "media_id": "17970702345175379",
+      "product_number": 399
+    },
+    {
       "media_id": "18156356314512648",
       "product_number": 398,
       "item_id": "9133579",
@@ -4802,18 +4816,6 @@
       "image_url": "https://shopping.toss.im/live/taca/ai/YTAxMDhk/QUoyRVBNVWFwMHFqd3FMUm1OV2N3SzJDTElNdGswTWt4MVJpNC8valBYSU4.png",
       "sharelink_url": "https://toss.im/_m/Pdl0xIAi",
       "mapping_status": "MAPPED"
-    },
-    {
-      "publication_key": "draft-86b0bee2b2914706681c2fa4e1d90dbd:2:INSTAGRAM",
-      "mapping_status": "PENDING",
-      "item_id": "2450913223",
-      "name": "하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
-      "published_at": "2026-09-17T20:15:22Z",
-      "price": "8900원",
-      "discount": "할인 44%",
-      "review": "리뷰 4.6 (6631)",
-      "image_url": "https://shopping.toss.im/live/temp/2026-07-09/e57076fd-010b-40ca-9945-50f1c7759e58.jpeg",
-      "sharelink_url": "https://toss.im/_m/zg1tvdNf"
     },
     {
       "media_id": "18111698689887497",

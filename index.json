@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17911534905498282",
+      "product_number": 429,
+      "item_id": "78767229",
+      "name": "429. 모둠 광천 김자반, 40g, 10봉",
+      "published_at": "2026-10-02T22:01:15Z",
+      "price": "10900원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.7 (2756)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5a26ebe8754fb29ff04e9e7224c74c77/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/BF6wP7Tb",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17981861682106197",
       "product_number": 428,
       "item_id": "153902721",

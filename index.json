@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18103026626633979",
+      "product_number": 410,
+      "item_id": "289078805",
+      "name": "410. 코피코 커피맛 캔디 블리스터 팩, 384g, 2개",
+      "published_at": "2026-10-02T15:46:19Z",
+      "price": "13900원",
+      "discount": "할인 42%",
+      "review": "리뷰 4.8 (484)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-067723aa3ae75c29a88253b2f2aa8774/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/pzcbMoks",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17888743272621381",
       "product_number": 409,
       "item_id": "1238388657",

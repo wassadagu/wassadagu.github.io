@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18197957227339791",
+      "product_number": 412,
+      "item_id": "2625641039",
+      "name": "412. 럭키푸드 구운계란 중란, 60구, 1개",
+      "published_at": "2026-10-02T16:16:19Z",
+      "price": "16900원",
+      "discount": "할인 34%",
+      "review": "리뷰 5.0 (2)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3658bf08f30607c0eda71218dbbee60c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/3NJGbHF8",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17882011284625489",
       "product_number": 411,
       "item_id": "1213272591",

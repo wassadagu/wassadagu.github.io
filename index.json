@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18120362509736490",
+      "product_number": 425,
+      "item_id": "2521451623",
+      "name": "425. 오즈랜드 리얼 생감자스틱, 20g, 18봉, 1박스",
+      "published_at": "2026-10-02T21:01:06Z",
+      "price": "8500원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.7 (596)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-6cd245ab7d7552f6a2d45a4b2f1f2a46/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/dZUdCyar",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18110540861133547",
       "product_number": 424,
       "item_id": "2463826413",

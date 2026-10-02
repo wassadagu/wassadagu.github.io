@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18338616388275415",
+      "product_number": 408,
+      "item_id": "1141153727",
+      "name": "408. 라이녹스 클린 마스터 펫 청소기, 12L, 주황, 1개",
+      "published_at": "2026-10-02T15:16:18Z",
+      "price": "24900원",
+      "discount": "할인 91%",
+      "review": "리뷰 4.2 (34)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-15c7d17496fba776559d3fd28f44f8fe/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/fwjyCDPj",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18199551898389267",
       "product_number": 407,
       "item_id": "1720211867",

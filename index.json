@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18623933986038427",
+      "product_number": 403,
+      "item_id": "93253001",
+      "name": "403. 교동 버섯 들깨탕, 500g, 5개",
+      "published_at": "2026-10-02T01:16:20Z",
+      "price": "12900원",
+      "discount": "할인 53%",
+      "review": "리뷰 4.6 (3388)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-46e47cfce0ffb7b691e226dcfd584061/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/PthwPGmC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18079916945433911",
       "product_number": 402,
       "item_id": "2113876961",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18079916945433911",
+      "product_number": 402,
+      "item_id": "2113876961",
+      "name": "402. 양계장사람들 난각번호2번 프리미엄 유정란, 특대란, 60구, 1개",
+      "published_at": "2026-10-02T00:16:20Z",
+      "price": "19900원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.7 (3283)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-6f2cbea51e238ff414b8aaaea97f3e62/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/xqM4Vy36",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18122432479934249",
       "product_number": 401,
       "item_id": "2601104607",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17984407295892095",
+      "product_number": 413,
+      "item_id": "2363979939",
+      "name": "413. 맛팜 국내산 미니족, 400g, 5개",
+      "published_at": "2026-10-02T16:31:22Z",
+      "price": "19800원",
+      "discount": "할인 60%",
+      "review": "리뷰 4.5 (600)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-c826868543d6ffd78f6146cb1e538263/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/BH9obIne",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18197957227339791",
       "product_number": 412,
       "item_id": "2625641039",

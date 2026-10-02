@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17888743272621381",
+      "product_number": 409,
+      "item_id": "1238388657",
+      "name": "409. 클래파 멀티 찜기 BES-131W, 화이트, 1개",
+      "published_at": "2026-10-02T15:31:14Z",
+      "price": "29800원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.7 (33)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e3c032e3b30e9f0a7072874cf2a3c809/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/PmvEByAy",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18338616388275415",
       "product_number": 408,
       "item_id": "1141153727",

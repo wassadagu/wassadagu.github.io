@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18025801145868684",
+      "product_number": 417,
+      "item_id": "2652490611",
+      "name": "417. 대구 동인동 찜갈비, 900g, 1개",
+      "published_at": "2026-10-02T17:31:26Z",
+      "price": "15500원",
+      "discount": "할인 49%",
+      "review": "리뷰 5.0 (1)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-60c87782df22ff36294f616679355f45/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/z0iRGiHp",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18040721708838066",
       "product_number": 416,
       "item_id": "2658743893",

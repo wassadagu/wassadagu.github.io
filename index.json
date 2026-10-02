@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18177001906446687",
+      "product_number": 418,
+      "item_id": "844482657",
+      "name": "418. 집밥장인 참이맛 감자탕 블랙, 1.2kg, 2개",
+      "published_at": "2026-10-02T17:46:32Z",
+      "price": "14900원",
+      "discount": "할인 21%",
+      "review": "리뷰 4.5 (137)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b385d362462e6b247be8628793a2baac/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Dz3xNoZz",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18025801145868684",
       "product_number": 417,
       "item_id": "2652490611",

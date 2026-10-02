@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18148871539478850",
+      "product_number": 427,
+      "item_id": "2626158967",
+      "name": "427. 하나의팜 샤인머스켓, 4-5수 내외, 2kg, 1박스",
+      "published_at": "2026-10-02T21:31:07Z",
+      "price": "8500원",
+      "discount": "할인 53%",
+      "review": "리뷰 4.0 (243)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3d1e7262de329c82261a7096532849cb/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/DTqROBKa",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18337263166272936",
       "product_number": 426,
       "item_id": "167795731",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17868112035662261",
+      "product_number": 431,
+      "item_id": "2261736857",
+      "name": "431. 바른 돼지국밥, 500g, 5개",
+      "published_at": "2026-10-02T22:31:25Z",
+      "price": "14900원",
+      "discount": "할인 44%",
+      "review": "리뷰 4.6 (5685)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-6501099589dc14823918d2fe9c776c52/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/NQzUW8In",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18096876056108706",
       "product_number": 430,
       "item_id": "167870451",

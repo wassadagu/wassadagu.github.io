@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18175787125448733",
+      "product_number": 414,
+      "item_id": "2328116619",
+      "name": "414. 사각 스텐 밀폐용기, 블루, 1800ml, 4개",
+      "published_at": "2026-10-02T16:46:22Z",
+      "price": "12380원",
+      "discount": "할인 58%",
+      "review": "리뷰 3.4 (71)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-db336981f6ec18b742543e634df410d6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/hXrJjT7h",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17984407295892095",
       "product_number": 413,
       "item_id": "2363979939",

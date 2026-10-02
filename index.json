@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17981861682106197",
+      "product_number": 428,
+      "item_id": "153902721",
+      "name": "428. 맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+      "published_at": "2026-10-02T21:46:22Z",
+      "price": "9900원",
+      "discount": "할인 41%",
+      "review": "리뷰 4.6 (7754)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-af15ec89fcf4183550e758c6a8f52d5e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/HoJPpnJt",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18148871539478850",
       "product_number": 427,
       "item_id": "2626158967",

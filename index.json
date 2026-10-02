@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18097100726428855",
+      "product_number": 420,
+      "item_id": "2651864951",
+      "name": "420. 순수공감 프라임 물티슈, 캡형, 70gsm, 72매, 20팩",
+      "published_at": "2026-10-02T18:31:20Z",
+      "price": "18900원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.9 (43)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-73fc38ab0d3e4de8f1cefeeca5129eb6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/viRdziUq",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18103602110346040",
       "product_number": 278,
       "item_id": "379824037",

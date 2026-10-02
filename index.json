@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18354134758222909",
+      "product_number": 422,
+      "item_id": "149101033",
+      "name": "422. 하이뮨 프로틴 밸런스 액티브 제로, 밤티라미수, 250ml, 18개",
+      "published_at": "2026-10-02T20:16:07Z",
+      "price": "19900원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.8 (1808)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-70f4266de86062441a26936f4d16289e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/thY2Ipcx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18112602752113442",
       "product_number": 329,
       "item_id": "2184701663",

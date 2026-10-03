@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18106576045948450",
+      "product_number": 451,
+      "item_id": "172278761",
+      "name": "451. 한일테크 모던 안심 전기요, 헤링본, 싱글, 1개",
+      "published_at": "2026-10-03T19:31:16Z",
+      "price": "27900원",
+      "discount": "할인 29%",
+      "review": "리뷰 4.5 (88)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-daa328d5df63c1bfce33941e9798c1c2/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/x5aKLGj7",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18109118315612719",
       "product_number": 329,
       "item_id": "2184701663",

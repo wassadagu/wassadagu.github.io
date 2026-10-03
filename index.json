@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18123010657910895",
+      "product_number": 447,
+      "item_id": "2601874047",
+      "name": "447. 청우 계란과자, 40g, 24개",
+      "published_at": "2026-10-03T18:01:10Z",
+      "price": "13900원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.6 (784)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-05848c955c283075acd78ceb6c4fbcb7/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/lvct9kkd",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18134994499571436",
       "product_number": 446,
       "item_id": "792519583",

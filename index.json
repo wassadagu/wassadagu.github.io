@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18133000153674347",
+      "product_number": 435,
+      "item_id": "1732090571",
+      "name": "435. 광동 썬키스트 피스타치오 오리지널, 190ml, 24개",
+      "published_at": "2026-10-03T08:01:24Z",
+      "price": "9900원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.8 (8)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-8efa35e01833f5a882441917fa8a8c36/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/b1ohVTsm",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17876633406568081",
       "product_number": 434,
       "item_id": "138286213",

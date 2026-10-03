@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17910957171516861",
+      "product_number": 441,
+      "item_id": "1939326161",
+      "name": "441. 갓밀크 A2 멸균우유, 1L, 6개",
+      "published_at": "2026-10-03T16:16:06Z",
+      "price": "15100원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.7 (3)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-f6026e2bfb49851fc5bb3b8076672b4a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/1CNt4k8w",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17983919658078946",
       "product_number": 440,
       "item_id": "128320725",

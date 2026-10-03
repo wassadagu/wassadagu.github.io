@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18097039358438513",
+      "product_number": 404,
+      "item_id": "2566320999",
+      "name": "404. 맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
+      "published_at": "2026-10-03T23:46:18Z",
+      "price": "5950원",
+      "discount": "할인 80%",
+      "review": "리뷰 4.6 (899)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-cf4f18f32b02670de2dde5ded1066697/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/P9gB5dc1",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18144706588602535",
       "product_number": 288,
       "item_id": "1239471885",

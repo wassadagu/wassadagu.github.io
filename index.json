@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18076507205424026",
+      "item_id": "1734968249",
+      "name": "450. 썬키스트 코코피치, 300ml, 20개",
+      "published_at": "2026-10-03T19:01:22Z",
+      "price": "9900원",
+      "discount": "할인 67%",
+      "review": "리뷰 4.6 (167)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ef13e07330c1c1c8d17b6d67b9baa41b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/7yavRCGz",
+      "mapping_status": "MAPPED",
+      "product_number": 450
+    },
+    {
       "media_id": "18141495832611099",
       "product_number": 449,
       "item_id": "2178790195",

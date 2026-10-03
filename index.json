@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18072028136737533",
+      "product_number": 459,
+      "item_id": "1141343649",
+      "name": "459. 리퀴드 고농축 라벤더 세탁세제, 2.5L, 4개",
+      "published_at": "2026-10-03T21:46:15Z",
+      "price": "7900원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.6 (7165)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9e49f53f37ce6a7bd0d464326097fe0a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/pTJSKSAy",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-43c368c92aaf1cad65e222b0d1c37e0b:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "product_number": 458,

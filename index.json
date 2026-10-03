@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18105788267622788",
+      "product_number": 445,
+      "item_id": "2661661273",
+      "name": "445. 매일두유 고단백 검은콩, 190ml, 48개",
+      "published_at": "2026-10-03T17:16:16Z",
+      "price": "34900원",
+      "discount": "할인 51%",
+      "review": "리뷰 4.8 (357)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-52d2a5018d37aa21d2e70a93bfabdcd2/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/D6sUyF3m",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17924857827204277",
       "product_number": 444,
       "item_id": "379553801",

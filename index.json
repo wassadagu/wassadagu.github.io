@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17942427159358788",
+      "product_number": 455,
+      "item_id": "1128231235",
+      "name": "455. 디핀다트 구슬아이스크림, 50ml, 레인보우 4개 + 딸기 4개 + 초코바나나 4개 + 쿠키앤크림 4개, 16개",
+      "published_at": "2026-10-03T20:46:14Z",
+      "price": "15600원",
+      "discount": "할인 44%",
+      "review": "리뷰 4.8 (1903)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-54061d51d82fda4a397d3dd172563566/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Zhlmugd2",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18143680078575964",
       "product_number": 454,
       "item_id": "2089518011",

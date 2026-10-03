@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18092340134195932",
+      "product_number": 401,
+      "item_id": "2601104607",
+      "name": "401. 이롬 국내산 약콩 무가당 두유, 190ml, 16개",
+      "published_at": "2026-10-03T23:16:13Z",
+      "price": "4990원",
+      "discount": "할인 70%",
+      "review": "리뷰 4.7 (38)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3e7bd8d1c7a84dfe24f2a6402d5943de/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Jsa0IMod",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17971410258170582",
       "product_number": 460,
       "item_id": "9634177",

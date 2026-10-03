@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18109001009178459",
+      "product_number": 437,
+      "item_id": "2640973183",
+      "name": "437. 프로프룻 국내산 햇배, 대과, 개별망포장, 5kg, 1박스",
+      "published_at": "2026-10-03T15:16:23Z",
+      "price": "14700원",
+      "discount": "할인 78%",
+      "review": "리뷰 4.4 (1910)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-be4320dda57af2536b8feaced5817675/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/NBA8HhTe",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18007454330988751",
       "item_id": "122659625",
       "name": "436. 리벤스 로얄플러스 물티슈, 캡형, 70매, 10팩",

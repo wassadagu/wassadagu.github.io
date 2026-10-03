@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18636630748019911",
+      "product_number": 453,
+      "item_id": "147567587",
+      "name": "453. 동원 통그릴 비엔나, 1kg, 2봉",
+      "published_at": "2026-10-03T20:16:05Z",
+      "price": "17900원",
+      "discount": "할인 48%",
+      "review": "리뷰 4.8 (1431)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4c15a37f2d04a7d91bca47bf96302a66/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/zzBWA8Dy",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17970115089175193",
       "product_number": 452,
       "item_id": "1225982827",

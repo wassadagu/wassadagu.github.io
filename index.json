@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17983919658078946",
+      "product_number": 440,
+      "item_id": "128320725",
+      "name": "440. 사리원 소불고기, 500g, 4팩",
+      "published_at": "2026-10-03T16:01:12Z",
+      "price": "17900원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.5 (4134)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-1e63fc53af42b09b4dd9d413b1d63118/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/LeiiFTTu",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18096873644429773",
       "product_number": 439,
       "item_id": "297277743",

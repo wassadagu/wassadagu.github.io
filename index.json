@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18143680078575964",
+      "product_number": 454,
+      "item_id": "2089518011",
+      "name": "454. 멕시카나 매콤달콤 닭강정, 500g, 2개 + 마늘간장 닭강정, 500g, 1개",
+      "published_at": "2026-10-03T20:31:16Z",
+      "price": "17990원",
+      "discount": "할인 40%",
+      "review": "리뷰 4.5 (172)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-27e7f1a6797b23e32bfedf708ee1e59c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/L1NHB7wd",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18636630748019911",
       "product_number": 453,
       "item_id": "147567587",

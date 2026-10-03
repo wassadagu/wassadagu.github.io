@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17971410258170582",
+      "product_number": 460,
+      "item_id": "9634177",
+      "name": "460. 기모 보온 니삭스, 색상 골고루, 6종, 1세트",
+      "published_at": "2026-10-03T22:01:20Z",
+      "price": "8900원",
+      "discount": "할인 52%",
+      "review": "리뷰 4.4 (942)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-46e2d4e6b7990410c14670898ea0d9d0/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/hNmXaHu3",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18072028136737533",
       "product_number": 459,
       "item_id": "1141343649",

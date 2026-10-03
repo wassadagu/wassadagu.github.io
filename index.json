@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18071418839741651",
+      "product_number": 448,
+      "item_id": "2636487233",
+      "name": "448. 프로버블리 유황 중성 비누, 110g, 8개",
+      "published_at": "2026-10-03T18:16:12Z",
+      "price": "13900원",
+      "discount": "할인 41%",
+      "review": "리뷰 4.5 (129)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-82736ed4509322880516590e2dd53e39/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/3bdcq3U5",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18123010657910895",
       "product_number": 447,
       "item_id": "2601874047",

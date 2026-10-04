@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18042098507823893",
+      "product_number": 464,
+      "item_id": "2641971513",
+      "name": "464. 자숙 동해안 홍게, 3.5kg, 1개",
+      "published_at": "2026-10-04T13:46:47Z",
+      "price": "12900원",
+      "discount": "할인 63%",
+      "review": "리뷰 2.8 (286)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-897182b910bc0873fcfd9ce821b95cb1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/7bkDK52b",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17964152751248514",
       "product_number": 463,
       "item_id": "2654102467",

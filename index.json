@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18143218516589903",
+      "product_number": 467,
+      "item_id": "103381731",
+      "name": "467. 핫식스, 더킹 애플홀릭, 355ml, 24개",
+      "published_at": "2026-10-04T21:31:24Z",
+      "price": "14400원",
+      "discount": "할인 51%",
+      "review": "리뷰 4.9 (307)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d6133dc5c9759d17259652e53e34d2cc/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/H0bcgGnD",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18157734550502114",
       "product_number": 466,
       "item_id": "173434927",

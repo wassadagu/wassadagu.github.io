@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18157734550502114",
+      "product_number": 466,
+      "item_id": "173434927",
+      "name": "466. 잘풀리는집 순수 클린, 3겹, 25m, 30롤, 2팩",
+      "published_at": "2026-10-04T21:16:16Z",
+      "price": "14330원",
+      "discount": "할인 60%",
+      "review": "리뷰 4.6 (3727)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0bd0968c434275c98a3835d60b242f86/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/lyyrVYqw",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18103758611623393",
       "product_number": 294,
       "item_id": "2621363823",

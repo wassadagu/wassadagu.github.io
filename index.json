@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18097086431401807",
+      "product_number": 291,
+      "item_id": "2338930751",
+      "name": "291. 이선별 밀크카스테라, 1kg, 1박스",
+      "published_at": "2026-10-04T21:46:22Z",
+      "price": "6900원",
+      "discount": "할인 78%",
+      "review": "리뷰 4.5 (4935)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-8cfeaa2e8a486996441ec56390fa7a46/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/zkOBswux",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18143218516589903",
       "product_number": 467,
       "item_id": "103381731",

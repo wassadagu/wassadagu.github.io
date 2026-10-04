@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-bd5cb9546a6049395f33ae2206c6b272:2:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "product_number": 470,
+      "item_id": "839172523",
+      "name": "470. 떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
+      "published_at": "2026-10-04T22:31:06Z",
+      "price": "8422원",
+      "discount": "할인 57%",
+      "review": "리뷰 4.5 (1637)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-bd5cb9546a6049395f33ae2206c6b272/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Rdv3CTS5"
+    },
+    {
       "media_id": "17870248281646581",
       "product_number": 469,
       "item_id": "179780757",

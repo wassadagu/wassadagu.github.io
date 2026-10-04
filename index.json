@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18096881930453208",
+      "product_number": 288,
+      "item_id": "1239471885",
+      "name": "288. 맛꾼 메추리알 장조림, 1kg, 2개",
+      "published_at": "2026-10-04T23:46:00Z",
+      "price": "8900원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.6 (6849)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-bfcb198172ed8622451f74d58027927c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/ToAOeSSu",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17948617920322433",
       "product_number": 401,
       "item_id": "2601104607",

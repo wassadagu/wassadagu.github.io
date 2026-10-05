@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18022097885869014",
+      "product_number": 477,
+      "item_id": "2636124007",
+      "name": "477. 남도청년 썰은김치 맛김치, 3kg, 1개",
+      "published_at": "2026-10-05T01:31:24Z",
+      "price": "8140원",
+      "discount": "할인 48%",
+      "review": "리뷰 4.3 (109)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-c333096626da358bccd6d99640e28af4/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Nl5b5xqt",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17930911410166702",
       "product_number": 476,
       "item_id": "181144541",

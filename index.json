@@ -3,6 +3,20 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-992821dc342905f6a413646ccaadf58d:2:INSTAGRAM",
+      "mapping_status": "MAPPED",
+      "product_number": 300,
+      "item_id": "2240025855",
+      "name": "300. 애슐리 볶음밥 3종, 통새우 230g 2개 + 스크램블&게살 230g 2개 + 버터와규 230g 2개, 1세트",
+      "published_at": "2026-10-05T21:46:19Z",
+      "price": "10500원",
+      "discount": "할인 44%",
+      "review": "리뷰 4.7 (1920)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ff1e02e57ed9b5302e2bd8dc7ed0718a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/LK5LTuK9",
+      "media_id": "17884134216688301"
+    },
+    {
       "media_id": "17873911386594479",
       "product_number": 405,
       "item_id": "2653091083",
@@ -2877,19 +2891,6 @@
       "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-36cdbe0f945cee222ac604977ebc95fe/card.jpg",
       "sharelink_url": "https://toss.shopping/_m/LykXiSNu",
       "mapping_status": "MAPPED"
-    },
-    {
-      "publication_key": "draft-992821dc342905f6a413646ccaadf58d:2:INSTAGRAM",
-      "mapping_status": "PENDING",
-      "product_number": 300,
-      "item_id": "2240025855",
-      "name": "300. 애슐리 볶음밥 3종, 통새우 230g 2개 + 스크램블&게살 230g 2개 + 버터와규 230g 2개, 1세트",
-      "published_at": "2026-09-28T23:16:13Z",
-      "price": "10990원",
-      "discount": "할인 41%",
-      "review": "리뷰 4.6 (1205)",
-      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-992821dc342905f6a413646ccaadf58d/card.jpg",
-      "sharelink_url": "https://toss.shopping/_m/LIJnlVIp"
     },
     {
       "media_id": "18246132178311276",

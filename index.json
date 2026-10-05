@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17950743579291245",
+      "product_number": 342,
+      "item_id": "807365761",
+      "name": "342. 팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
+      "published_at": "2026-10-05T03:46:15Z",
+      "price": "4830원",
+      "discount": "할인 83%",
+      "review": "리뷰 4.7 (5647)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-19afeaabfc38ca3baf722b742c247c75/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jyYlL8Wv",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17906119995580202",
       "product_number": 478,
       "item_id": "135264173",

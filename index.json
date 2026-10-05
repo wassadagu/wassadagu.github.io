@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18644853607019073",
+      "product_number": 487,
+      "item_id": "108768273",
+      "name": "487. 마포나루터 돼지목살왕구이, 500g, 2팩",
+      "published_at": "2026-10-05T20:16:06Z",
+      "price": "8900원",
+      "discount": "할인 70%",
+      "review": "리뷰 4.5 (1342)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-fffa89abff55da4fe88fd085af40d946/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/77dQPSf2",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17892436344654780",
       "product_number": 289,
       "item_id": "2653093475",

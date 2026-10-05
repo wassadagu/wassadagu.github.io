@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17930911410166702",
+      "product_number": 476,
+      "item_id": "181144541",
+      "name": "476. 피코크 우리집 순두부찌개, 500g, 5개",
+      "published_at": "2026-10-05T01:16:20Z",
+      "price": "14900원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.5 (226)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-cc769e6211d901e0cf58c50f0f51e356/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/TB7ldkah",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18563601706079502",
       "product_number": 475,
       "item_id": "2620039563",

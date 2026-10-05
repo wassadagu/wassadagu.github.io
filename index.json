@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18151673179557273",
+      "product_number": 473,
+      "item_id": "2642388507",
+      "name": "473. 국내산 경북 홍로사과, 18과내외, 2kg, 1박스",
+      "published_at": "2026-10-05T00:16:12Z",
+      "price": "7500원",
+      "discount": "할인 49%",
+      "review": "리뷰 4.0 (42)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a6831906efef37f7fb25abf3d7ba8bb1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/93WEYinB",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17878106874651689",
       "product_number": 404,
       "item_id": "2566320999",

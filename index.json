@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17873911386594479",
+      "product_number": 405,
+      "item_id": "2653091083",
+      "name": "405. 수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
+      "published_at": "2026-10-05T21:31:04Z",
+      "price": "6930원",
+      "discount": "할인 88%",
+      "review": "리뷰 0.0 (0)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-930f8234d89eb9e23c9c3c892c423372/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/3H7TbMQv",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17978104061924962",
       "product_number": 294,
       "item_id": "2621363823",

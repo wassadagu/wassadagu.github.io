@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18193003795393182",
+      "product_number": 480,
+      "item_id": "2510560323",
+      "name": "480. 토트잇 미니 가죽 크로스백, 블랙, Free",
+      "published_at": "2026-10-05T07:01:30Z",
+      "price": "6360원",
+      "discount": "할인 80%",
+      "review": "리뷰 4.0 (486)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-14fd4f0b846b45d79feb28ccdb736941/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/F7pXufqw",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18097883258097218",
       "product_number": 479,
       "item_id": "1309038335",

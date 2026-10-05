@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17911676691538571",
+      "product_number": 490,
+      "item_id": "2487393443",
+      "name": "490. 그린너트 두쫀쿠 스프레드, 피스타치오, 180g, 1개",
+      "published_at": "2026-10-05T22:16:12Z",
+      "price": "5850원",
+      "discount": "할인 81%",
+      "review": "리뷰 4.8 (104)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-1182ea3997121ca4a664f8f19ac70335/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/tRFpZFab",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18189925444405196",
       "product_number": 489,
       "item_id": "296698859",

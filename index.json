@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17961320775230942",
+      "product_number": 503,
+      "item_id": "340797233",
+      "name": "503. 내성 발톱 손톱깎이, 블랙, 1개",
+      "published_at": "2026-10-06T15:32:49Z",
+      "price": "4770원",
+      "discount": "할인 65%",
+      "review": "리뷰 4.5 (1679)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d505f6142763232d8374f930d8dcd3e8/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/fODkBuJ9",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18032506394672460",
       "product_number": 502,
       "item_id": "1923969451",

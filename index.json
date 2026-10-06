@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18121698049909472",
+      "product_number": 497,
+      "item_id": "2487054587",
+      "name": "497. 쉬블림로브 캔버스 에코 숄더백 TS0007, 블랙, Free, 1개",
+      "published_at": "2026-10-06T00:46:10Z",
+      "price": "5000원",
+      "discount": "할인 84%",
+      "review": "리뷰 4.2 (321)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-bdf7afb4e5b1b0e8ba14f6d9f9dbf53f/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/74vrS1cA",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18116248799088327",
       "product_number": 496,
       "item_id": "2559231423",

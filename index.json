@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18115278221089700",
+      "product_number": 419,
+      "item_id": "2599642785",
+      "name": "419. 맥콜 제로슈거, 190ml, 30개",
+      "published_at": "2026-10-06T13:01:22Z",
+      "price": "7600원",
+      "discount": "할인 57%",
+      "review": "리뷰 4.8 (387)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-020161cae688c9505a58582935a44b9c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/PQRPWHDa",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18143776846505373",
       "product_number": 391,
       "item_id": "288570013",

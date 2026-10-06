@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18492816091099579",
+      "product_number": 505,
+      "item_id": "1950895291",
+      "name": "505. 질레트 호환용 신형 프로글라이드 퓨전파워 5중 면도날, 16개",
+      "published_at": "2026-10-06T16:31:10Z",
+      "price": "6990원",
+      "discount": "할인 65%",
+      "review": "리뷰 4.3 (616)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b57d8b083a4d9ef97cd3087001011743/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/h2QdOmnC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18118526522071356",
       "product_number": 504,
       "item_id": "175690403",

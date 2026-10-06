@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18095089439222324",
+      "product_number": 514,
+      "item_id": "2187004199",
+      "name": "514. 굿프렌드 굿핏 트위스트킹 가정용 지압 스텝퍼, 민트그레이, FREE, 1개",
+      "published_at": "2026-10-06T21:30:57Z",
+      "price": "27890원",
+      "discount": "할인 62%",
+      "review": "리뷰 4.4 (85)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0796fb6a72965e89e5e84bc2a46100a6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/j4QKNjOy",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18283008826293811",
       "product_number": 513,
       "item_id": "202152727",

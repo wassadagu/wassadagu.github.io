@@ -3,6 +3,20 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-069cbfd10cf75f6739caa5b4da115a6e:2:INSTAGRAM",
+      "mapping_status": "MAPPED",
+      "item_id": "1266772507",
+      "name": "377. 연세우유 저지방 우유, 190ml, 48개",
+      "published_at": "2026-10-06T15:02:32Z",
+      "price": "24900원",
+      "discount": "할인 43%",
+      "review": "리뷰 4.8 (3494)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3c1d82191adfb9d861bf162ab8e25464/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/DOrVwaPt",
+      "media_id": "18173356558459102",
+      "product_number": 377
+    },
+    {
       "media_id": "17909389068512348",
       "product_number": 501,
       "item_id": "2493176893",

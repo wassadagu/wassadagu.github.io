@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18057589151799136",
+      "product_number": 509,
+      "item_id": "2604955903",
+      "name": "509. 애슐리 케이준 컬리 프라이즈, 740g, 2개",
+      "published_at": "2026-10-06T17:31:20Z",
+      "price": "11600원",
+      "discount": "할인 38%",
+      "review": "리뷰 4.6 (118)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-49fec75e51464d7cce5bcb8facd758a5/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/FQiNap6A",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18127984948881966",
       "product_number": 508,
       "item_id": "2373435943",

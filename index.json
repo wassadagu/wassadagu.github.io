@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18216430225357250",
+      "product_number": 511,
+      "item_id": "2222928635",
+      "name": "511. 메이홉 바디트리머, MA-0400, 오로라 화이트, 1개",
+      "published_at": "2026-10-06T18:16:26Z",
+      "price": "25260원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.7 (531)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-aeb3499f8e9f34f2c9c335c791333e37/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/VBV0cQnh",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18641287951057864",
       "product_number": 259,
       "item_id": "2234258643",

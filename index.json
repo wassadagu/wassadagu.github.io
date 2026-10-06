@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18118526522071356",
+      "product_number": 504,
+      "item_id": "175690403",
+      "name": "504. 쉬젤 뉴트로 혼합 믹싱볼 세트, 채반 24cm+쌀함박 26cm+믹싱볼 28cm, 1세트",
+      "published_at": "2026-10-06T16:16:06Z",
+      "price": "3430원",
+      "discount": "할인 91%",
+      "review": "리뷰 4.6 (905)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-38dc7656f072ba4f847ef73716243f76/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/hwxXsj8n",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18116113552794113",
       "product_number": 118,
       "item_id": "80508789",

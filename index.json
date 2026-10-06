@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18116248799088327",
+      "product_number": 496,
+      "item_id": "2559231423",
+      "name": "496. 서문시장 손맛 칼제비, 418g, 4개",
+      "published_at": "2026-10-06T00:31:32Z",
+      "price": "7990원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.8 (33)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-916e99f3fba2fb1a3e27733aa082d5c7/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/TsmstsW6",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18113571953519902",
       "product_number": 404,
       "item_id": "2566320999",

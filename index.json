@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18076895627713467",
+      "product_number": 498,
+      "item_id": "2635824425",
+      "name": "498. 할리스 블랙 아리아 아메리카노, 550ml, 24개",
+      "published_at": "2026-10-06T01:46:26Z",
+      "price": "35990원",
+      "discount": "할인 25%",
+      "review": "리뷰 4.8 (544)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b9bf197b26a1fe8ba1e5007536041473/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vkrm7Qr8",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18121698049909472",
       "product_number": 497,
       "item_id": "2487054587",

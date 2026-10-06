@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18032506394672460",
+      "product_number": 502,
+      "item_id": "1923969451",
+      "name": "502. 아침에 좋은빵 통밀식빵, 630g, 2개",
+      "published_at": "2026-10-06T15:17:10Z",
+      "price": "6860원",
+      "discount": "할인 75%",
+      "review": "리뷰 4.4 (3668)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4cbbb816381776909627f57633395490/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/BH6yupHp",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-069cbfd10cf75f6739caa5b4da115a6e:2:INSTAGRAM",
       "mapping_status": "MAPPED",
       "item_id": "1266772507",

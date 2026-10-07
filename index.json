@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18106149563196023",
+      "product_number": 518,
+      "item_id": "2362157987",
+      "name": "518. 국내산 활 흰다리새우 횟감가능, 1kg, 1박스",
+      "published_at": "2026-10-07T05:46:26Z",
+      "price": "16800원",
+      "discount": "할인 61%",
+      "review": "리뷰 4.3 (12)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-eb8b17a5e5cb7cf26c87f35923d2d223/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/rf9ZJrzD",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18135644458724359",
       "product_number": 274,
       "item_id": "2221296103",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17991658098105001",
+      "product_number": 530,
+      "item_id": "1747911959",
+      "name": "530. 제주 삼다수, 라벨 랜덤, 330ml, 40개",
+      "published_at": "2026-10-07T19:46:08Z",
+      "price": "10500원",
+      "discount": "할인 68%",
+      "review": "리뷰 4.8 (276)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-1dfb14d27ba4e906d810cad24131ff83/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/VY5wYcm3",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17865569760679325",
       "product_number": 529,
       "item_id": "134249549",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18052923332811900",
+      "product_number": 532,
+      "item_id": "200341595",
+      "name": "532. 맘스터치 시그니처 순살치킨, 1kg, 2개",
+      "published_at": "2026-10-07T20:16:20Z",
+      "price": "17900원",
+      "discount": "할인 28%",
+      "review": "리뷰 4.6 (1697)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9afd18fe22f9b85381e6b8d07748f485/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5Z6OffCe",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17956926894018306",
       "product_number": 531,
       "item_id": "2480942469",

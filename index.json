@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17904614937591929",
+      "product_number": 151,
+      "item_id": "105793053",
+      "name": "151. 널담 고단백 저당 네모 바게트 5종, 2세트",
+      "published_at": "2026-10-07T15:36:32Z",
+      "price": "8900원",
+      "discount": "할인 65%",
+      "review": "리뷰 4.7 (1189)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3fd9782c75aa9e14714210c9a86b11d9/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jjtBlkB3",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18166010056418482",
       "product_number": 520,
       "item_id": "147969277",

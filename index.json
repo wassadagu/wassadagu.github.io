@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17892748197439718",
+      "product_number": 527,
+      "item_id": "156037321",
+      "name": "527. 이장네푸드 진한 들기름, 350ml, 2개",
+      "published_at": "2026-10-07T17:31:18Z",
+      "price": "12020원",
+      "discount": "할인 77%",
+      "review": "리뷰 4.6 (1681)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3c0a8df8238322880f21a21a05f677ec/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/zxnbwIan",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18114341414096810",
       "product_number": 526,
       "item_id": "139066091",

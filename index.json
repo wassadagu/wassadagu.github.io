@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17910721260515796",
+      "product_number": 519,
+      "item_id": "1735230885",
+      "name": "519. 푸드앳홈 백명란젓, 파지, 1kg, 1개",
+      "published_at": "2026-10-07T08:01:17Z",
+      "price": "14900원",
+      "discount": "할인 59%",
+      "review": "리뷰 4.6 (559)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0663f2091a2a2b2060133a8bf85a7551/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Vyfr2mIj",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18106149563196023",
       "product_number": 518,
       "item_id": "2362157987",

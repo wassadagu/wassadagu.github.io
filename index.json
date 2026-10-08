@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18380361754231230",
+      "product_number": 547,
+      "item_id": "2225956519",
+      "name": "547. 포미 착즙 토마토주스, 750ml, 6개",
+      "published_at": "2026-10-08T21:01:21Z",
+      "price": "9725원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.7 (186)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0c050c7043d87c8512b0ecf8c98370ae/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/nRHje87q",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18131852092752878",
       "product_number": 289,
       "item_id": "2653093475",

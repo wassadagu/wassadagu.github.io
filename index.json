@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18124287794512942",
+      "product_number": 286,
+      "item_id": "2558819489",
+      "name": "286. 불도깨비 칠리 치즈스틱, 500g, 1개",
+      "published_at": "2026-10-08T15:19:52Z",
+      "price": "8300원",
+      "discount": "할인 62%",
+      "review": "리뷰 4.6 (635)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-c9de276542cecba2021a605e50bfc5f8/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/nEL7Jys2",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18111639806336235",
       "product_number": 539,
       "item_id": "2523489535",

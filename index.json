@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18119232862745137",
+      "product_number": 538,
+      "item_id": "7721809",
+      "name": "538. 신통방통 크림, 120ml, 1개",
+      "published_at": "2026-10-08T08:31:38Z",
+      "price": "8200원",
+      "discount": "할인 75%",
+      "review": "리뷰 4.3 (7450)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ad8bd203871f38f66bfe70d88db5e6f7/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/7tA90Gi2",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17910412314515698",
       "product_number": 132,
       "item_id": "151384765",

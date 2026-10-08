@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17910412314515698",
+      "product_number": 132,
+      "item_id": "151384765",
+      "name": "132. 전라도할매 배추겉절이, 5kg, 1박스",
+      "published_at": "2026-10-08T08:16:35Z",
+      "price": "17900원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.2 (554)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-785a19198006d72bf251dbe70a82fcc8/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/xGZwuezj",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17949805578285255",
       "product_number": 537,
       "item_id": "2641087463",

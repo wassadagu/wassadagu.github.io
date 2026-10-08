@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18445630048122937",
+      "product_number": 249,
+      "item_id": "303265905",
+      "name": "249. 리벤스 라벤더 바이올렛 물티슈, 100매, 10팩",
+      "published_at": "2026-10-08T17:31:21Z",
+      "price": "6870원",
+      "discount": "할인 77%",
+      "review": "리뷰 4.4 (1487)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-606f687b4d7c16d2de7ff05f8c4252ba/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/RKqYShal",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18019639991936647",
       "product_number": 542,
       "item_id": "2559634317",

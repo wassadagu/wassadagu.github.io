@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18030388214681688",
+      "item_id": "2164156071",
+      "name": "541. 메르헨트 퍼퓸 대용량 바디워시, 피치블라썸, 1L, 2개",
+      "published_at": "2026-10-08T16:01:10Z",
+      "price": "9180원",
+      "discount": "할인 69%",
+      "review": "리뷰 4.6 (2821)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a83328e91d04fa404fae430b4a1b4e82/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/zVvfbi7w",
+      "mapping_status": "MAPPED",
+      "product_number": 541
+    },
+    {
       "media_id": "18075728096550737",
       "product_number": 396,
       "item_id": "36410559",

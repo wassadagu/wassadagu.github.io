@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18111639806336235",
+      "product_number": 539,
+      "item_id": "2523489535",
+      "name": "539. 푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+      "published_at": "2026-10-08T15:05:02Z",
+      "price": "8970원",
+      "discount": "할인 73%",
+      "review": "리뷰 4.7 (12020)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-c169932bac59b1367db542a55abd1d64/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Bq1wyK9A",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18119232862745137",
       "product_number": 538,
       "item_id": "7721809",

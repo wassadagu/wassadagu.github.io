@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18114738053326276",
+      "product_number": 529,
+      "item_id": "134249549",
+      "name": "529. 고기중독 매운 돼지갈비찜, 800g, 2개",
+      "published_at": "2026-10-08T18:31:14Z",
+      "price": "15500원",
+      "discount": "할인 67%",
+      "review": "리뷰 4.1 (2422)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-511b3d7a6bbda562c119e21c2e470e33/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/py7EhBdB",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18141139462722294",
       "product_number": 404,
       "item_id": "2566320999",

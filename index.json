@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18220284214357018",
+      "product_number": 543,
+      "item_id": "144310011",
+      "name": "543. 네스카페 돌체구스토 커피머신 지니오 S 터치, 시나모롤 패키지, 화이트, 1개",
+      "published_at": "2026-10-08T17:46:24Z",
+      "price": "62100원",
+      "discount": "할인 68%",
+      "review": "리뷰 4.9 (30)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-6f892595a164c0a1a676540e4d56604d/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/FtZdmt67",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18445630048122937",
       "product_number": 249,
       "item_id": "303265905",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17949805578285255",
+      "product_number": 537,
+      "item_id": "2641087463",
+      "name": "537. 수입 우육 5종세트, 안심 200g + 소갈비살 200g + 우삼겹 200g + 업진살 200g + 부채살 200g, 1세트",
+      "published_at": "2026-10-08T08:01:29Z",
+      "price": "25920원",
+      "discount": "할인 48%",
+      "review": "리뷰 4.1 (61)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-8720789c13855c2ba7083e4a615ad882/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/V1zQbTnw",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18117061495966019",
       "product_number": 536,
       "item_id": "640108117",

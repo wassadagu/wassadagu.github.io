@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17979135372132250",
+      "product_number": 550,
+      "item_id": "301918811",
+      "name": "550. 센토 프라임 고불소 잇몸케어 치약, 프레쉬민트향, 120g, 8개",
+      "published_at": "2026-10-09T00:46:18Z",
+      "price": "13900원",
+      "discount": "할인 67%",
+      "review": "리뷰 4.6 (180)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5f0d5df0a3b816eb8c5d72517d6105ea/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/7W845QXk",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18151840699535945",
       "product_number": 329,
       "item_id": "2184701663",

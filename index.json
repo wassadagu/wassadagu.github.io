@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18119311366972350",
+      "product_number": 559,
+      "item_id": "303280721",
+      "name": "559. 페페브루노 엑스트라버진 올리브 오일, 1L, 2개",
+      "published_at": "2026-10-09T16:16:06Z",
+      "price": "23900원",
+      "discount": "할인 65%",
+      "review": "리뷰 4.8 (1928)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5fff6b167feb7ba4910fbb49d886f394/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5X3qxB5g",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18020190044736263",
       "product_number": 301,
       "item_id": "2641870739",

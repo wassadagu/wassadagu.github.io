@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18221582251341486",
+      "product_number": 564,
+      "item_id": "2326527439",
+      "name": "564. 뼈 없는 수비드 순살 통족발, 650g, 2개",
+      "published_at": "2026-10-09T17:46:27Z",
+      "price": "18500원",
+      "discount": "할인 33%",
+      "review": "리뷰 4.6 (680)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3b5db0477246bebc125b7760d9d6ebbe/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Fk34CBMj",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18394441081160929",
       "product_number": 563,
       "item_id": "7721819",

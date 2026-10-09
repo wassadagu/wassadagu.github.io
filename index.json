@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18094676705150450",
+      "product_number": 562,
+      "item_id": "146700069",
+      "name": "562. 오가닉프렌즈 정성 벌꿀 생강청, 620g, 1개",
+      "published_at": "2026-10-09T17:16:18Z",
+      "price": "11900원",
+      "discount": "할인 58%",
+      "review": "리뷰 4.6 (343)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-35b98db656213e4ac90588195a99c53a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5PpXVrti",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18100318616550620",
       "product_number": 561,
       "item_id": "281371629",

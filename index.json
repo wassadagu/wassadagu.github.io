@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18209284636360349",
+      "product_number": 569,
+      "item_id": "7727769",
+      "name": "569. 푸드앳홈 새우젓, 1kg, 2개",
+      "published_at": "2026-10-09T20:16:27Z",
+      "price": "11900원",
+      "discount": "할인 60%",
+      "review": "리뷰 4.3 (984)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-7caafce01dd23d2bbb8c4c676bb3803b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/rjrWW64c",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17895130845674598",
       "product_number": 568,
       "item_id": "2293250433",

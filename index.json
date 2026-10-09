@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18159066385499596",
+      "product_number": 566,
+      "item_id": "2315805377",
+      "name": "566. 통영 바다 장어, 1kg 당 2~4미, 3kg, 1박스",
+      "published_at": "2026-10-09T18:16:24Z",
+      "price": "27480원",
+      "discount": "할인 54%",
+      "review": "리뷰 4.4 (336)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-66cc00aed7c0ca3389cef618734e3e9d/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Tw9BDQ9m",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17910689439538662",
       "product_number": 565,
       "item_id": "2384614473",

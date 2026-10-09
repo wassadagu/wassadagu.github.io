@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18371008927245550",
+      "product_number": 570,
+      "item_id": "24812985",
+      "name": "570. 여주 바나바 플러스정, 500mg, 90정, 6개",
+      "published_at": "2026-10-09T20:46:27Z",
+      "price": "22440원",
+      "discount": "할인 81%",
+      "review": "리뷰 4.6 (1037)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2b888a40a8818b14c051d600a060a3d4/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/xcVjlLK",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18209284636360349",
       "product_number": 569,
       "item_id": "7727769",

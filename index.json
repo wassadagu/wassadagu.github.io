@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18125349385846816",
+      "product_number": 294,
+      "item_id": "2621363823",
+      "name": "294. 맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "published_at": "2026-10-09T22:31:21Z",
+      "price": "4990원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.8 (5539)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-71254f3f05df15feae517afa97144793/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vMONQmJa",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18435203527178423",
       "product_number": 289,
       "item_id": "2653093475",

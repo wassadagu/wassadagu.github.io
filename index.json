@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18086129882696191",
+      "product_number": 337,
+      "item_id": "984690425",
+      "name": "337. 구첩반찬 양념고추무침, 1kg, 1개",
+      "published_at": "2026-10-09T01:01:18Z",
+      "price": "4800원",
+      "discount": "할인 51%",
+      "review": "리뷰 4.5 (1232)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-766c9e75a487829023234b586f81d35e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5HRAwhx4",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17979135372132250",
       "product_number": 550,
       "item_id": "301918811",

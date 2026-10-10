@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17985516786120023",
+      "product_number": 579,
+      "item_id": "2154422491",
+      "name": "579. 한예지 페르니 도톰 순수 3겹 화장지, 30m, 30롤입, 2개",
+      "published_at": "2026-10-10T17:01:27Z",
+      "price": "20070원",
+      "discount": "할인 47%",
+      "review": "리뷰 4.6 (11935)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-da0f50aec84db55b1dfbb7cab5aee145/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/BgOp0u6b",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18599825986066244",
       "product_number": 578,
       "item_id": "2264708383",

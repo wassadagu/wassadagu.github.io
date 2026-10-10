@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18021074594931864",
+      "product_number": 580,
+      "item_id": "2566955185",
+      "name": "580. 냉동 삶은 홍찰옥수수, 특대, 20개",
+      "published_at": "2026-10-10T17:46:24Z",
+      "price": "12800원",
+      "discount": "할인 74%",
+      "review": "리뷰 4.4 (935)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5ba7145deda17b3c57bb63b3d14954f3/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/rN5HYiEx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17941766460098846",
       "product_number": 148,
       "item_id": "2368859981",

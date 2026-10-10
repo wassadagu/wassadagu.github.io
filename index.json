@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18500343529103112",
+      "product_number": 587,
+      "item_id": "2164803109",
+      "name": "587. 펩시콜라 엑스트라 피즈, 355ml, 24개",
+      "published_at": "2026-10-10T23:16:22Z",
+      "price": "11800원",
+      "discount": "할인 54%",
+      "review": "리뷰 4.8 (150)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a1a848229ece95b09fb322d7bd63aca1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jQhXUGrw",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18123860650900824",
       "product_number": 294,
       "item_id": "2621363823",

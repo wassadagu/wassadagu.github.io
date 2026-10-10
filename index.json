@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18413956975087057",
+      "product_number": 573,
+      "item_id": "165739913",
+      "name": "573. 테팔 셰프드 프랑스 궁중팬, 28cm, 1개",
+      "published_at": "2026-10-10T08:01:33Z",
+      "price": "21400원",
+      "discount": "할인 89%",
+      "review": "리뷰 4.6 (1778)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-76992cfb65b85ce72ca773333870530f/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/tkj8iQsB",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17991252627063486",
       "product_number": 572,
       "item_id": "151289705",

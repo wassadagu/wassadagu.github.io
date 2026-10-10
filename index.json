@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18218002978348254",
+      "product_number": 581,
+      "item_id": "2526360533",
+      "name": "581. 사이드 테이블 수납 선반, 크림화이트, 3단, 1개",
+      "published_at": "2026-10-10T18:01:26Z",
+      "price": "13000원",
+      "discount": "할인 59%",
+      "review": "리뷰 4.2 (1376)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e4cd8ebf6da0b8bcb5967aca15c650b9/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/R3Wqn0bh",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18021074594931864",
       "product_number": 580,
       "item_id": "2566955185",

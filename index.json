@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18020310788948138",
+      "product_number": 329,
+      "item_id": "2184701663",
+      "name": "329. 포천이동 양념LA갈비, 500g, 1팩",
+      "published_at": "2026-10-10T00:31:13Z",
+      "price": "6990원",
+      "discount": "할인 56%",
+      "review": "리뷰 4.6 (9066)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-cc81e5c05801714c4fd1d64092950102/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/7q1LPjpC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18134245420744134",
       "product_number": 421,
       "item_id": "2482486143",

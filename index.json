@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18022620110928266",
+      "product_number": 586,
+      "item_id": "727989761",
+      "name": "586. 사바나나 바나나칩, 100g, 5봉",
+      "published_at": "2026-10-10T20:31:38Z",
+      "price": "10000원",
+      "discount": "할인 69%",
+      "review": "리뷰 4.7 (778)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-75f961f1b30b242d76c27c271ad83a45/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/hzZvPlBj",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18093088457466007",
       "product_number": 585,
       "item_id": "255087715",

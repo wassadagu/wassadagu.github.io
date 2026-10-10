@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17941766460098846",
+      "product_number": 148,
+      "item_id": "2368859981",
+      "name": "148. 동구밭 샴푸 앤 트리트먼트바 세트, 로즈마리향 100g 2개 + 네롤리향 100g 2개, 4개",
+      "published_at": "2026-10-10T17:31:24Z",
+      "price": "12900원",
+      "discount": "할인 77%",
+      "review": "리뷰 4.7 (1905)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-f49787e5f95f855423bb01cbe360d319/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/ptBBVrGa",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18014695712956977",
       "product_number": 301,
       "item_id": "2641870739",

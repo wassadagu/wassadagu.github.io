@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18123677545872658",
+      "product_number": 571,
+      "item_id": "729464723",
+      "name": "571. 케라시스 두피 쿨링 단백질 샴푸, 지성 비듬, 980ml, 3개",
+      "published_at": "2026-10-10T00:46:18Z",
+      "price": "10940원",
+      "discount": "할인 79%",
+      "review": "리뷰 4.7 (1087)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-876ff2ee85f186da5c6634474b293104/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/HMIjCMLa",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18020310788948138",
       "product_number": 329,
       "item_id": "2184701663",

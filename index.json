@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18093088457466007",
+      "product_number": 585,
+      "item_id": "255087715",
+      "name": "585. 메르헨트 코코넛 대용량 트리트먼트, 베이비파우더향, 1500ml, 1+1 구성, 총 2개",
+      "published_at": "2026-10-10T20:16:29Z",
+      "price": "12920원",
+      "discount": "할인 67%",
+      "review": "리뷰 4.5 (602)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-06c5e30c62146daeee44ddf1686443d1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/ToiCRodq",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18409408237081747",
       "product_number": 584,
       "item_id": "318780641",

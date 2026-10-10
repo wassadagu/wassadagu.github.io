@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18599825986066244",
+      "product_number": 578,
+      "item_id": "2264708383",
+      "name": "578. 발이 편한 카바 밴딩 중목 양말, 화이트, 10켤레",
+      "published_at": "2026-10-10T16:46:21Z",
+      "price": "4200원",
+      "discount": "할인 79%",
+      "review": "리뷰 4.5 (12722)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b61bc26a4736fa6b6b7519b52d05968a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/j0ngdIbv",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18117243805802285",
       "product_number": 141,
       "item_id": "1109054481",

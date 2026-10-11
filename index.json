@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18182207020438271",
+      "product_number": 609,
+      "item_id": "143172587",
+      "name": "609. 메르헨트 약알칼리 미셀라 폼클렌징, 230ml, 4개",
+      "published_at": "2026-10-11T22:01:25Z",
+      "price": "8390원",
+      "discount": "할인 79%",
+      "review": "리뷰 4.6 (844)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-942d2e40c62e85b656d269f707065080/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/dMm2rPex",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18634086628051850",
       "product_number": 608,
       "item_id": "1181701423",

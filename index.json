@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17875005750584713",
+      "product_number": 590,
+      "item_id": "737502881",
+      "name": "590. 해피달링 온오프 필터 샤워기 헤드 + 필터 5개 세트, 그레이, 1개",
+      "published_at": "2026-10-11T03:01:23Z",
+      "price": "7620원",
+      "discount": "할인 65%",
+      "review": "리뷰 4.7 (162)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b5b2a2f9e2c5529d005243f716a52da5/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/LAqpWOyn",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18106689002343137",
       "product_number": 589,
       "item_id": "2442898043",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18106689002343137",
+      "product_number": 589,
+      "item_id": "2442898043",
+      "name": "589. 한입과득 청송 홍로 사과, 가정용, 3kg, 1박스",
+      "published_at": "2026-10-11T02:46:33Z",
+      "price": "8730원",
+      "discount": "할인 77%",
+      "review": "리뷰 4.4 (268)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-120748cbca0ad5e974aacef04a5f2f99/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/FwRWkGOa",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18115064474619069",
       "product_number": 329,
       "item_id": "2184701663",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18078147602409505",
+      "product_number": 602,
+      "item_id": "181179089",
+      "name": "602. 머레이 2in1 에어건 무선청소기 AIR-Gun, 다크네이비, 1개",
+      "published_at": "2026-10-11T19:16:23Z",
+      "price": "17023원",
+      "discount": "할인 65%",
+      "review": "리뷰 4.3 (1206)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0aaa4f4a5afd5341a516fc896eaae79d/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/77yg0NKj",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18382581517224095",
       "product_number": 404,
       "item_id": "2566320999",

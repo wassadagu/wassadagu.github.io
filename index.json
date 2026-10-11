@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17986353597111408",
+      "product_number": 601,
+      "item_id": "963704139",
+      "name": "601. 하림펫푸드 밥이보약 DOG, 튼튼한 관절, 전연령, 3.4kg, 1개",
+      "published_at": "2026-10-11T18:31:14Z",
+      "price": "25630원",
+      "discount": "할인 40%",
+      "review": "리뷰 4.8 (956)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0e5ff692a1a0866a3f5039243c74ae8c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/tC6g38qi",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17984795226095076",
       "product_number": 405,
       "item_id": "2653091083",

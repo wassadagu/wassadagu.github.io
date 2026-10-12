@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18036774263655197",
+      "product_number": 632,
+      "item_id": "196242361",
+      "name": "632. 신발 세탁망, 그레이, 19x39cm, 2개",
+      "published_at": "2026-10-12T22:46:29Z",
+      "price": "3350원",
+      "discount": "할인 67%",
+      "review": "리뷰 4.6 (1385)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-928f291baf4b70c8f04fc544301db4fc/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/LNwE6ujr",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-9319e8fdbcda6b84eb6abd4653045569:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "product_number": 631,

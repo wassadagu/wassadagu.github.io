@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18101519522259782",
+      "product_number": 616,
+      "item_id": "2650541457",
+      "name": "616. 안성마춤농협 고시히카리쌀, 특등급, 10kg, 1개",
+      "published_at": "2026-10-12T16:01:14Z",
+      "price": "35900원",
+      "discount": "할인 59%",
+      "review": "리뷰 4.7 (182)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4fdae4104e13d72d74702c97f469e6ef/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/NEpkxeO",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "17927768805184437",
+      "product_number": 615,
+      "item_id": "627705785",
+      "name": "615. 올리 프리미엄 워싱소다, 3kg, 2개",
+      "published_at": "2026-10-12T15:49:29Z",
+      "price": "6900원",
+      "discount": "할인 54%",
+      "review": "리뷰 4.8 (1412)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0b86e60680c51c38f2ad0ddd1c40aa8e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/bt34It9h",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18187736161414747",
       "product_number": 160,
       "item_id": "2651839795",

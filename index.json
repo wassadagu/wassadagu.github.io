@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18179274823429489",
+      "product_number": 627,
+      "item_id": "2605058187",
+      "name": "627. 애슐리 주먹밥 체험팩, 7가지맛, 100g, 7개",
+      "published_at": "2026-10-12T20:31:17Z",
+      "price": "8390원",
+      "discount": "할인 57%",
+      "review": "리뷰 4.6 (114)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9be1a3ae47d056df431e2c4bf3a9f63d/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/NrYXbtHx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17908935123473716",
       "product_number": 626,
       "item_id": "2073223469",

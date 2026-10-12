@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18124693927686676",
+      "product_number": 621,
+      "item_id": "135254585",
+      "name": "621. 비비고 깊은사골곰탕, 500g, 18봉",
+      "published_at": "2026-10-12T17:46:30Z",
+      "price": "17690원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.8 (1968)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a8d2efb6647df31b15a830a2fd5b020d/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/RM1qsnhm",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17950713021323552",
       "product_number": 620,
       "item_id": "2637785485",

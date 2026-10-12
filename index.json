@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18388581928228963",
+      "product_number": 619,
+      "item_id": "744710463",
+      "name": "619. 랜선식당 프리미엄 양념LA갈비, 400g, 2팩",
+      "published_at": "2026-10-12T17:01:30Z",
+      "price": "16830원",
+      "discount": "할인 43%",
+      "review": "리뷰 4.3 (104)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b4cc824843aea724c4d78b8faf53598b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Jt779Zn8",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18337800856278614",
       "product_number": 618,
       "item_id": "13017669",

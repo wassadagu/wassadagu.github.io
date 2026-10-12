@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18353579995216441",
+      "item_id": "2263839847",
+      "name": "613. 소소락 시대 순살 돈까스, 130g, 10개",
+      "published_at": "2026-10-12T08:01:39Z",
+      "price": "12975원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.3 (432)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e15ad2c0b6dd666b9ce3c9a1a80be9b8/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/hyVs6G3g",
+      "mapping_status": "MAPPED",
+      "product_number": 613
+    },
+    {
       "media_id": "17942585595090962",
       "product_number": 309,
       "item_id": "2517669083",

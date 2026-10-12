@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-6a8289cfc436b92741183e7aa8c73d73:2:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "product_number": 624,
+      "item_id": "418996905",
+      "name": "624. 참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉",
+      "published_at": "2026-10-12T19:46:04Z",
+      "price": "9240원",
+      "discount": "할인 48%",
+      "review": "리뷰 4.7 (4189)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-6a8289cfc436b92741183e7aa8c73d73/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/JgfmTeHn"
+    },
+    {
       "media_id": "18225949321327979",
       "product_number": 623,
       "item_id": "2635675067",

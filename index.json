@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18493953304100362",
+      "product_number": 599,
+      "item_id": "12833195",
+      "name": "599. 에브리워터 무라벨 생수, 2L, 24개",
+      "published_at": "2026-10-12T17:16:12Z",
+      "price": "10980원",
+      "discount": "할인 54%",
+      "review": "리뷰 4.6 (1155)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-51aae38ef8793173c642f57033c5bf46/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/HMPr54jw",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18388581928228963",
       "product_number": 619,
       "item_id": "744710463",

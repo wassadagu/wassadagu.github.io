@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17993416139846551",
+      "product_number": 598,
+      "item_id": "125833335",
+      "name": "598. 추추 추어탕, 500g, 4개",
+      "published_at": "2026-10-12T18:16:30Z",
+      "price": "11900원",
+      "discount": "할인 33%",
+      "review": "리뷰 4.5 (7277)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-aedd9f65f5bfa1eaa1830d9e8ddfd64a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/1OFnF4xo",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18134283676709333",
       "product_number": 263,
       "item_id": "2642157521",

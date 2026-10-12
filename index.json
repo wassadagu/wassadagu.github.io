@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18166647958484241",
+      "product_number": 622,
+      "item_id": "2545977563",
+      "name": "622. 메르헨트 저분자 히알루론산 모공 토너, 1000ml, 2개",
+      "published_at": "2026-10-12T18:46:29Z",
+      "price": "11340원",
+      "discount": "할인 71%",
+      "review": "리뷰 4.5 (461)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-82641bca92f101b423330a0213a32c1b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/nUOV0yei",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17870899134648965",
       "product_number": 405,
       "item_id": "2653091083",

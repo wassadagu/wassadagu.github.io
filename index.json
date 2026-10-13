@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18107330720524439",
+      "product_number": 639,
+      "item_id": "1886641407",
+      "name": "639. 나박김치, 3kg, 1박스",
+      "published_at": "2026-10-13T16:46:15Z",
+      "price": "8100원",
+      "discount": "할인 65%",
+      "review": "리뷰 4.4 (1828)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-6922aa5810ed0dea243bad6706237bc2/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/DWmMcb42",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18132168824499026",
       "product_number": 616,
       "item_id": "2650541457",

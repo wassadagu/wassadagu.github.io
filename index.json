@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17968975100964884",
+      "product_number": 375,
+      "item_id": "2602285881",
+      "name": "375. 크라운제과 인기스낵모음, 12팩, 1개",
+      "published_at": "2026-10-13T00:16:51Z",
+      "price": "8260원",
+      "discount": "할인 31%",
+      "review": "리뷰 4.6 (662)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2fba8fe3c4ce6db9bf834e271fe9e43e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/xAdmCiVq",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "17901721287600156",
+      "product_number": 633,
+      "item_id": "2652568959",
+      "name": "633. 한일의료기 국산 카본 전기요, 스트라이프, 대, 1개",
+      "published_at": "2026-10-12T23:01:17Z",
+      "price": "27970원",
+      "discount": "할인 47%",
+      "review": "리뷰 4.5 (92)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-441e2e0dbbe2b51254aefb6c0602b1b2/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/R8Ul3RE5",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18036774263655197",
       "product_number": 632,
       "item_id": "196242361",

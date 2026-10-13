@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17973219294149837",
+      "product_number": 614,
+      "item_id": "10321923",
+      "name": "614. 노랑 곱빼기 왕 떡갈비, 160g, 5봉",
+      "published_at": "2026-10-13T18:01:12Z",
+      "price": "10500원",
+      "discount": "할인 47%",
+      "review": "리뷰 4.6 (8788)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2d4dd3ef0a0933a55d4c8e3cc003f97d/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/9h0YVHkx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18130505371818021",
       "product_number": 643,
       "item_id": "163222351",

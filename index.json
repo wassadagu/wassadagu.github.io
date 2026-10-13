@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18453787825193684",
+      "product_number": 650,
+      "item_id": "166927491",
+      "name": "650. 믈레폴 와치아테 멸균우유 3.5%, 1L, 12개",
+      "published_at": "2026-10-13T21:16:30Z",
+      "price": "17940원",
+      "discount": "할인 60%",
+      "review": "리뷰 4.7 (807)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-10f62adf66bac58eceb1349fe8dc6776/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jEFg2ki7",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18489668845108062",
       "product_number": 164,
       "item_id": "78459743",

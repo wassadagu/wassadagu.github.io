@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18112961087144393",
+      "product_number": 646,
+      "item_id": "146053115",
+      "name": "646. 로마나 달콤바삭 황금 고구마칩, 320g, 4개",
+      "published_at": "2026-10-13T19:46:10Z",
+      "price": "11620원",
+      "discount": "할인 70%",
+      "review": "리뷰 4.7 (417)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9fc77d1df05da5e7663e43e0a8db9e20/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5g4mgLiw",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17925312003438991",
       "product_number": 405,
       "item_id": "2653091083",

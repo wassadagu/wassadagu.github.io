@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18489668845108062",
+      "product_number": 164,
+      "item_id": "78459743",
+      "name": "164. 청우 쫀득초코칩, 800g, 1개",
+      "published_at": "2026-10-13T20:46:27Z",
+      "price": "9490원",
+      "discount": "할인 52%",
+      "review": "리뷰 4.8 (2045)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-44169f47e089edd4369feaade70ff800/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/lcfxEdBs",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18137046883637310",
       "product_number": 649,
       "item_id": "225174587",

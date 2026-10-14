@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18097028060541202",
+      "product_number": 261,
+      "item_id": "969461319",
+      "name": "261. 보꼬네 스트링치즈, 모짜렐라 93프로, 200g, 4개",
+      "published_at": "2026-10-14T08:01:36Z",
+      "price": "17900원",
+      "discount": "할인 61%",
+      "review": "리뷰 4.7 (176)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e32be653090187b18ab06ff814efdb6a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/tExRm007",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18630817267025616",
       "product_number": 655,
       "item_id": "2652176541",

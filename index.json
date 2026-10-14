@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18100310798638290",
+      "product_number": 434,
+      "item_id": "138286213",
+      "name": "434. G7 커피 퓨어블랙 라이트, 0.9g, 110개입, 1개",
+      "published_at": "2026-10-14T10:02:09Z",
+      "price": "9080원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.5 (531)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0b1f92f8a08853f47f14d031418b2367/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/HTUbQAAt",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18097028060541202",
       "product_number": 261,
       "item_id": "969461319",

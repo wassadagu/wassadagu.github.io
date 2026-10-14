@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18221171260346438",
+      "product_number": 660,
+      "item_id": "1635986567",
+      "name": "660. 대용량 우거지 감자탕, 5kg, 1개",
+      "published_at": "2026-10-14T16:31:18Z",
+      "price": "18610원",
+      "discount": "할인 59%",
+      "review": "리뷰 4.5 (647)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0ed9228367c2e6220e752c0104257ea7/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/DMAlQUlw",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "18147842647487461",
+      "product_number": 659,
+      "item_id": "640422309",
+      "name": "659. 굿핏 신수지 무선 온열 허리 마사지기, GOOD A30, 그레이, 1개",
+      "published_at": "2026-10-14T16:16:23Z",
+      "price": "19500원",
+      "discount": "할인 86%",
+      "review": "리뷰 4.3 (240)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5d7ac5521dbd2b65d8bb79f00d3a05b1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/pMcPcG1w",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18076492106450021",
       "item_id": "1254407973",
       "name": "658. 아임닭 맛있는 닭가슴살 볶음밥, 5종, 200g, 20개",

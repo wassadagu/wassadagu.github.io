@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18033601181675191",
+      "product_number": 662,
+      "item_id": "1638808315",
+      "name": "662. 진주햄 천하장사 오리지널, 15g, 100개입, 1개",
+      "published_at": "2026-10-14T17:01:20Z",
+      "price": "15260원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.7 (723)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5693c565d5d1d8a50aafbafa4d4aa6c8/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Li6Z570A",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17988318615115867",
       "product_number": 661,
       "item_id": "446375193",

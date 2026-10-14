@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18108496184266723",
+      "product_number": 663,
+      "item_id": "999178575",
+      "name": "663. 별미촌 깻잎김치, 1kg, 1개",
+      "published_at": "2026-10-14T17:16:20Z",
+      "price": "11630원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.6 (4219)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a442076762f5af1773f37dfe1b9ef0bf/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/1LrdbI37",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18033601181675191",
       "product_number": 662,
       "item_id": "1638808315",

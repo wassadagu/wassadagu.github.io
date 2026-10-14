@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18076492106450021",
+      "item_id": "1254407973",
+      "name": "658. 아임닭 맛있는 닭가슴살 볶음밥, 5종, 200g, 20개",
+      "published_at": "2026-10-14T16:01:11Z",
+      "price": "18500원",
+      "discount": "할인 73%",
+      "review": "리뷰 4.8 (353)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3498bd0f810fef953276b1b032367ee4/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/xPVOrRB9",
+      "mapping_status": "MAPPED",
+      "product_number": 658
+    },
+    {
       "media_id": "18134582390507595",
       "product_number": 69,
       "item_id": "278980557",

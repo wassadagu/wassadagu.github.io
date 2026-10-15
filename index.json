@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17994074220045705",
+      "product_number": 689,
+      "item_id": "2234277879",
+      "name": "689. 메르헨트 퍼퓸 바디로션, 베이비파우향, 1000ml, 2개",
+      "published_at": "2026-10-15T23:45:58Z",
+      "price": "8990원",
+      "discount": "할인 77%",
+      "review": "리뷰 4.6 (561)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-84771e8cccb974b2faceb9c92c0208d8/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/ZcB7HbEk",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17929777701423317",
       "product_number": 130,
       "item_id": "2656113063",

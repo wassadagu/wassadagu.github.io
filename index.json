@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18088422338693390",
+      "product_number": 669,
+      "item_id": "174755365",
+      "name": "669. 부산포차 꼬치어묵, 400g, 3봉",
+      "published_at": "2026-10-15T00:01:15Z",
+      "price": "9900원",
+      "discount": "할인 37%",
+      "review": "리뷰 4.7 (3886)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-bf27fa0bfee09908a5fda006abd76225/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/BcbtnLls",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18104214254529573",
       "product_number": 667,
       "item_id": "78945315",

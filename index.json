@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17911843983520744",
+      "product_number": 674,
+      "item_id": "7748567",
+      "name": "674. 룩픽스 립타투, 코랄, 3ml, 1개",
+      "published_at": "2026-10-15T01:31:09Z",
+      "price": "7900원",
+      "discount": "할인 60%",
+      "review": "리뷰 3.8 (725)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-1548c171b3bbdf3e5a20b29d3321837b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/p3tR0umx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18431585158196605",
       "product_number": 673,
       "item_id": "2317495197",

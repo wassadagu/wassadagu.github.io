@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18638480758048558",
+      "product_number": 671,
+      "item_id": "122497323",
+      "name": "671. 애슐리 크리스피 핫도그 4종, 80g, 8개입, 1세트",
+      "published_at": "2026-10-15T00:46:15Z",
+      "price": "7200원",
+      "discount": "할인 51%",
+      "review": "리뷰 4.7 (3504)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-bf4d8bc1e16ec47818206a46ae7ff538/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/xiD3i8It",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18135570364643732",
       "product_number": 405,
       "item_id": "2653091083",

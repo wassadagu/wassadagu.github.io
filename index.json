@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18117453856788227",
+      "product_number": 682,
+      "item_id": "158091851",
+      "name": "682. 바시앙 플래티넘 화이트닝 크림, 50ml, 1개",
+      "published_at": "2026-10-15T17:46:29Z",
+      "price": "10200원",
+      "discount": "할인 78%",
+      "review": "리뷰 4.4 (408)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-78d51bf9eac0a8b60d92f94d85c45976/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/x7113b93",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "18062491274716597",
+      "product_number": 290,
+      "item_id": "773619049",
+      "name": "290. 한돈 1+등급 뒷고기, 요리용, 500g, 2팩",
+      "published_at": "2026-10-15T17:31:33Z",
+      "price": "10030원",
+      "discount": "할인 61%",
+      "review": "리뷰 4.4 (2378)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-41de6a5e511268d24701c6fdbc560bf9/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jxlDHirh",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18189960445409219",
       "product_number": 205,
       "item_id": "1173659789",

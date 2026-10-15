@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17929777701423317",
+      "product_number": 130,
+      "item_id": "2656113063",
+      "name": "130. 리프레쉬 맥반석오징어, 13-25미 내외, 300g, 1봉",
+      "published_at": "2026-10-15T23:16:29Z",
+      "price": "14560원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.7 (563)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-247a6d153ea4d83d0c0d6b6a9b5e30f6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5tJETSmn",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18115018094605955",
       "product_number": 688,
       "item_id": "2626230423",

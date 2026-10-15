@@ -3,6 +3,20 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-2e5c6e7e26ee703f451865d9e921bfeb:2:INSTAGRAM",
+      "mapping_status": "MAPPED",
+      "product_number": 666,
+      "item_id": "675441533",
+      "name": "666. 고기중독 통삼겹살, 구이용, 보쌈용, 2kg, 1개",
+      "published_at": "2026-10-15T18:31:27Z",
+      "price": "21800원",
+      "discount": "할인 56%",
+      "review": "리뷰 4.4 (1714)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3f6da7dc58a68f77878857b3511955f7/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/H8HkviEt",
+      "media_id": "18074790251572906"
+    },
+    {
       "media_id": "17965361561984915",
       "product_number": 683,
       "item_id": "2164114773",
@@ -339,19 +353,6 @@
       "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e96e1f959ff3d7f0f66f1030d185045a/card.jpg",
       "sharelink_url": "https://toss.shopping/_m/PqnOZPqx",
       "mapping_status": "MAPPED"
-    },
-    {
-      "publication_key": "draft-2e5c6e7e26ee703f451865d9e921bfeb:2:INSTAGRAM",
-      "mapping_status": "PENDING",
-      "product_number": 666,
-      "item_id": "675441533",
-      "name": "666. 고기중독 통삼겹살, 구이용, 보쌈용, 2kg, 1개",
-      "published_at": "2026-10-14T18:16:28Z",
-      "price": "19300원",
-      "discount": "할인 61%",
-      "review": "리뷰 4.4 (1708)",
-      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2e5c6e7e26ee703f451865d9e921bfeb/card.jpg",
-      "sharelink_url": "https://toss.shopping/_m/f7qCH8Hn"
     },
     {
       "media_id": "18107573222246049",

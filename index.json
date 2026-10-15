@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17963747271238543",
+      "product_number": 676,
+      "item_id": "24493527",
+      "name": "676. 펩시 제로 슈거 라임향, 355ml, 24개",
+      "published_at": "2026-10-15T04:46:13Z",
+      "price": "10000원",
+      "discount": "할인 61%",
+      "review": "리뷰 4.9 (2621)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-7e4404cce2e39db7dcca1a400cdb133d/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/JJ7VDs9v",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18262297606307487",
       "product_number": 675,
       "item_id": "2222482495",

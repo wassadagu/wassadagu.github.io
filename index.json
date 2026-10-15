@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18092630522267105",
+      "product_number": 670,
+      "item_id": "2653465379",
+      "name": "670. 보들꽃 극세사 행주, 24.5x24.5cm, 40매, 1개",
+      "published_at": "2026-10-15T00:16:10Z",
+      "price": "8900원",
+      "discount": "할인 44%",
+      "review": "리뷰 4.2 (307)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9072b61de82ea640f33eee7197c962bb/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vObpQnS4",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18088422338693390",
       "product_number": 669,
       "item_id": "174755365",

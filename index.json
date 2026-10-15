@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17965361561984915",
+      "product_number": 683,
+      "item_id": "2164114773",
+      "name": "683. 메르헨트 퍼퓸 대용량 바디워시, 호텔 딥 우드, 1L, 2개",
+      "published_at": "2026-10-15T18:16:33Z",
+      "price": "9180원",
+      "discount": "할인 69%",
+      "review": "리뷰 4.6 (1748)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-160172169a0da7a5cfb2228140834924/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/lKoCllPk",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17974164339154351",
       "product_number": 100,
       "item_id": "2601750975",

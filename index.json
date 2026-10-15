@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17942264685364528",
+      "product_number": 324,
+      "item_id": "333040453",
+      "name": "324. 농가살리기 통팥호박찰시루떡, 1kg, 1박스",
+      "published_at": "2026-10-15T08:01:39Z",
+      "price": "11130원",
+      "discount": "할인 62%",
+      "review": "리뷰 4.5 (1998)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2db545a23b46609c876a080ffe921192/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/P6TbQaTk",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18095027054148724",
       "product_number": 677,
       "item_id": "2186810245",

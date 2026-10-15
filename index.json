@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18147929290488553",
+      "product_number": 44,
+      "item_id": "2309623793",
+      "name": "44. 행운드림 땡큐 베이직 화장지, 3겹, 30롤, 14m, 1팩",
+      "published_at": "2026-10-15T16:46:22Z",
+      "price": "5600원",
+      "discount": "할인 43%",
+      "review": "리뷰 4.3 (676)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-07359abaa151bb8b3870a3131fdc2331/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/ZGzm05J9",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17910852201303149",
       "product_number": 102,
       "item_id": "86942843",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17965799100209031",
+      "product_number": 685,
+      "item_id": "2140892329",
+      "name": "685. 뉴클 에어볼트 PD 22.5W 고속충전 보조배터리, 20000mAh, 화이트, 1개",
+      "published_at": "2026-10-15T20:01:04Z",
+      "price": "10960원",
+      "discount": "할인 59%",
+      "review": "리뷰 4.7 (111)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-49ae8bb4a96c6f1dbd474d6ee616e47e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Zmfze6S6",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18147344767562459",
       "product_number": 684,
       "item_id": "2601104609",

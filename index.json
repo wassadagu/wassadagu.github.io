@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18095027054148724",
+      "product_number": 677,
+      "item_id": "2186810245",
+      "name": "677. 바베큐양념순살닭다리, 300g, 4개",
+      "published_at": "2026-10-15T05:16:17Z",
+      "price": "14500원",
+      "discount": "할인 47%",
+      "review": "리뷰 4.5 (386)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b6b6b580cde225240f1bcb8cd921785a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/XX1Ulmor",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17963747271238543",
       "product_number": 676,
       "item_id": "24493527",

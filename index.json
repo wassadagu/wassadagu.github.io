@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18356773261172041",
+      "product_number": 12,
+      "item_id": "2637785481",
+      "name": "12. 산들에담다 GAP 노지 감귤, 특품, 로얄과, 5kg, 1박스",
+      "published_at": "2026-10-16T17:46:28Z",
+      "price": "9990원",
+      "discount": "할인 83%",
+      "review": "리뷰 4.3 (540)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4432508f8d22b94e61b8933fe62cf1c8/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/x4naqEbv",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17964229332235308",
       "product_number": 678,
       "item_id": "1121784277",

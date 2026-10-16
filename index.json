@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18025394546928071",
+      "product_number": 706,
+      "item_id": "151316073",
+      "name": "706. 풍연 꿀설기, 50g, 20개",
+      "published_at": "2026-10-16T21:16:17Z",
+      "price": "7000원",
+      "discount": "할인 65%",
+      "review": "리뷰 4.6 (1204)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-7df44088599f636117841f8ef1de0722/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jmJciwEa",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17970254318960174",
       "product_number": 705,
       "item_id": "2650526835",

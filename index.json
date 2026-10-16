@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17915263764531129",
+      "product_number": 97,
+      "item_id": "2636712549",
+      "name": "97. 일본식 의류용 방충 방습제, 장미향, 2ml, 48개입, 3개",
+      "published_at": "2026-10-16T16:31:15Z",
+      "price": "8330원",
+      "discount": "할인 76%",
+      "review": "리뷰 4.4 (976)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e24324cfdd4bc419888e363965f74a11/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/3RLqH6ss",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-8da113cbd3192dbd9f9ede64fa3360b4:2:INSTAGRAM",
       "mapping_status": "MAPPED",
       "product_number": 136,

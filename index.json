@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18047402783817438",
+      "product_number": 694,
+      "item_id": "627662609",
+      "name": "694. 스타벅스 프리미엄 파우더커피 선물세트, 다크 로스트 아메리카노 10개입 2개 + 미디엄 로스트 아메리카노 10개입 2개 + 스타벅스 화이트 머그 325ml 1개, 1세트",
+      "published_at": "2026-10-16T05:46:20Z",
+      "price": "15300원",
+      "discount": "할인 41%",
+      "review": "리뷰 4.9 (41)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-855105209a5a2ca0a4e6ef8b4f421cec/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/FhNY5rpr",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17914417086467915",
       "product_number": 693,
       "item_id": "2636125087",

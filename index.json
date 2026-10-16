@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18096421559124845",
+      "product_number": 133,
+      "item_id": "2636164881",
+      "name": "133. 어푸 질레트 호환용 5중 면도날, 오렌지검정, 4개입, 3팩",
+      "published_at": "2026-10-16T21:31:34Z",
+      "price": "4900원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.4 (230)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2266ff34665a0cdcbb5d9eeca8e19b26/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/zeV5eiax",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18025394546928071",
       "product_number": 706,
       "item_id": "151316073",

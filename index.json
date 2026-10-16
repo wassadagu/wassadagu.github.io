@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18107947976579875",
+      "product_number": 690,
+      "item_id": "2657232205",
+      "name": "690. 극조생 감귤 햇귤, 혼합과, 5kg, 1개",
+      "published_at": "2026-10-16T00:01:29Z",
+      "price": "8800원",
+      "discount": "할인 72%",
+      "review": "리뷰 3.9 (234)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9292ab95643b7f01a46f2365bafb5ccd/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/VbxEPfKD",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17994074220045705",
       "product_number": 689,
       "item_id": "2234277879",

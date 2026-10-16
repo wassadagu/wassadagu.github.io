@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18120491554964947",
+      "product_number": 36,
+      "item_id": "1179530071",
+      "name": "36. 순살 양념 목살구이, 600g, 3개",
+      "published_at": "2026-10-16T18:31:29Z",
+      "price": "16900원",
+      "discount": "할인 57%",
+      "review": "리뷰 4.6 (6501)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-05b22b50a65539076065157e7c69331b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/r72WxKGn",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18638097853045046",
       "product_number": 698,
       "item_id": "2655545497",

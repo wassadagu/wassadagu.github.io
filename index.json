@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17971748268165632",
+      "product_number": 703,
+      "item_id": "1349815911",
+      "name": "703. 남다른 농수산 여수 돌산 갓김치, 5kg, 1개",
+      "published_at": "2026-10-16T20:31:26Z",
+      "price": "16520원",
+      "discount": "할인 71%",
+      "review": "리뷰 4.4 (490)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-05aa10663354986c9c437c9827b81a2c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/H5WtWq8b",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17967541278235641",
       "product_number": 702,
       "item_id": "35713",

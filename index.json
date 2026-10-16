@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18055649513798437",
+      "product_number": 704,
+      "item_id": "2391094925",
+      "name": "704. 대한다업 결명자차, 1.2g, 100개입, 1개",
+      "published_at": "2026-10-16T20:46:27Z",
+      "price": "4500원",
+      "discount": "할인 44%",
+      "review": "리뷰 4.6 (231)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-061ab5a9ba18ac609da3a0cebb790f6c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jnNvvjQ4",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17971748268165632",
       "product_number": 703,
       "item_id": "1349815911",

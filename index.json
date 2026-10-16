@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18103602494209121",
+      "product_number": 696,
+      "item_id": "31419195",
+      "name": "696. 애슐리 볶음밥 올인원 10종 세트, 1개",
+      "published_at": "2026-10-16T15:34:22Z",
+      "price": "14500원",
+      "discount": "할인 68%",
+      "review": "리뷰 4.7 (11288)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-040caa2561b36ae5d316f8b019594096/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jOFmleeC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17998799160041361",
       "product_number": 695,
       "item_id": "2622437583",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18470211286119724",
+      "product_number": 381,
+      "item_id": "627710385",
+      "name": "381. 법성포 영광굴비, 20cm 내외, 20마리",
+      "published_at": "2026-10-16T15:49:17Z",
+      "price": "24500원",
+      "discount": "할인 87%",
+      "review": "리뷰 4.3 (4234)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2c6e7c2bd7910ed3ddb9c844dee308e6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jNK6RqCt",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18103602494209121",
       "product_number": 696,
       "item_id": "31419195",

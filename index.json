@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17964229332235308",
+      "product_number": 678,
+      "item_id": "1121784277",
+      "name": "678. 풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
+      "published_at": "2026-10-16T17:31:25Z",
+      "price": "8500원",
+      "discount": "할인 57%",
+      "review": "리뷰 4.6 (2862)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b7cffa56d8c5aac79b65de7d6f4a497a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/FSzUbuD9",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17985233943108622",
       "product_number": 253,
       "item_id": "86166697",

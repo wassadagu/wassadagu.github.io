@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17967541278235641",
+      "product_number": 702,
+      "item_id": "35713",
+      "name": "702. 밀크앤허니 스위트 크림 치즈케이크, 520g, 1개",
+      "published_at": "2026-10-16T20:16:17Z",
+      "price": "11190원",
+      "discount": "할인 56%",
+      "review": "리뷰 4.7 (513)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5a006a114c8545c21609c98ef2f5858e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/xAs9Ow6B",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18116456150006141",
       "product_number": 701,
       "item_id": "2642971485",

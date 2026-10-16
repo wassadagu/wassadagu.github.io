@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18024986081874380",
+      "product_number": 699,
+      "item_id": "389338371",
+      "name": "699. 진성 고춧가루, 보통맛, 1kg, 3개",
+      "published_at": "2026-10-16T18:46:26Z",
+      "price": "59050원",
+      "discount": "할인 45%",
+      "review": "리뷰 4.3 (65)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9cf4cd610ab9c993c1955cdc361dbb45/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/p7n8pHpt",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18120491554964947",
       "product_number": 36,
       "item_id": "1179530071",

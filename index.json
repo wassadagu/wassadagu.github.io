@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17914417086467915",
+      "product_number": 693,
+      "item_id": "2636125087",
+      "name": "693. 이브네 코트니 생리대, 대형, 14매입, 4팩",
+      "published_at": "2026-10-16T03:31:29Z",
+      "price": "7900원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.8 (1036)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-820a367213f0e543deda1b0255a01f9e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Dw6xIS2h",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18097941746425253",
       "product_number": 692,
       "item_id": "2522901501",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18180184210429231",
+      "product_number": 707,
+      "item_id": "152380223",
+      "name": "707. 쿼프,혈자리 지압패치,600개입,1세트",
+      "published_at": "2026-10-16T22:46:19Z",
+      "price": "2790원",
+      "discount": "할인 68%",
+      "review": "리뷰 4.4 (669)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5cca069ea44480462674f3a8ecdf7367/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/XYjyyns7",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18096421559124845",
       "product_number": 133,
       "item_id": "2636164881",

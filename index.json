@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18130486129685717",
+      "product_number": 681,
+      "item_id": "2460861557",
+      "name": "681. 지퍼 멀티 크로스백, 블랙, 1개",
+      "published_at": "2026-10-16T18:01:23Z",
+      "price": "5490원",
+      "discount": "할인 83%",
+      "review": "리뷰 4.3 (3515)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-92ddfdfd3ec891b067b39ad2f6070411/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/dm7rRSI5",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18356773261172041",
       "product_number": 12,
       "item_id": "2637785481",

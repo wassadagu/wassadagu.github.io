@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17890152588621109",
+      "product_number": 700,
+      "item_id": "2556437777",
+      "name": "700. 롯데웰푸드 인기 콘 아이스크림 4종 세트, 월드콘 바닐라 5개 + 월드콘 쿠앤크 5개 + 구구콘 5개 + 돼지콘 5개, 1세트",
+      "published_at": "2026-10-16T19:46:19Z",
+      "price": "17310원",
+      "discount": "할인 51%",
+      "review": "리뷰 4.7 (58)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-26e4ef17f8296096c4913cfb61d6a227/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vZrb2La6",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18117744883966572",
       "product_number": 44,
       "item_id": "2309623793",

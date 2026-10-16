@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17985233943108622",
+      "product_number": 253,
+      "item_id": "86166697",
+      "name": "253. 전라도 전통 여린 열무김치, 3kg, 1박스",
+      "published_at": "2026-10-16T17:16:18Z",
+      "price": "12090원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.6 (11766)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d75ad961bbfb8db6cb01c7987f304aec/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/3ni7HSlD",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18139712119719868",
       "product_number": 281,
       "item_id": "559210893",

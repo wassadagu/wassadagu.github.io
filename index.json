@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17961117138233605",
+      "product_number": 715,
+      "item_id": "1319315641",
+      "name": "715. 와이니즈 질레트 호환용 5중 면도날 면도기 세트, 스윙면도기 1개 + 면도날 12개입, 1세트",
+      "published_at": "2026-10-17T18:01:05Z",
+      "price": "7561원",
+      "discount": "할인 83%",
+      "review": "리뷰 4.1 (427)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-920e7fe793f0b954364a363a1846af15/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Ve4rrDwj",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17951569404296801",
       "product_number": 695,
       "item_id": "2622437583",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18113852573131430",
+      "product_number": 697,
+      "item_id": "2635765919",
+      "name": "697. 던킨 제로 아이스티, 화이트피치 500ml 6개 + 샤인앤라임 500ml 6개, 12개",
+      "published_at": "2026-10-17T19:31:33Z",
+      "price": "9480원",
+      "discount": "할인 60%",
+      "review": "리뷰 4.8 (5389)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-086ae2f37111af0e5b0cab56d44c4483/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/X7oO7ebg",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18078034535417387",
       "product_number": 188,
       "item_id": "31367569",

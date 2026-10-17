@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18075687365466255",
+      "product_number": 712,
+      "item_id": "2651836735",
+      "name": "712. 이지앤프리 담은 김치통, 블랙, 3.2L, 2통",
+      "published_at": "2026-10-17T15:19:19Z",
+      "price": "4500원",
+      "discount": "할인 71%",
+      "review": "리뷰 4.5 (3027)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d07e059378a742052d869f97ec898b4b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/fklK7s51",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18013073687971933",
       "product_number": 711,
       "item_id": "2571910087",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18134067931654827",
+      "product_number": 718,
+      "item_id": "2374489861",
+      "name": "718. 아라솔 구운란, 대란, 30구, 2개",
+      "published_at": "2026-10-17T20:16:19Z",
+      "price": "15300원",
+      "discount": "할인 49%",
+      "review": "리뷰 4.7 (206)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-367c9984efc9c4eac3f05841ef89133a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/twM5AMQv",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18194867782398816",
       "product_number": 135,
       "item_id": "627713829",

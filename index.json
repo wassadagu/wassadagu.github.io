@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17930025336422796",
+      "product_number": 352,
+      "item_id": "2548008993",
+      "name": "352. 몽카라 전기 모기채, PRM-001, 1개",
+      "published_at": "2026-10-17T17:31:15Z",
+      "price": "8390원",
+      "discount": "할인 85%",
+      "review": "리뷰 4.3 (757)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-1a647659d8951b8c64f377b30b71739c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/HKPcyqjs",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18076565594458835",
       "product_number": 440,
       "item_id": "128320725",

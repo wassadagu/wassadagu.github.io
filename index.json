@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18447012325127579",
+      "product_number": 392,
+      "item_id": "146691631",
+      "name": "392. 메디팟 동전패치, 150매, 1개",
+      "published_at": "2026-10-17T20:46:12Z",
+      "price": "6260원",
+      "discount": "할인 73%",
+      "review": "리뷰 4.4 (1444)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-586870f7e6a9f39f1baf12309d729a26/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/zr5DauSu",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18137651977630059",
       "product_number": 719,
       "item_id": "133472721",

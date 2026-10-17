@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18642556942005055",
+      "product_number": 717,
+      "item_id": "88276283",
+      "name": "717. 요거프레소 컵커피, 카페라떼 200ml 10개 + 카페모카 200ml 10개, 20개",
+      "published_at": "2026-10-17T19:46:02Z",
+      "price": "12900원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.6 (896)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3ea7e2d1fceceb37299e744521d10686/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/lJHqPiZ1",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18113852573131430",
       "product_number": 697,
       "item_id": "2635765919",

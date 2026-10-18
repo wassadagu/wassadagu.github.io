@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18449815288132645",
+      "product_number": 732,
+      "item_id": "2634860439",
+      "name": "732. 스카이 메이트 AI 판다 인형, 1개",
+      "published_at": "2026-10-18T17:31:24Z",
+      "price": "82900원",
+      "discount": "할인 69%",
+      "review": "리뷰 4.6 (7)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d7748eb17ba62937ca6cd0c53d95fe98/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jc0RtwPD",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17912591484493382",
       "product_number": 731,
       "item_id": "2029300427",

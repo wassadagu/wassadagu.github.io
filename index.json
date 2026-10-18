@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-45b767353efc038b9429a9f104dbbf8a:2:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "product_number": 739,
+      "item_id": "1438581065",
+      "name": "739. 연세우유 세브란스 A2 프로틴, 초콜릿, 190ml, 32개",
+      "published_at": "2026-10-18T20:16:22Z",
+      "price": "26560원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.9 (94)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-45b767353efc038b9429a9f104dbbf8a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jOb9OVH5"
+    },
+    {
       "media_id": "18029067815910329",
       "product_number": 738,
       "item_id": "2640973829",

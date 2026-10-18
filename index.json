@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-48b4f942d7faeda9793f9098e2351152:2:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "product_number": 740,
+      "item_id": "2369182449",
+      "name": "740. 한미 완전두유 검은콩 고칼슘, 190ml, 40개",
+      "published_at": "2026-10-18T20:31:28Z",
+      "price": "10900원",
+      "discount": "할인 57%",
+      "review": "리뷰 4.7 (12031)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-48b4f942d7faeda9793f9098e2351152/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/DdIta5Sf"
+    },
+    {
       "publication_key": "draft-45b767353efc038b9429a9f104dbbf8a:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "product_number": 739,

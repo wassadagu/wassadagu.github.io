@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17898410403396707",
+      "product_number": 737,
+      "item_id": "268332043",
+      "name": "737. 통통 김말이튀김, 400g, 2팩",
+      "published_at": "2026-10-18T19:46:23Z",
+      "price": "6365원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.5 (453)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-dad80ace2bdd165dfc7fc07ea73504d3/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/NOv1F4pn",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17956188369292463",
       "product_number": 736,
       "item_id": "2620368191",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18001480257035968",
+      "product_number": 726,
+      "item_id": "176268631",
+      "name": "726. 프리미엄 C타입 오픈형 유선 이어폰, PR-ER100, 화이트, 1.2m, 1개",
+      "published_at": "2026-10-18T15:19:58Z",
+      "price": "5190원",
+      "discount": "할인 52%",
+      "review": "리뷰 4.4 (1321)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0ecbb63214f2e1f78493c45590591155/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Rk7D6c88",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18448376662130236",
       "product_number": 725,
       "item_id": "109807449",

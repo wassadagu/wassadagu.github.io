@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18074387987753752",
+      "product_number": 733,
+      "item_id": "1156454497",
+      "name": "733. 보라톡스 파비플로라 알파CD 보라워터 스틱, 18g, 15포, 5박스",
+      "published_at": "2026-10-18T17:46:26Z",
+      "price": "27380원",
+      "discount": "할인 89%",
+      "review": "리뷰 4.6 (165)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-99e1f34e2bd4166f4a7a94122e36b3d7/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/B88WN0qr",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18449815288132645",
       "product_number": 732,
       "item_id": "2634860439",

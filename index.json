@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18112881536144246",
+      "product_number": 757,
+      "item_id": "2522069439",
+      "name": "757. 테조 1450 고불소 구취케어 치약, 120g, 5개",
+      "published_at": "2026-10-19T20:16:31Z",
+      "price": "7820원",
+      "discount": "할인 60%",
+      "review": "리뷰 4.5 (255)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-afdd1b0b44b029fd3601ed8450f993bf/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/36qdKxHD",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18132911557682630",
       "product_number": 756,
       "item_id": "2660590911",

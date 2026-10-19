@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18151688425549630",
+      "product_number": 752,
+      "item_id": "159600515",
+      "name": "752. 디아틴 퓨어스텐 사시미칼, 1개",
+      "published_at": "2026-10-19T17:01:21Z",
+      "price": "9650원",
+      "discount": "할인 71%",
+      "review": "리뷰 4.4 (1431)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ae5023942d39b52a32d9749556ce728d/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/X0Qm0ne8",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18147324217567897",
       "product_number": 751,
       "item_id": "2551897259",

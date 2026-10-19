@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18080324840706082",
+      "product_number": 763,
+      "item_id": "2598612659",
+      "name": "763. 생과일 저온숙성 돼지 생막창, 1kg, 1팩",
+      "published_at": "2026-10-19T22:01:38Z",
+      "price": "10900원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.5 (114)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-127a0955b3fa28eb0d4c0ae21ac14a54/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/z6l5fVLp",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17911808079518518",
       "product_number": 762,
       "item_id": "2636693861",

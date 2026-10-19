@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18125791462929673",
+      "product_number": 745,
+      "item_id": "2473243205",
+      "name": "745. 국내산 한돈 등갈비, 3kg, 1박스",
+      "published_at": "2026-10-19T00:46:36Z",
+      "price": "31000원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.1 (231)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-6bbb4e5dbe9f44b4987647e61effdb90/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/NXk4AoB4",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17985957615120551",
       "product_number": 744,
       "item_id": "1197676481",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18132700948667254",
+      "product_number": 730,
+      "item_id": "2651739807",
+      "name": "730. 오즈랜드 두부과자, 40g, 12개",
+      "published_at": "2026-10-19T17:31:34Z",
+      "price": "9300원",
+      "discount": "할인 61%",
+      "review": "리뷰 4.5 (150)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-15cf89655193e0bc69af5a011050d58b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/tJ3ajkV6",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18160687711506132",
       "product_number": 329,
       "item_id": "2184701663",

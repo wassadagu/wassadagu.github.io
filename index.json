@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18114367063851907",
+      "product_number": 748,
+      "item_id": "2611357751",
+      "name": "748. 휴플러스 온열 찜질기, HPG-400B, 650x330x10mm, 베이지, 1개",
+      "published_at": "2026-10-19T15:20:21Z",
+      "price": "28470원",
+      "discount": "할인 73%",
+      "review": "리뷰 4.3 (63)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a2b7f6c99aea7c2a8a42eadfdceccc52/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/NteJkiO4",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17894825940681848",
       "product_number": 223,
       "item_id": "2636765689",

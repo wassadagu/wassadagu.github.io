@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17911808079518518",
+      "product_number": 762,
+      "item_id": "2636693861",
+      "name": "762. 갓성비 여성용 로맨틱 모던 스트라이프 양말, FREE(220-250mm), 5종1세트, 1세트",
+      "published_at": "2026-10-19T21:46:06Z",
+      "price": "7500원",
+      "discount": "할인 69%",
+      "review": "리뷰 3.9 (52)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d47a6a1b8f9ff9b9334d357e32082739/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/LQT8ZgyC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18095930672403459",
       "product_number": 761,
       "item_id": "2494969285",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17894825940681848",
+      "product_number": 223,
+      "item_id": "2636765689",
+      "name": "223. AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
+      "published_at": "2026-10-19T15:06:09Z",
+      "price": "11000원",
+      "discount": "할인 84%",
+      "review": "리뷰 4.7 (4831)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b4c1a95ba9db973223617300e6b3e35f/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/TBu6NiOp",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17920403751453477",
       "product_number": 394,
       "item_id": "2401832945",

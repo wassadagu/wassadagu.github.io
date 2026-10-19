@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17985957615120551",
+      "product_number": 744,
+      "item_id": "1197676481",
+      "name": "744. 투라 뱀파이어 여신 쿠션세트, 케이스 랜덤 1개 + 리필 2개, 21호, 1세트",
+      "published_at": "2026-10-19T00:01:38Z",
+      "price": "18900원",
+      "discount": "할인 89%",
+      "review": "리뷰 4.4 (851)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e7ac480e816aed9b9dc8fa5d3c0aa08e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/ZdRMv2Do",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18093839084466725",
       "product_number": 743,
       "item_id": "2373435935",

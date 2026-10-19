@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17914308882499945",
+      "product_number": 753,
+      "item_id": "1961145549",
+      "name": "753. 리얼닥터 비피더스 생 유산균, 30캡슐, 3개",
+      "published_at": "2026-10-19T17:46:34Z",
+      "price": "14560원",
+      "discount": "할인 75%",
+      "review": "리뷰 4.6 (430)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-af2dba914654a2d3a07b66f0bce39527/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/DsioizO4",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18132700948667254",
       "product_number": 730,
       "item_id": "2651739807",

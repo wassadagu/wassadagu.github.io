@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18123327272293409",
+      "product_number": 764,
+      "item_id": "2651878617",
+      "name": "764. 한독 바로잰 핏 연속 혈당 측정기, CGM-ST-003, 1개",
+      "published_at": "2026-10-19T22:16:49Z",
+      "price": "54080원",
+      "discount": "할인 36%",
+      "review": "리뷰 4.8 (15)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2701cbe88c43dde9b7c3049964bc5f7b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/taWOKqPD",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18080324840706082",
       "product_number": 763,
       "item_id": "2598612659",

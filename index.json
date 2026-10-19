@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18336578185275394",
+      "product_number": 754,
+      "item_id": "140087361",
+      "name": "754. 자이글 블룸 프라이팬, 28cm, 1개",
+      "published_at": "2026-10-19T18:16:37Z",
+      "price": "17600원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.7 (286)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-eb0ec8c470e4fe7198b7efcba03b0103/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/rNQt6M2r",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18140851465613789",
       "product_number": 154,
       "item_id": "853771151",

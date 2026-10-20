@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18091762415231147",
+      "product_number": 780,
+      "item_id": "108890907",
+      "name": "780. 착한팩토리 비타 리얼 글루타치온 토너, 400ml, 1개",
+      "published_at": "2026-10-20T18:31:42Z",
+      "price": "11590원",
+      "discount": "할인 75%",
+      "review": "리뷰 4.3 (3274)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-729f77aa610d20a457f1093dc14adccb/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/PeNjIE47",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18128283637634075",
       "product_number": 154,
       "item_id": "853771151",

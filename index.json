@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18382139347227578",
+      "product_number": 790,
+      "item_id": "1055822197",
+      "name": "790. 셀프 커트 미용 가위 세트, 304스텐, 일자가위 + 숱가위, 1세트",
+      "published_at": "2026-10-20T23:46:35Z",
+      "price": "5846원",
+      "discount": "할인 85%",
+      "review": "리뷰 4.1 (1027)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2942091fc7d2c0a8513a36fb76401c7c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/r6SvKOSu",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18119213147082760",
       "product_number": 789,
       "item_id": "502619035",

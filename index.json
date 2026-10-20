@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17902513269372013",
+      "product_number": 781,
+      "item_id": "1444516611",
+      "name": "781. 제이닭 통닭가슴살, 숯불치킨맛, 100g, 10개 + 돈까스맛, 100g, 10개 + 떡볶이맛, 100g, 10개",
+      "published_at": "2026-10-20T19:01:41Z",
+      "price": "34700원",
+      "discount": "할인 39%",
+      "review": "리뷰 4.8 (572)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-80dbf9955a54822df286476a6192b01c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/H0BVm3dd",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18022880660933508",
       "product_number": 746,
       "item_id": "651526161",

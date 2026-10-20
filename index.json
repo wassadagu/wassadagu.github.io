@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18135291682679732",
+      "product_number": 774,
+      "item_id": "10283171",
+      "name": "774. 이씨네 전라도 겉절이, 3kg, 1개",
+      "published_at": "2026-10-20T16:16:23Z",
+      "price": "10900원",
+      "discount": "할인 69%",
+      "review": "리뷰 4.2 (1598)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-441880405b0d016f3d3764eda2009ed3/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/R8OzMWJD",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18105765785576583",
       "product_number": 773,
       "item_id": "56972401",

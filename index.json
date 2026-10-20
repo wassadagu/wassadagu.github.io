@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17959411680254408",
+      "product_number": 766,
+      "item_id": "2637047977",
+      "name": "766. 리퀴드 주방세제, 레몬향, 4L, 2개",
+      "published_at": "2026-10-20T04:16:51Z",
+      "price": "6890원",
+      "discount": "할인 59%",
+      "review": "리뷰 4.4 (138)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5deebc781f1ce24b011bc9e1e06fafdf/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vO0qWVhm",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17957441727256429",
       "product_number": 765,
       "item_id": "1514374265",

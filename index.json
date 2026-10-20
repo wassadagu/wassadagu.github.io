@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18114140225132874",
+      "product_number": 772,
+      "item_id": "95071359",
+      "name": "772. 휴플러스 무선 온열 눈마사지기, 화이트, 1개",
+      "published_at": "2026-10-20T15:46:18Z",
+      "price": "25000원",
+      "discount": "할인 84%",
+      "review": "리뷰 4.6 (460)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3a152da4cac3f97d1715209444d8b5a8/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/ZUnEn8ud",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18071471897499756",
       "product_number": 771,
       "item_id": "43252057",

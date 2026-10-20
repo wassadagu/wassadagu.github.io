@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18167431618473929",
+      "product_number": 767,
+      "item_id": "141908733",
+      "name": "767. 서가 메탈 고속충전 케이블, C타입, 다크그레이, 3m, 2개",
+      "published_at": "2026-10-20T07:46:53Z",
+      "price": "4850원",
+      "discount": "할인 62%",
+      "review": "리뷰 4.6 (280)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ecaff2ff264f694815de209f759888d6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/bofOjWC9",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17959411680254408",
       "product_number": 766,
       "item_id": "2637047977",

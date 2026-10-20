@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18129568615874691",
+      "product_number": 779,
+      "item_id": "2260871189",
+      "name": "779. 수입산 냉동 대패삼겹살, 2kg, 1개",
+      "published_at": "2026-10-20T18:01:37Z",
+      "price": "15920원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.5 (1032)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-32def7e36f1c7a08135f5690493449aa/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/DnLzYDG9",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17941324503370136",
       "product_number": 778,
       "item_id": "1606006515",

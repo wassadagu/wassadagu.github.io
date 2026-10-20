@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18436534645180200",
+      "product_number": 341,
+      "item_id": "2650780349",
+      "name": "341. 크린포유 무중력 마이크로화이버 베개솜, 화이트, 50x70cm, 2개",
+      "published_at": "2026-10-20T19:46:23Z",
+      "price": "8900원",
+      "discount": "할인 82%",
+      "review": "리뷰 4.1 (156)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-43dbac65acd84f72469cc107e357032b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/PsionEPp",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18115104107275015",
       "product_number": 782,
       "item_id": "87768291",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18107243267153357",
+      "product_number": 64,
+      "item_id": "123678795",
+      "name": "64. 미미네 오리지널 국물떡볶이, 570g, 4봉",
+      "published_at": "2026-10-21T15:16:24Z",
+      "price": "13900원",
+      "discount": "할인 40%",
+      "review": "리뷰 4.8 (2756)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0f8cf9ad32794babf9aecc76ed477a8e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/1n3oHKCz",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-c2eb96ef2ba9442bf8d54f297167a5b3:2:INSTAGRAM",
       "mapping_status": "MAPPED",
       "item_id": "2578376693",

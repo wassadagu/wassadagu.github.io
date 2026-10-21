@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18131090734759397",
+      "product_number": 815,
+      "item_id": "2280472165",
+      "name": "815. 클린보틀 변기세정제 클리너, 300g, 12개",
+      "published_at": "2026-10-21T23:46:33Z",
+      "price": "8093원",
+      "discount": "할인 78%",
+      "review": "리뷰 4.2 (349)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a38f520b441ea61bd0a03b05618bca73/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/DzK5aqfi",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18031407542683868",
       "product_number": 814,
       "item_id": "2463826411",

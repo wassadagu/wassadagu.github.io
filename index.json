@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-56db242e4daae29079863118fa5a1a86:2:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "product_number": 802,
+      "item_id": "383195203",
+      "name": "802. 고궁 통참깨 참기름, 350ml, 3개",
+      "published_at": "2026-10-21T18:01:28Z",
+      "price": "17200원",
+      "discount": "할인 61%",
+      "review": "리뷰 4.7 (22879)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-56db242e4daae29079863118fa5a1a86/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/xB3wnnxo"
+    },
+    {
       "media_id": "18126886547390071",
       "product_number": 801,
       "item_id": "1056552319",

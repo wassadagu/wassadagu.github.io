@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18126494308687367",
+      "product_number": 803,
+      "item_id": "141908431",
+      "name": "803. VBC CASA 매직핸즈프리 프라이팬 3종 세트, 그린, 1세트",
+      "published_at": "2026-10-21T18:16:33Z",
+      "price": "27900원",
+      "discount": "할인 67%",
+      "review": "리뷰 4.7 (46)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ca0637b2667db160609e83ff251c108f/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5q1WmHly",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-56db242e4daae29079863118fa5a1a86:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "product_number": 802,

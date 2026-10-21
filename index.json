@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18333113728263935",
+      "product_number": 806,
+      "item_id": "1487103361",
+      "name": "806. 베라 무해력 4ZERO 뽑아쓰는 미용티슈, 250매, 6팩",
+      "published_at": "2026-10-21T19:46:25Z",
+      "price": "4900원",
+      "discount": "할인 76%",
+      "review": "리뷰 4.6 (3996)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-15cb6be035c81d30bab76e0f0e36a100/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/zdUVrgwi",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18134578048659220",
       "product_number": 805,
       "item_id": "1669144031",

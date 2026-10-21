@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18118202782970659",
+      "product_number": 793,
+      "item_id": "2661643751",
+      "name": "793. 대박농수산 제주 햇 브로콜리, 특품, 2kg, 1박스",
+      "published_at": "2026-10-21T08:16:40Z",
+      "price": "10940원",
+      "discount": "할인 56%",
+      "review": "리뷰 4.6 (2034)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d128c131f48666f1cdce9ba37a8897f4/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/bxPxREmB",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18114583214111703",
       "item_id": "143159197",
       "name": "792. 코리아푸드 백옥콘 강냉이, 1.4kg, 1개",

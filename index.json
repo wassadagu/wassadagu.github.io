@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18178169401435188",
+      "product_number": 810,
+      "item_id": "190728237",
+      "name": "810. 올인원 쿠션 망토담요, 블루, 130x80cm, 1개",
+      "published_at": "2026-10-21T20:46:25Z",
+      "price": "7000원",
+      "discount": "할인 58%",
+      "review": "리뷰 4.2 (211)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-04917eb8b30746d0c40bde036f5e6d2c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/JTm4I3W1",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18075744899727981",
       "product_number": 809,
       "item_id": "168797849",

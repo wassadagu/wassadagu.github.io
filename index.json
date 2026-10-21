@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18109160978113152",
+      "product_number": 813,
+      "item_id": "2583843309",
+      "name": "813. 교동 콩비지찌개, 500g, 5개",
+      "published_at": "2026-10-21T21:31:34Z",
+      "price": "12290원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.5 (148)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-15bab7dc9ae56e9ac5524efc870ad6dc/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/TtertMdC",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "18103990280270281",
+      "product_number": 812,
+      "item_id": "332394307",
+      "name": "812. 헬스헬퍼 맥스컷 프로 크롬, 450mg, 120캡슐, 1개",
+      "published_at": "2026-10-21T21:16:40Z",
+      "price": "34800원",
+      "discount": "할인 36%",
+      "review": "리뷰 4.6 (85)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-88d611b6967eba3fe526307406cf9c40/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/ZH8dLvS4",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18127018780874938",
       "product_number": 811,
       "item_id": "254954325",

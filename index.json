@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18130613269827558",
+      "product_number": 800,
+      "item_id": "152109761",
+      "name": "800. 청년참기름, 350ml, 2개",
+      "published_at": "2026-10-21T17:31:28Z",
+      "price": "13900원",
+      "discount": "할인 53%",
+      "review": "리뷰 4.7 (10817)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-843243843610c2a0804f3ea217ef238b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/fBYkqmr3",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "18111353699613290",
+      "product_number": 799,
+      "item_id": "2680884085",
+      "name": "799. 과일꾼 햇 나주배 가정용, 3kg, 1박스",
+      "published_at": "2026-10-21T17:16:26Z",
+      "price": "7900원",
+      "discount": "할인 60%",
+      "review": "리뷰 5.0 (5)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-7ab7c3a28e8525bca0390db28d301e22/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vDewAwuD",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-ec2ebf2f7f3244ba6a4c043f026c439f:2:INSTAGRAM",
       "mapping_status": "MAPPED",
       "item_id": "120064193",

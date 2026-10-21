@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18015213881970323",
+      "product_number": 808,
+      "item_id": "976539225",
+      "name": "808. 미니 멘톨 슈가프리 캔디, 1kg, 1개",
+      "published_at": "2026-10-21T20:16:26Z",
+      "price": "7930원",
+      "discount": "할인 53%",
+      "review": "리뷰 4.6 (498)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2efa0b132f25e0b5861bed4233717ec6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vy5Bdin9",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18102223127638707",
       "product_number": 807,
       "item_id": "168797847",

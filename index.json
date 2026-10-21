@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18031407542683868",
+      "product_number": 814,
+      "item_id": "2463826411",
+      "name": "814. 고기중독 한입삼겹살, 500g, 2개",
+      "published_at": "2026-10-21T21:46:39Z",
+      "price": "10430원",
+      "discount": "할인 73%",
+      "review": "리뷰 4.5 (160)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-7f7a36bb5f463b330d28bf4aa25709b3/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/t9CShTRu",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18109160978113152",
       "product_number": 813,
       "item_id": "2583843309",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17924965185433672",
+      "product_number": 796,
+      "item_id": "1734060581",
+      "name": "796. 양계장사람들 무항생제 계란, 대란, 60구, 1개",
+      "published_at": "2026-10-22T17:46:33Z",
+      "price": "17900원",
+      "discount": "할인 33%",
+      "review": "리뷰 4.6 (3484)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-122d4ed82cd48b609728804d7bf88dad/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/NsbcrR1v",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17931592206163589",
       "product_number": 826,
       "item_id": "2322671517",

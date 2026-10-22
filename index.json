@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18000823041001501",
+      "product_number": 820,
+      "item_id": "2556542953",
+      "name": "820. 크라운 빙수하임 말차팥빙수, 284g, 2개",
+      "published_at": "2026-10-22T15:31:18Z",
+      "price": "6900원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.8 (3705)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ab46929264f42424e5863c1ba44c101d/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/VYKnpDLo",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "17962350311999326",
+      "product_number": 819,
+      "item_id": "1606006517",
+      "name": "819. 이씨네김치 이씨네 전라도 포기김치, 5kg, 1개",
+      "published_at": "2026-10-22T15:16:22Z",
+      "price": "16280원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.3 (3253)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-fa13dd2c5cc58bd568593420924be699/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/tPpMT8Ep",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18029442959693113",
       "product_number": 320,
       "item_id": "148001577",

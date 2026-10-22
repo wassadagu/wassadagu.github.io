@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18143811679579119",
+      "product_number": 824,
+      "item_id": "2139180681",
+      "name": "824. 경추 안마기, 가성비 저주파 마사지기, 블루블랙, 1개",
+      "published_at": "2026-10-22T17:01:30Z",
+      "price": "6700원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.1 (1403)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b260af572a0d2af684ec5656a78b7abc/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/J5YQClbx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18128412058650612",
       "item_id": "35885",
       "name": "823. 신세계푸드 냉동 크로와상 생지, 2.25kg, 1개",

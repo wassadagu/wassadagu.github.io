@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18079550360465138",
+      "product_number": 832,
+      "item_id": "2292105179",
+      "name": "832. 동원 덴마크 2X 체다치즈, 192g, 4개",
+      "published_at": "2026-10-22T20:31:33Z",
+      "price": "10600원",
+      "discount": "할인 43%",
+      "review": "리뷰 4.6 (42)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ec5d2ee47ab65684a3875c5811729a49/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/rcZogGe8",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18136358314633907",
       "product_number": 831,
       "item_id": "2654835821",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18110991299232026",
+      "product_number": 828,
+      "item_id": "140087335",
+      "name": "828. 자이글 궁중팬, 28cm, 1개",
+      "published_at": "2026-10-22T18:31:41Z",
+      "price": "17990원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.7 (352)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-864276d4be692720e5f5afc0d32d6291/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/fIT1WBGi",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18110704394568791",
       "product_number": 67,
       "item_id": "87464653",

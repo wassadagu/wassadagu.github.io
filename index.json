@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17931592206163589",
+      "product_number": 826,
+      "item_id": "2322671517",
+      "name": "826. 시카트리 네일에센스, 15ml, 1개입, 1병",
+      "published_at": "2026-10-22T17:31:29Z",
+      "price": "11600원",
+      "discount": "할인 53%",
+      "review": "리뷰 4.0 (918)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9342985e217a9dff1a78c8661d436eb1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Bgj9PV5A",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18145752694603511",
       "product_number": 825,
       "item_id": "612474239",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18631679383015393",
+      "product_number": 821,
+      "item_id": "779603099",
+      "name": "821. 포천이동갈비, 1kg, 2팩",
+      "published_at": "2026-10-22T16:16:23Z",
+      "price": "36360원",
+      "discount": "할인 85%",
+      "review": "리뷰 4.2 (1710)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-f9be1673e9a1b86d3de8d7aa69ab2455/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/JE1y65Fd",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18065268500789318",
       "product_number": 370,
       "item_id": "105587743",

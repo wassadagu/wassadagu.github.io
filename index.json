@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18029442959693113",
+      "product_number": 320,
+      "item_id": "148001577",
+      "name": "320. 허만두 잎새만두, 알찬고기 1.4kg 1봉 + 알찬김치 1.4kg 1봉, 2봉",
+      "published_at": "2026-10-22T15:01:20Z",
+      "price": "13500원",
+      "discount": "할인 43%",
+      "review": "리뷰 4.4 (4488)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-359cf3f7cf52bb631e27e41df727137f/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/bhrvLvNy",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18124283794927407",
       "product_number": 818,
       "item_id": "133332389",

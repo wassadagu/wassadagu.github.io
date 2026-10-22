@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18065268500789318",
+      "product_number": 370,
+      "item_id": "105587743",
+      "name": "370. 한우대학 한우잡육, 1kg, 1개",
+      "published_at": "2026-10-22T16:01:20Z",
+      "price": "17030원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.4 (2411)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-fe2a7fd0b0789f2a15dbd5ad7c3025b8/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/r63f3Wfr",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18590917399071983",
       "product_number": 402,
       "item_id": "2113876961",

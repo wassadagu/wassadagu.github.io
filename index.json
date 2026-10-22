@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18115587629017613",
+      "product_number": 827,
+      "item_id": "152109947",
+      "name": "827. 청년들기름, 350ml, 2개",
+      "published_at": "2026-10-22T18:01:36Z",
+      "price": "15860원",
+      "discount": "할인 53%",
+      "review": "리뷰 4.7 (4461)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2fed764cca234cfd3afeebcd0e835d9e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/j6u8HoG5",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17924965185433672",
       "product_number": 796,
       "item_id": "1734060581",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18076044836556096",
+      "product_number": 834,
+      "item_id": "2636669633",
+      "name": "834. 유러피안 샐러드 4종, 1kg, 1개",
+      "published_at": "2026-10-22T21:16:46Z",
+      "price": "6390원",
+      "discount": "할인 67%",
+      "review": "리뷰 4.5 (106)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-1335d49ea5ef01a658dc6b72dc01375c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/bvdsJ2D4",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17927636271426418",
       "product_number": 206,
       "item_id": "2084336377",

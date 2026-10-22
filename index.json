@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18128412058650612",
+      "item_id": "35885",
+      "name": "823. 신세계푸드 냉동 크로와상 생지, 2.25kg, 1개",
+      "published_at": "2026-10-22T16:46:21Z",
+      "price": "12230원",
+      "discount": "할인 61%",
+      "review": "리뷰 4.7 (2973)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-53fef8fd273dd76ba2c0cbeff8c98150/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/bSEn2Vyi",
+      "mapping_status": "MAPPED",
+      "product_number": 823
+    },
+    {
       "media_id": "18016618637753361",
       "product_number": 822,
       "item_id": "163043639",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18080106947393316",
+      "product_number": 840,
+      "item_id": "2661610111",
+      "name": "840. 소소락 강릉 장칼국수, 1세트, 1300g, 1개",
+      "published_at": "2026-10-23T08:16:45Z",
+      "price": "6590원",
+      "discount": "할인 48%",
+      "review": "리뷰 4.4 (1626)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5f7bd0a458361b26b161710909250010/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/loE5hrnj",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17877402780576710",
       "product_number": 839,
       "item_id": "1734528093",

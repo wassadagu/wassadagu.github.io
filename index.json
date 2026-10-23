@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18116895182086089",
+      "product_number": 855,
+      "item_id": "2373736329",
+      "name": "855. 솔리치 진한 원액 보리차, 300ml, 2개",
+      "published_at": "2026-10-23T21:01:38Z",
+      "price": "10000원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.6 (22)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-13a492ac6e46a227edc31956004a72ab/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/9M2kvAMe",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18099982784411779",
       "product_number": 854,
       "item_id": "140229015",

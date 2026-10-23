@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17977253682137765",
+      "product_number": 853,
+      "item_id": "66560687",
+      "name": "853. 외갓집 송탄 서정리 부대찌개 550, 550g, 3개 + 오뚜기 라면사리, 110g, 1개, 1세트",
+      "published_at": "2026-10-23T20:31:30Z",
+      "price": "11000원",
+      "discount": "할인 59%",
+      "review": "리뷰 4.5 (388)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3235b543b381f4fde6e457463b89a893/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/1bYl6EHa",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17889454461479509",
       "product_number": 852,
       "item_id": "10283163",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18106660394255909",
+      "product_number": 499,
+      "item_id": "2334877747",
+      "name": "499. 맘스럽 아토클래식 물티슈, 100매입, 20팩",
+      "published_at": "2026-10-23T16:01:13Z",
+      "price": "10710원",
+      "discount": "할인 56%",
+      "review": "리뷰 4.6 (19660)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-92b1236b30dc2f7b009e189cdfa559e4/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/j2oyAMwx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17895642297427598",
       "product_number": 842,
       "item_id": "1112440899",

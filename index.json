@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17877402780576710",
+      "product_number": 839,
+      "item_id": "1734528093",
+      "name": "839. 서해안 우와한 간장게장, 2kg, 1개",
+      "published_at": "2026-10-23T08:01:44Z",
+      "price": "15570원",
+      "discount": "할인 60%",
+      "review": "리뷰 4.6 (288)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-96261eae6c1a60d8ec38a1c9d3b029b0/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/312Fo0O4",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18135551413640404",
       "product_number": 838,
       "item_id": "33508559",

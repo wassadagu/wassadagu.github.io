@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18137716762630591",
+      "product_number": 819,
+      "item_id": "1606006517",
+      "name": "819. 이씨네김치 이씨네 전라도 포기김치, 5kg, 1개",
+      "published_at": "2026-10-23T18:46:47Z",
+      "price": "18890원",
+      "discount": "할인 58%",
+      "review": "리뷰 4.3 (3292)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e0c3e049a139b50070811a00fc594fde/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/7Ic9XnGu",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18057010700808122",
       "product_number": 848,
       "item_id": "2365349285",

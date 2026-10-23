@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18107020769458460",
+      "product_number": 846,
+      "item_id": "2122123131",
+      "name": "846. 몸통만 자른 누드오징어 스틱, 150g, 4봉",
+      "published_at": "2026-10-23T17:46:31Z",
+      "price": "28370원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.5 (1027)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0b06e4f55356633c159d965c7d247280/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/DDpoMv6l",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17876167896584094",
       "product_number": 845,
       "item_id": "377435835",

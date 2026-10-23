@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18145999519582626",
+      "product_number": 430,
+      "item_id": "167870451",
+      "name": "430. 이롬 황성주박사의 과채습관, 레드, 140ml, 24개",
+      "published_at": "2026-10-23T17:16:35Z",
+      "price": "9600원",
+      "discount": "할인 40%",
+      "review": "리뷰 4.7 (404)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-253c8a4a1993dac7530f23829599d416/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/9dllafgx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18137261440678280",
       "product_number": 402,
       "item_id": "2113876961",

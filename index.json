@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17895642297427598",
+      "product_number": 842,
+      "item_id": "1112440899",
+      "name": "842. 숨 시그니처 물티슈, 63gsm, 70매, 10팩",
+      "published_at": "2026-10-23T15:46:20Z",
+      "price": "6990원",
+      "discount": "할인 53%",
+      "review": "리뷰 4.7 (1825)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9b4b1f845e39bd3156a1857a5cbdc032/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/z1wRJhot",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18124475755716067",
       "product_number": 841,
       "item_id": "11192115",

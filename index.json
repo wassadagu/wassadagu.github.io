@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18099498725410700",
+      "product_number": 835,
+      "item_id": "2431229129",
+      "name": "835. 국내산 세척사과, 2kg, 1박스",
+      "published_at": "2026-10-23T00:46:38Z",
+      "price": "7900원",
+      "discount": "할인 68%",
+      "review": "리뷰 4.3 (149)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-165c2d50e79165fd8227334915e1a9c1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5FaNioFC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18076044836556096",
       "product_number": 834,
       "item_id": "2636669633",

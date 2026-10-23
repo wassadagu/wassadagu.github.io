@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18152532676537281",
+      "product_number": 850,
+      "item_id": "1323071175",
+      "name": "850. 지민푸드 통통왕족발, 1kg 내외, 1팩",
+      "published_at": "2026-10-23T19:46:22Z",
+      "price": "8140원",
+      "discount": "할인 52%",
+      "review": "리뷰 4.6 (2483)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e3d3f00e02020e7d015a6ac8fa5f1bb3/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/PwgTrC9b",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18109139519213464",
       "product_number": 849,
       "item_id": "2017407985",

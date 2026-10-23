@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18387253753231224",
+      "product_number": 857,
+      "item_id": "1052241537",
+      "name": "857. 베라 4ZERO 팝업 뽑아쓰는 키친타올, 3겹, 100매, 9팩",
+      "published_at": "2026-10-23T22:01:33Z",
+      "price": "6543원",
+      "discount": "할인 67%",
+      "review": "리뷰 4.6 (233)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-87f1722c3b4e8775b914af66217580da/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/HpR9muTb",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18109197173523176",
       "product_number": 856,
       "item_id": "271918131",

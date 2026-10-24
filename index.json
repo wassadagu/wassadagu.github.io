@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18102185285641586",
+      "product_number": 172,
+      "item_id": "38643811",
+      "name": "172. 스테인리스 주방칼 6종, 블랙, 1세트",
+      "published_at": "2026-10-24T15:31:12Z",
+      "price": "8600원",
+      "discount": "할인 79%",
+      "review": "리뷰 4.3 (1913)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b2cd1c5d26b60c69d3345f9226329f5a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vsaQHnNu",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18198941833354180",
       "product_number": 862,
       "item_id": "240280587",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18154140769542673",
+      "product_number": 849,
+      "item_id": "2017407985",
+      "name": "849. 배스킨라빈스 베리베리 스트로베리 우유 190ml, 48개",
+      "published_at": "2026-10-24T19:16:29Z",
+      "price": "18430원",
+      "discount": "할인 69%",
+      "review": "리뷰 4.8 (9521)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ba20659aa464ccfe07efe179490ba8b6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jh3nlCze",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18118379522059201",
       "product_number": 841,
       "item_id": "11192115",

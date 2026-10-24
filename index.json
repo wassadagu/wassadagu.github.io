@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17911403730480700",
+      "product_number": 873,
+      "item_id": "1093819371",
+      "name": "873. 포레스티 국내제조 땅콩버터, 무첨가, 무가당, 무설탕, 450g, 2개",
+      "published_at": "2026-10-24T20:31:21Z",
+      "price": "11870원",
+      "discount": "할인 76%",
+      "review": "리뷰 4.7 (609)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a18b8e38abd3b72e5146e4e243dea283/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/JoFcEkX6",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17961855888246636",
       "product_number": 872,
       "item_id": "2601165729",

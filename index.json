@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17994154779028835",
+      "product_number": 863,
+      "item_id": "828735177",
+      "name": "863. 휴플러스 목 어깨 베개 마사지기, CORDZERO-P80, 화이트, 1개",
+      "published_at": "2026-10-24T15:46:18Z",
+      "price": "33060원",
+      "discount": "할인 83%",
+      "review": "리뷰 4.7 (79)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-54b6c9667560ab729c87e0ae64716e12/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/zUnu3aKD",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18102185285641586",
       "product_number": 172,
       "item_id": "38643811",

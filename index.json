@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18137527231734592",
+      "product_number": 871,
+      "item_id": "2401205415",
+      "name": "871. 썬리지 호주산 네이블 오렌지, 중과, 3.5kg, 1박스",
+      "published_at": "2026-10-24T20:01:24Z",
+      "price": "7900원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.5 (1763)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-61e8d46764480c5853c6735b51d4d602/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/P26oLKDt",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18110408240179528",
       "product_number": 870,
       "item_id": "2660552649",

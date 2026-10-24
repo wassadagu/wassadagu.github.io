@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18487535890106505",
+      "product_number": 858,
+      "item_id": "2551887947",
+      "name": "858. 셰프초이스 제육불고기, 2kg, 1개",
+      "published_at": "2026-10-24T02:01:41Z",
+      "price": "15900원",
+      "discount": "할인 40%",
+      "review": "리뷰 4.7 (45)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-956d9339a2a5e0e9de2a02b5f614cf2a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/VGJPdLsC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18387253753231224",
       "product_number": 857,
       "item_id": "1052241537",

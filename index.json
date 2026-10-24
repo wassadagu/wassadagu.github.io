@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18079240184468993",
+      "product_number": 865,
+      "item_id": "142807593",
+      "name": "865. 별하수 콤부차 원액, 420g, 1개",
+      "published_at": "2026-10-24T16:31:21Z",
+      "price": "10000원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.2 (126)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-f2ee48fb9e045ba4824168d03c717250/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/v9BCBfFd",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17920183326451831",
       "product_number": 864,
       "item_id": "2604888837",

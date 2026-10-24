@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17961855888246636",
+      "product_number": 872,
+      "item_id": "2601165729",
+      "name": "872. 푼푼마녀 수제 도넛, 60g, 10개입, 1팩",
+      "published_at": "2026-10-24T20:16:24Z",
+      "price": "6900원",
+      "discount": "할인 61%",
+      "review": "리뷰 4.5 (166)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a6346ed8fc70bbb6f3f03280a40cd99c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/bGWgQmFp",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18137527231734592",
       "product_number": 871,
       "item_id": "2401205415",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18092644001679451",
+      "product_number": 21,
+      "item_id": "2642852797",
+      "name": "21. EMS 스마트 발 마사지기, 리모컨 포함, 블랙, 1개",
+      "published_at": "2026-10-24T18:46:41Z",
+      "price": "8895원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.3 (1961)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-c480a574b949c3ef5130cc80ad18a130/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vxZxrx7i",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18210708658317782",
       "product_number": 499,
       "item_id": "2334877747",

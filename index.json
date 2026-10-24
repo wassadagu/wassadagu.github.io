@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18147006097536101",
+      "product_number": 877,
+      "item_id": "2620655473",
+      "name": "877. 찹쌀 누룽지 과자, 담백한 맛, 24g, 36봉",
+      "published_at": "2026-10-24T21:31:42Z",
+      "price": "10715원",
+      "discount": "할인 36%",
+      "review": "리뷰 4.5 (860)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-949c9ac486153441ccc2cfb81eaef1ec/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/HE6QsKEf",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18129621268888108",
       "product_number": 876,
       "item_id": "184149191",

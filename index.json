@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17920183326451831",
+      "product_number": 864,
+      "item_id": "2604888837",
+      "name": "864. 홍주부 제주당근주스, 100ml, 60개",
+      "published_at": "2026-10-24T16:16:15Z",
+      "price": "22870원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.5 (332)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-262d9c87ac580f7493aa4bb03643ffff/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/XjC2IgKu",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18599264221071959",
       "product_number": 407,
       "item_id": "1720211867",

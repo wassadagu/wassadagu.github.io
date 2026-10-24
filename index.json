@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18129621268888108",
+      "product_number": 876,
+      "item_id": "184149191",
+      "name": "876. 명식품 파래김, 100매, 1개",
+      "published_at": "2026-10-24T21:16:43Z",
+      "price": "9300원",
+      "discount": "할인 53%",
+      "review": "리뷰 4.5 (2296)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-816f8acf53f76880b973e0834cfe2163/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/JUTcxIhc",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18130950250747378",
       "product_number": 875,
       "item_id": "270591675",

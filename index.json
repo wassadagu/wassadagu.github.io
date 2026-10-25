@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18006754853790871",
+      "product_number": 896,
+      "item_id": "1733212353",
+      "name": "896. 양계장사람들 계란, 왕란, 60구, 1개",
+      "published_at": "2026-10-25T20:31:49Z",
+      "price": "18160원",
+      "discount": "할인 39%",
+      "review": "리뷰 4.6 (411)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-917603703beaba7406e85188894b143a/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/zVCwuK1q",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18021110702729954",
       "product_number": 895,
       "item_id": "166932843",

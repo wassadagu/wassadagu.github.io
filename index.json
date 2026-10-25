@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18095410238478189",
+      "product_number": 886,
+      "item_id": "2636466755",
+      "name": "886. 일양약품 멜라 피디알엔 리페어 액티브 크림, 30g, 2개",
+      "published_at": "2026-10-25T16:01:26Z",
+      "price": "9600원",
+      "discount": "할인 69%",
+      "review": "리뷰 4.5 (136)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9eb1e49fc3af92640b9e6db1874f8f11/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/DGbo68Dz",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18119018572989025",
       "product_number": 885,
       "item_id": "2666493861",

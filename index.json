@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18150311002560298",
+      "product_number": 899,
+      "item_id": "135551727",
+      "name": "899. 부산 원조 상천 사각어묵, 2kg, 1개",
+      "published_at": "2026-10-25T21:46:43Z",
+      "price": "11510원",
+      "discount": "할인 81%",
+      "review": "리뷰 4.1 (1284)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4c056b9a53e1582b3f6c953c904c07fc/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/926wJbcm",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18080852870718695",
       "product_number": 898,
       "item_id": "2664974965",

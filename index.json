@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18118756663951194",
+      "product_number": 894,
+      "item_id": "2636738805",
+      "name": "894. 의령농산 국내산 가정용 청양고추, 1kg, 1박스",
+      "published_at": "2026-10-25T20:01:20Z",
+      "price": "4950원",
+      "discount": "할인 75%",
+      "review": "리뷰 4.4 (155)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-27210fe009b7d4c7e66eb6d63df725d3/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/7LC4tvl2",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18470976427143342",
       "product_number": 893,
       "item_id": "215194531",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18470976427143342",
+      "product_number": 893,
+      "item_id": "215194531",
+      "name": "893. 철이네 제주 노지 감귤, 특상품, 로얄과, 5kg, 1박스",
+      "published_at": "2026-10-25T19:46:13Z",
+      "price": "8430원",
+      "discount": "할인 78%",
+      "review": "리뷰 3.5 (140)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d87c7b010f858b89b487c116619ce734/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/BPntK7K5",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17915118798536908",
       "name": "892. 마주 총각김치, 2kg, 1박스",
       "price": "8950원",

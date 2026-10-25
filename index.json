@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17948738670347180",
+      "product_number": 882,
+      "item_id": "2636779733",
+      "name": "882. 윌로펫 말랑육즙 강아지 소프트사료, 면역/항산화, 1.2kg, 1개",
+      "published_at": "2026-10-25T15:04:43Z",
+      "price": "10230원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.8 (515)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d71a670e088fbfef36d528b368242da7/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/dvj397mr",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18137337127656459",
       "product_number": 881,
       "item_id": "1178952607",

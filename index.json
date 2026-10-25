@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18209892475364123",
+      "product_number": 891,
+      "item_id": "122503521",
+      "name": "891. 레이데이 마데카 재생크림, 40ml, 3개",
+      "published_at": "2026-10-25T17:31:13Z",
+      "price": "9900원",
+      "discount": "할인 92%",
+      "review": "리뷰 4.4 (2578)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-09e4b0bb6736be538c1ed74a80106b9e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/llpGAPTy",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18118781327050455",
       "product_number": 890,
       "item_id": "1257701509",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18341992153274788",
+      "product_number": 54,
+      "item_id": "82189401",
+      "name": "54. 후디스 소화 편한 우유 오리지널, 190ml, 24개",
+      "published_at": "2026-10-26T17:31:39Z",
+      "price": "11900원",
+      "discount": "할인 64%",
+      "review": "리뷰 4.8 (5559)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-8c00215b224758270f3559ebf8172adf/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/dl9kzgre",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18121110845286935",
       "product_number": 907,
       "item_id": "11196019",

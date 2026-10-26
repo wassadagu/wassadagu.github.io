@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18117529910101123",
+      "product_number": 915,
+      "item_id": "376655265",
+      "name": "915. 살림백서 제로 나이아신아마이드 21% 세럼, 30ml, 1개",
+      "published_at": "2026-10-26T21:02:04Z",
+      "price": "6260원",
+      "discount": "할인 79%",
+      "review": "리뷰 4.7 (138)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4d95adca74a12d27554376ee654e6920/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/9QVDLfa1",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18076697588472306",
       "product_number": 914,
       "item_id": "2675035879",

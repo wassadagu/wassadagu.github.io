@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18101438468646349",
+      "product_number": 900,
+      "item_id": "222933941",
+      "name": "900. 다모아 두피 브러쉬 마사지기, 1개",
+      "published_at": "2026-10-26T15:31:18Z",
+      "price": "39600원",
+      "discount": "할인 81%",
+      "review": "리뷰 4.6 (572)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9fa931ccd902ecb50db5780dfbd003e3/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/zP8u8oT1",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17894891244612789",
       "product_number": 350,
       "item_id": "2185764457",

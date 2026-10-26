@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17918214309466528",
+      "product_number": 913,
+      "item_id": "2633518971",
+      "name": "913. 힘내고 허니너트바, 35g, 36개",
+      "published_at": "2026-10-26T20:31:37Z",
+      "price": "14800원",
+      "discount": "할인 72%",
+      "review": "리뷰 4.7 (139)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-498120923bf0502f81e2e70241cb8646/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/LaClAKRA",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-a98863561efa7aec9d3e073ab8d7184d:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "product_number": 912,

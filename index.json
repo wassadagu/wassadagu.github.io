@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-b41ca9b0d64b92d962b04e25447680fa:2:INSTAGRAM",
+      "mapping_status": "PENDING",
+      "product_number": 901,
+      "item_id": "2508658975",
+      "name": "901. 흑돼지 일품삼겹, 구이용, 1kg, 1팩",
+      "published_at": "2026-10-26T15:46:18Z",
+      "price": "9805원",
+      "discount": "할인 72%",
+      "review": "리뷰 4.2 (1606)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b41ca9b0d64b92d962b04e25447680fa/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Tfept0Fk"
+    },
+    {
       "media_id": "18101438468646349",
       "product_number": 900,
       "item_id": "222933941",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18047929340820159",
+      "product_number": 916,
+      "item_id": "2670409587",
+      "name": "916. 국내산 단단한 햇 양파, 중대, 5kg, 1박스",
+      "published_at": "2026-10-26T21:16:44Z",
+      "price": "7440원",
+      "discount": "할인 71%",
+      "review": "리뷰 4.6 (59)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0156ce1337ba14bab996e4a25df90c1b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/bwGwS2P4",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18117529910101123",
       "product_number": 915,
       "item_id": "376655265",

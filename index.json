@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17913292161517645",
+      "product_number": 909,
+      "item_id": "1620922751",
+      "name": "909. 전라도청년 남도장인 배추김치, 3kg, 1박스",
+      "published_at": "2026-10-26T18:16:49Z",
+      "price": "14580원",
+      "discount": "할인 49%",
+      "review": "리뷰 4.4 (92)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e7040071184aa8ca58e0d7235eee0520/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/TbuRoqVp",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18062821997797127",
       "product_number": 219,
       "item_id": "2651609355",

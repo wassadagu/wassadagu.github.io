@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18062821997797127",
+      "product_number": 219,
+      "item_id": "2651609355",
+      "name": "219. 메리플라워 여성 중목 양말 5종, FREE, 10켤레",
+      "published_at": "2026-10-26T18:01:50Z",
+      "price": "8340원",
+      "discount": "할인 58%",
+      "review": "리뷰 4.2 (178)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ad0aa527dafadea86c8cadabed42e227/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/765RKIQj",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18107488454195079",
       "product_number": 908,
       "item_id": "87788309",

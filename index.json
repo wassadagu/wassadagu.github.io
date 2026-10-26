@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17872263717643845",
+      "product_number": 911,
+      "item_id": "2273201099",
+      "name": "911. 동원 순백 보리차, 1.5L, 12개",
+      "published_at": "2026-10-26T20:01:24Z",
+      "price": "9520원",
+      "discount": "할인 51%",
+      "review": "리뷰 4.6 (268)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-911794a7d54aebf207bc02297033d1e6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/FJKZDuN",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-e7e78aece9c6429f650bb1e5e0f4d07c:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "product_number": 910,

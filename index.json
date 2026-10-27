@@ -3,6 +3,32 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18028462796881542",
+      "product_number": 918,
+      "item_id": "85614109",
+      "name": "918. 리벤스 소프트 클린 화장실 비데티슈, 60매, 10팩",
+      "published_at": "2026-10-27T00:46:39Z",
+      "price": "8990원",
+      "discount": "할인 74%",
+      "review": "리뷰 4.6 (476)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2fae8bafa60ba91a3087bfdd6333fea5/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/xU7RJ08A",
+      "mapping_status": "MAPPED"
+    },
+    {
+      "media_id": "18025607966867915",
+      "product_number": 917,
+      "item_id": "171931573",
+      "name": "917. 맛춤상회 소고기 모둠 200g 5팩 세트, 갈비살, 200g, 1개 + 토시살, 200g, 1개 + 살치살, 200g, 1개 + 부채살, 200g, 1개 + 우삼겹, 200g, 1개",
+      "published_at": "2026-10-26T23:46:31Z",
+      "price": "22700원",
+      "discount": "할인 57%",
+      "review": "리뷰 4.8 (47)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2040ac3527ecb195ee0ac3e66672878b/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/7llqsxld",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18047929340820159",
       "product_number": 916,
       "item_id": "2670409587",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18042322976654565",
+      "product_number": 938,
+      "item_id": "2672628597",
+      "name": "938. 백운산 광양 햇밤 왕대, 5kg, 1박스",
+      "published_at": "2026-10-27T20:31:52Z",
+      "price": "16680원",
+      "discount": "할인 41%",
+      "review": "리뷰 4.3 (69)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a907ae6971d3bbe5de27c7bc0d065168/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/9HfUrKOu",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18153281068529792",
       "product_number": 937,
       "item_id": "101753995",

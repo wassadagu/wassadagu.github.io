@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18118234901113249",
+      "product_number": 928,
+      "item_id": "2439287011",
+      "name": "928. 베니하루카 꿀고구마, 랜덤과, 10kg, 1박스",
+      "published_at": "2026-10-27T16:46:35Z",
+      "price": "14900원",
+      "discount": "할인 63%",
+      "review": "리뷰 4.1 (225)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-8b7008c3e5afbdf80a927baa8948c813/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/XHZqcbL5",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18084200390518934",
       "name": "927. 고기중독 양념 LA갈비, 1kg, 1팩",
       "price": "14900원",

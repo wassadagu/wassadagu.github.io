@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18082618700349594",
+      "product_number": 923,
+      "item_id": "2142647903",
+      "name": "923. 들녘 전통압착 더 진한 통참깨100퍼센트 참기름 + 통들깨100퍼센트 들기름, 350ml, 2병, 2세트",
+      "published_at": "2026-10-27T14:01:40Z",
+      "price": "22470원",
+      "discount": "할인 56%",
+      "review": "리뷰 4.5 (695)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-2284156c33f6d526c0c4b3da807acc18/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/tYOX8rqD",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-a193de0cdadea87042ccb7b3a6ea4df3:2:INSTAGRAM",
       "mapping_status": "PENDING",
       "product_number": 922,

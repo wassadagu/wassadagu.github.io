@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18092388479675435",
+      "product_number": 902,
+      "item_id": "2373707067",
+      "name": "902. 김설희 고기손만두, 420g, 2봉 + 김치손만두, 420g, 2봉",
+      "published_at": "2026-10-27T18:01:40Z",
+      "price": "13900원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.6 (11764)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4626b4f031f15c67a59acbbe0d1ae70e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/ZUhVFAhs",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18078678635755765",
       "product_number": 929,
       "item_id": "2317797099",

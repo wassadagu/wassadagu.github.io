@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18114859984848295",
+      "product_number": 171,
+      "item_id": "2287417559",
+      "name": "171. 맛생각 시골 전통 된장찌개, 600g, 5개",
+      "published_at": "2026-10-27T15:04:56Z",
+      "price": "16400원",
+      "discount": "할인 53%",
+      "review": "리뷰 4.7 (8670)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5083360c0d80378da6555e7e42f2fdf2/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jQVbKvn3",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18082618700349594",
       "product_number": 923,
       "item_id": "2142647903",

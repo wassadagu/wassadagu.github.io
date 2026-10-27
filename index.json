@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18578745811079596",
+      "product_number": 400,
+      "item_id": "2658864885",
+      "name": "400. 제주 극조생 햇 감귤, 대과, 5kg, 1박스",
+      "published_at": "2026-10-27T17:16:25Z",
+      "price": "4920원",
+      "discount": "할인 79%",
+      "review": "리뷰 4.2 (328)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b00eeee0488fb22f693da27ff945fe33/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/RINwToiB",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-b41ca9b0d64b92d962b04e25447680fa:2:INSTAGRAM",
       "mapping_status": "MAPPED",
       "product_number": 901,

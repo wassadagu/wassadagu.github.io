@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18140664388722415",
+      "product_number": 939,
+      "item_id": "2656271027",
+      "name": "939. 전라도 알타리 총각김치, 3kg, 1개",
+      "published_at": "2026-10-27T20:46:49Z",
+      "price": "12970원",
+      "discount": "할인 69%",
+      "review": "리뷰 4.3 (139)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-77d635bb4821d2f588747a4c615b03e6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/L3QYXqEj",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18042322976654565",
       "product_number": 938,
       "item_id": "2672628597",

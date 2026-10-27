@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17973384189156250",
+      "product_number": 944,
+      "item_id": "2559528561",
+      "name": "944. 코카콜라, 500ml, 24개",
+      "published_at": "2026-10-27T22:46:37Z",
+      "price": "18690원",
+      "discount": "할인 28%",
+      "review": "리뷰 4.7 (195)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-9f96e1aa6e3e3e54583e6683ac6f280f/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/TuYUT2Es",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18160164931511060",
       "product_number": 943,
       "item_id": "366449255",

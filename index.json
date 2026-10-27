@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17914985064280934",
+      "product_number": 925,
+      "item_id": "2656649649",
+      "name": "925. 투명 다용도 정리함, 88L, 2개",
+      "published_at": "2026-10-27T16:01:21Z",
+      "price": "7200원",
+      "discount": "할인 51%",
+      "review": "리뷰 4.2 (358)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-721ca04f6a262bcf2705396ef2ef16a6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/rctNbCu2",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18146498929580246",
       "product_number": 158,
       "item_id": "276607675",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18062988044629238",
+      "product_number": 941,
+      "item_id": "2636662857",
+      "name": "941. 셀라딕스 트러블 세범 리밸런싱 131 앰플, 30ml, 1개",
+      "published_at": "2026-10-27T21:16:30Z",
+      "price": "24450원",
+      "discount": "할인 51%",
+      "review": "리뷰 4.9 (29)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ab465477ed5a52b657d6e2b02d205b2d/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5HuGyjyn",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17924258196441867",
       "product_number": 940,
       "item_id": "2673105531",

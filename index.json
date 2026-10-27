@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18106588937198478",
+      "product_number": 935,
+      "item_id": "2654084505",
+      "name": "935. 촉촉 전기구이 몸통 오징어, 7-10마리, 180g, 1봉",
+      "published_at": "2026-10-27T19:46:27Z",
+      "price": "8580원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.7 (87)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-4fed8ec4157d7d00a8831ba2bfa50fd2/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/f8zIDTqt",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18158506372523543",
       "product_number": 934,
       "item_id": "275887375",

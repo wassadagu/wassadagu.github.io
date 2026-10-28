@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17917650738531263",
+      "product_number": 14,
+      "item_id": "2163303921",
+      "name": "14. 던킨 미니 글레이즈드, 15g, 10개, 3팩",
+      "published_at": "2026-10-28T20:01:20Z",
+      "price": "8720원",
+      "discount": "할인 69%",
+      "review": "리뷰 4.8 (5451)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-233a298972448472978b682f1846dcd8/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/rSBSicec",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18151618426542647",
       "product_number": 960,
       "item_id": "1254918963",

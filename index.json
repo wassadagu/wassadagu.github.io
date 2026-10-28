@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17877491184640424",
+      "product_number": 959,
+      "item_id": "1274153153",
+      "name": "959. 드리온 PD25W GaN PPS C타입 2포트 초고속 충전기, 버터옐로, CtoC 케이블 포함, 1개",
+      "published_at": "2026-10-28T19:16:51Z",
+      "price": "4810원",
+      "discount": "할인 32%",
+      "review": "리뷰 4.8 (324)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-c9eb99e8d134406d90315deb24b7f55f/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5ISJIeCy",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18181379767434794",
       "product_number": 958,
       "item_id": "301787883",

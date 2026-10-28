@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18061789067534131",
+      "product_number": 951,
+      "item_id": "90143353",
+      "name": "951. 풀무원 샘물 생수, 무라벨, 2L, 12개",
+      "published_at": "2026-10-28T15:31:24Z",
+      "price": "4960원",
+      "discount": "할인 53%",
+      "review": "리뷰 4.7 (1800)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b5b50a88cb6a9bac22e3bd7d8d40c277/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/DG4pTCfC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17989506798078901",
       "product_number": 950,
       "item_id": "2637400321",

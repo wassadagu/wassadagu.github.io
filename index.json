@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18119053094470219",
+      "name": "927. 고기중독 양념 LA갈비, 1kg, 1팩",
+      "price": "16990원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.5 (10289)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-eb582b8f2cceb4ed1274bc92c85ad337/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/HDd0MxVD",
+      "published_at": "2026-10-28T17:01:36Z",
+      "item_id": "148065759",
+      "mapping_status": "MAPPED",
+      "product_number": 927
+    },
+    {
       "media_id": "17912183706478375",
       "product_number": 954,
       "item_id": "258500571",

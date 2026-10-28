@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18058573154569911",
+      "product_number": 924,
+      "item_id": "2636092631",
+      "name": "924. 종합전병, 720g, 1개",
+      "published_at": "2026-10-28T18:31:48Z",
+      "price": "7970원",
+      "discount": "할인 73%",
+      "review": "리뷰 4.4 (1972)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d3963004a7608e9dda8b8086df937a3c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/D34lEhar",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-43c368c92aaf1cad65e222b0d1c37e0b:2:INSTAGRAM",
       "mapping_status": "MAPPED",
       "product_number": 458,

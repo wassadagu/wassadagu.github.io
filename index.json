@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18081697049536314",
+      "product_number": 953,
+      "item_id": "2601104611",
+      "name": "953. 이롬 황성주박사의 무가당 국내산 약콩 두유, 190ml, 16팩, 4박스",
+      "published_at": "2026-10-28T16:01:33Z",
+      "price": "25730원",
+      "discount": "할인 61%",
+      "review": "리뷰 4.7 (207)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-c0200e4109b6ad12933cf95e783221e7/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/NgZtn7HC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18227396668337726",
       "product_number": 952,
       "item_id": "96401127",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17989506798078901",
+      "product_number": 950,
+      "item_id": "2637400321",
+      "name": "950. 한우물 햄야채 볶음밥, 210g, 10개",
+      "published_at": "2026-10-28T15:16:30Z",
+      "price": "10160원",
+      "discount": "할인 60%",
+      "review": "리뷰 4.7 (762)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-edaa55cc282d3ce9e261f6978ffe953c/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/X5ZC66f8",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17971537989178058",
       "product_number": 454,
       "item_id": "2089518011",

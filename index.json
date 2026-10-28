@@ -3,6 +3,20 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-953c25c364d03994ac3c11290ff13e4c:2:INSTAGRAM",
+      "mapping_status": "MAPPED",
+      "item_id": "121150383",
+      "name": "961. 설기명가 꿀우유백설기, 45g, 20개",
+      "published_at": "2026-10-28T20:16:34Z",
+      "price": "6960원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.4 (612)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-1a15e23bf3da29ef6de803fdec4ed0f9/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/ddAcR2Qz",
+      "media_id": "18120787892472329",
+      "product_number": 961
+    },
+    {
       "media_id": "17917650738531263",
       "product_number": 14,
       "item_id": "2163303921",

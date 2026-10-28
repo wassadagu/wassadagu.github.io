@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18169793227493426",
+      "product_number": 962,
+      "item_id": "2653054157",
+      "name": "962. 미선이네 국내산 태양초 햇 고춧가루, 1kg, 1개",
+      "published_at": "2026-10-28T20:31:40Z",
+      "price": "15840원",
+      "discount": "할인 36%",
+      "review": "리뷰 4.5 (150)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-acfc4e0b0b22223f4fc8cf8dc1e68206/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/fvvldltC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-953c25c364d03994ac3c11290ff13e4c:2:INSTAGRAM",
       "mapping_status": "MAPPED",
       "item_id": "121150383",

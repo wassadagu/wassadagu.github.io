@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18450995563130339",
+      "product_number": 964,
+      "item_id": "141417433",
+      "name": "964. PN풍년 마레 피에노 프라이팬, 24cm, 1개",
+      "published_at": "2026-10-28T23:46:28Z",
+      "price": "10560원",
+      "discount": "할인 60%",
+      "review": "리뷰 4.5 (53)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-d95e6cfe24ec6bb8587dace036abd31f/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/1zjQbftc",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18169793227493426",
       "product_number": 962,
       "item_id": "2653054157",

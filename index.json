@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18140962561620563",
+      "product_number": 967,
+      "item_id": "366355809",
+      "name": "967. CJ프레시웨이 프리미엄 바나나, 2.6kg 내외, 2~3봉, 1박스",
+      "published_at": "2026-10-29T01:31:53Z",
+      "price": "7830원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.3 (1614)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5cfce7d570c1902841795cdda023d5cf/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/No9YyrRt",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18355584349221868",
       "product_number": 966,
       "item_id": "124956497",

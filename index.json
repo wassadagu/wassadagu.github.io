@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18118599233047432",
+      "product_number": 965,
+      "item_id": "39181651",
+      "name": "965. 홍씨랑 일반미 쌀떡국떡, 1kg, 3개",
+      "published_at": "2026-10-29T00:46:47Z",
+      "price": "8810원",
+      "discount": "할인 57%",
+      "review": "리뷰 4.4 (1666)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e619ae0b22807f97450728e3c9c059f8/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/DG7TgeP9",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18450995563130339",
       "product_number": 964,
       "item_id": "141417433",

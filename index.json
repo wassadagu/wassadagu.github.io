@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18355584349221868",
+      "product_number": 966,
+      "item_id": "124956497",
+      "name": "966. 서가팜 난각번호1번 무항생제 유정란, 40구, 1박스",
+      "published_at": "2026-10-29T01:16:46Z",
+      "price": "18230원",
+      "discount": "할인 42%",
+      "review": "리뷰 4.7 (1694)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-b3c082f1d81cf6d216e36402720968c4/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/ZiLAf9dw",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17965565976217832",
       "item_id": "2556085375",
       "name": "28. 샐리의법칙 순면이좋은날 생리대, 중형, 12매, 7팩",

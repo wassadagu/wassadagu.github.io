@@ -3,6 +3,20 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-992821dc342905f6a413646ccaadf58d:2:INSTAGRAM",
+      "mapping_status": "MAPPED",
+      "product_number": 300,
+      "item_id": "2240025855",
+      "name": "300. 애슐리 볶음밥 3종, 통새우 230g 2개 + 스크램블&게살 230g 2개 + 버터와규 230g 2개, 1세트",
+      "published_at": "2026-11-04T15:04:49Z",
+      "price": "10990원",
+      "discount": "할인 41%",
+      "review": "리뷰 4.7 (2860)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ea2f59b39948b24737c978bf1d8fb112/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/LK5LTuK9",
+      "media_id": "17995709963847752"
+    },
+    {
       "media_id": "18112033976158912",
       "product_number": 974,
       "item_id": "2652176543",

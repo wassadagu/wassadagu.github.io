@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18190729111416103",
+      "product_number": 574,
+      "item_id": "2373435937",
+      "name": "574. 대용량 삼겹살, 1kg, 3팩",
+      "published_at": "2026-11-06T15:03:55Z",
+      "price": "27454원",
+      "discount": "할인 48%",
+      "review": "리뷰 4.4 (1244)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-be10aa4a9061ae3eaef6b75f67419ea5/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/Duf4wKmt",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18117128684015957",
       "product_number": 567,
       "item_id": "2373435939",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18078894287442582",
+      "product_number": 583,
+      "item_id": "194214671",
+      "name": "583. 카라카라 오렌지, 중대과, 30~35과 내외, 7kg, 1박스",
+      "published_at": "2026-11-07T15:34:55Z",
+      "price": "16440원",
+      "discount": "할인 71%",
+      "review": "리뷰 4.6 (230)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e1e5a0c8d69f7a3a830af1c5d6ee09d5/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/9xRBQYxo",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18115011869156985",
       "product_number": 577,
       "item_id": "146030905",

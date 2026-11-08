@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18276253309306465",
+      "product_number": 668,
+      "item_id": "2559163799",
+      "name": "668. 일상미당 구운란, 대란, 30구, 2세트",
+      "published_at": "2026-11-08T15:33:50Z",
+      "price": "17260원",
+      "discount": "할인 48%",
+      "review": "리뷰 4.6 (633)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-68e322dd7d15b1c7c8483daf0154267e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/7jKiAPRv",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18133922005749454",
       "product_number": 713,
       "item_id": "513747509",

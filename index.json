@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18133922005749454",
+      "product_number": 713,
+      "item_id": "513747509",
+      "name": "713. 전통압착 통참깨 참기름, 350ml, 4개",
+      "published_at": "2026-11-08T15:19:58Z",
+      "price": "26300원",
+      "discount": "할인 72%",
+      "review": "리뷰 4.7 (3316)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5db05e3bdceaa4ca92dd38b2ad1d7dca/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/LFgNgyus",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18650628988006118",
       "product_number": 421,
       "item_id": "2482486143",

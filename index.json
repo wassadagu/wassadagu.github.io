@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18148299058586864",
+      "product_number": 652,
+      "item_id": "1181979367",
+      "name": "652. 고기중독 왕십리 칼집돼지 왕구이, 1kg, 2팩",
+      "published_at": "2026-11-11T15:04:44Z",
+      "price": "16900원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.5 (1850)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5102ac874e51eef14a447771b3f69b65/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vwehQCtx",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18392039284231501",
       "product_number": 381,
       "item_id": "627710385",

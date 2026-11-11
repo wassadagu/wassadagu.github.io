@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18352551478250450",
+      "product_number": 482,
+      "item_id": "2651864571",
+      "name": "482. 모나리자 에코 미용티슈, 300매, 12입, 1박스",
+      "published_at": "2026-11-11T15:34:42Z",
+      "price": "11900원",
+      "discount": "할인 74%",
+      "review": "리뷰 4.7 (7640)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-ebbda01d2bb8e9aa88093e4c6fe7ac84/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/RmDHNhj2",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18098789105452950",
       "product_number": 719,
       "item_id": "133472721",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18026822129876437",
+      "product_number": 701,
+      "item_id": "2642971485",
+      "name": "701. 고기중독 통항정살, 500g, 2개",
+      "published_at": "2026-11-12T15:04:37Z",
+      "price": "19900원",
+      "discount": "할인 50%",
+      "review": "리뷰 4.1 (613)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-df9556e1dfaa78d97a5c92b6964c9ea0/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/TKZWoJ6s",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18352551478250450",
       "product_number": 482,
       "item_id": "2651864571",

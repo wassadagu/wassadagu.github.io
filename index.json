@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18391487743234500",
+      "product_number": 976,
+      "item_id": "106741129",
+      "name": "976. 할리스 시그니처 아메리카노, 550ml, 24개",
+      "published_at": "2026-11-13T15:05:16Z",
+      "price": "23700원",
+      "discount": "할인 69%",
+      "review": "리뷰 4.9 (2803)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-91379db64a37f16d27ea2017cd922be6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/5QnLXqfi",
+      "mapping_status": "MAPPED"
+    },
+    {
       "publication_key": "draft-6a8289cfc436b92741183e7aa8c73d73:2:INSTAGRAM",
       "mapping_status": "MAPPED",
       "product_number": 624,

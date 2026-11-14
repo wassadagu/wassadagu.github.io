@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18077717957480767",
+      "product_number": 618,
+      "item_id": "13017669",
+      "name": "618. 베베앙 시그니처 물티슈 캡형, 100매, 10팩",
+      "published_at": "2026-11-14T15:19:10Z",
+      "price": "8290원",
+      "discount": "할인 62%",
+      "review": "리뷰 4.8 (16734)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-5a271554c4a2142b6bbf6bbdce2bb765/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/9Jl4HIJt",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18133869088883343",
       "product_number": 36,
       "item_id": "1179530071",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18136444441811875",
+      "product_number": 977,
+      "item_id": "2688242219",
+      "name": "977. 농협안심 탄탄대로쌀, 햅쌀, 상등급, 당일도정, 단일품종, 새청무, 10kg, 1개",
+      "published_at": "2026-11-14T15:34:18Z",
+      "price": "29290원",
+      "discount": "할인 47%",
+      "review": "리뷰 4.6 (8237)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-a60b12eda4ea62be2c6006c6df56e8ee/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/f3VHSQTf",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18077717957480767",
       "product_number": 618,
       "item_id": "13017669",

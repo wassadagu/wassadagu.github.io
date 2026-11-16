@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18099184607389125",
+      "product_number": 979,
+      "item_id": "156685683",
+      "name": "979. 할리스 시그니처 아메리카노 미니, 마일드, 0.9g, 100개입, 3개",
+      "published_at": "2026-11-16T15:04:35Z",
+      "price": "26900원",
+      "discount": "할인 66%",
+      "review": "리뷰 4.7 (573)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-1314416ce83ad39b0276437972f7b483/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/9I20kC8w",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "17917696167549531",
       "item_id": "161372869",
       "name": "978. 알참참 구운계란 대란, 30구, 1개",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18004532070044286",
+      "product_number": 260,
+      "item_id": "221021703",
+      "name": "260. 해담별 제주 흑돼지 왕구이, 1.2kg, 2개",
+      "published_at": "2026-11-16T15:19:50Z",
+      "price": "13900원",
+      "discount": "할인 46%",
+      "review": "리뷰 4.2 (4020)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e7ab159be63bbda9f6b6fab9b2b7dc95/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/fA3Yb9J4",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18099184607389125",
       "product_number": 979,
       "item_id": "156685683",

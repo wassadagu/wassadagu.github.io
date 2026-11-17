@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18124016108067762",
+      "product_number": 248,
+      "item_id": "2451254379",
+      "name": "248. 산들내음 산림방사 유정란, 난각번호 1번, 60구, 1박스",
+      "published_at": "2026-11-17T15:05:47Z",
+      "price": "22900원",
+      "discount": "할인 59%",
+      "review": "리뷰 4.4 (3014)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-3231ed52da409d6349a1accf81a0fad2/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/dsKxdzCm",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18139792669635910",
       "product_number": 862,
       "item_id": "240280587",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18179863768451706",
+      "product_number": 298,
+      "item_id": "1513747303",
+      "name": "298. 알제이 스틸 스키니 마스카라, 블랙, 2개",
+      "published_at": "2026-11-18T15:20:01Z",
+      "price": "9070원",
+      "discount": "할인 49%",
+      "review": "리뷰 4.1 (4904)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-7bf22e9628783d5ed71a5cd7ff12064e/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/3NPgt5D2",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18078656888773567",
       "product_number": 320,
       "item_id": "148001577",

@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18642080503027107",
+      "name": "980. 맛꾼 구운란, 대란, 30구, 1개",
+      "price": "8200원",
+      "discount": "할인 58%",
+      "review": "리뷰 4.6 (16044)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-83e6eeea69740e2ba4e61daf517813b6/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/zYXsUqQ8",
+      "published_at": "2026-11-18T15:34:25Z",
+      "item_id": "446375191",
+      "mapping_status": "MAPPED",
+      "product_number": 980
+    },
+    {
       "media_id": "18179863768451706",
       "product_number": 298,
       "item_id": "1513747303",

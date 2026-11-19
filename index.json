@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17960995563256366",
+      "product_number": 540,
+      "item_id": "2636760037",
+      "name": "540. 휴스톰 이오닉 플라즈마 드라이기, BLDC-SB, 베이지, 1개",
+      "published_at": "2026-11-19T15:18:52Z",
+      "price": "27010원",
+      "discount": "할인 72%",
+      "review": "리뷰 4.8 (566)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-e004670371d990ee6ec97fd8f6493256/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/l27qYmZt",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18167315554495340",
       "product_number": 797,
       "item_id": "1130712335",

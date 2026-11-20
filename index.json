@@ -3,6 +3,20 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "publication_key": "draft-c2eb96ef2ba9442bf8d54f297167a5b3:2:INSTAGRAM",
+      "mapping_status": "MAPPED",
+      "item_id": "2578376693",
+      "name": "302. 프로프룻 샤인머스켓, 특품, 2kg, 1박스",
+      "published_at": "2026-11-20T15:04:06Z",
+      "price": "9800원",
+      "discount": "할인 85%",
+      "review": "리뷰 4.3 (8231)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-8f8659bc1e3f33c88025cce670c55f07/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/jYETVxH",
+      "media_id": "18134368210894926",
+      "product_number": 302
+    },
+    {
       "media_id": "18116745568843581",
       "product_number": 405,
       "item_id": "2653091083",

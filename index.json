@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "18119758145586669",
+      "product_number": 946,
+      "item_id": "79975591",
+      "name": "946. 파파네정육점 통삼겹살, 수육용, 1kg, 2개",
+      "published_at": "2026-11-22T15:34:14Z",
+      "price": "15900원",
+      "discount": "할인 55%",
+      "review": "리뷰 4.3 (8358)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-8620fb9c7e364a1bbde7019aa2de79e1/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/vRURMw5C",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18030882107697539",
       "product_number": 981,
       "item_id": "171947565",

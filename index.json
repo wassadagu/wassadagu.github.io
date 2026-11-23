@@ -3,6 +3,19 @@
   "description": "가격과 상품 정보를 확인하고 마음에 드는 상품을 만나보세요.",
   "items": [
     {
+      "media_id": "17916653169283648",
+      "product_number": 982,
+      "item_id": "241796467",
+      "name": "982. 괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
+      "published_at": "2026-11-23T15:16:21Z",
+      "price": "3660원",
+      "discount": "할인 75%",
+      "review": "리뷰 4.6 (5128)",
+      "image_url": "https://raw.githubusercontent.com/wassadagu/wassadagu.github.io/main/product-cards/draft-0bd66fc3efee2e670bac1aa7be6cee89/card.jpg",
+      "sharelink_url": "https://toss.shopping/_m/dvInKsUC",
+      "mapping_status": "MAPPED"
+    },
+    {
       "media_id": "18126031600938848",
       "product_number": 891,
       "item_id": "122503521",
